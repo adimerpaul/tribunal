@@ -1,0 +1,46 @@
+[
+  {
+    "codigo": 1,
+    "descripcion": "No Especificado"
+  },
+  {
+    "codigo": 2,
+    "descripcion": "Auditiva"
+  },
+  {
+    "codigo": 3,
+    "descripcion": "Física"
+  },
+  {
+    "codigo": 4,
+    "descripcion": "Intelectual"
+  },
+  {
+    "codigo": 5,
+    "descripcion": "Mental o Psíquica"
+  },
+  {
+    "codigo": 6,
+    "descripcion": "Múltiple"
+  },
+  {
+    "codigo": 7,
+    "descripcion": "Visual"
+  },
+  {
+    "codigo": 8,
+    "descripcion": "Psicosocial"
+  },
+  {
+    "codigo": 9,
+    "descripcion": "Sensorial"
+  },
+  {
+    "codigo": 10,
+    "descripcion": "Motora"
+  },
+  {
+    "codigo": 11,
+    "descripcion": "Visceral"
+  }
+]

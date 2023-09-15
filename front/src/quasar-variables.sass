@@ -1,0 +1,48 @@
+$primary   : #255ea6
+$secondary : #26A69A
+$accent    : #9C27B0
+
+$dark      : #1D1D1D
+
+$positive  : #21BA45
+$negative  : #C10015
+$info      : #31CCEC
+$warning   : #F2C037
+
+
+.my-sticky-column-table
+  /* height or max-height is important */
+  min-height: 18.5rem
+
+  /* specifying max-width so the example can
+   highlight the sticky column on any browser window */
+  td:last-child
+    padding-right: 0 !important
+    // background: #fff
+
+  tr th
+    position: sticky
+    /* higher than z-index for td below */
+    z-index: 2
+    /* bg color is important; just specify one */
+    background: #fff
+
+  /* this will be the loading indicator */
+  thead tr:first-child th
+    /* height of all previous header rows */
+    top: 0
+    /* highest z-index */
+    z-index: 3
+  thead tr:last-child th
+    top: 0
+    z-index: 1
+  tr:last-child th:last-child
+    /* highest z-index */
+    z-index: 3
+
+  td:last-child
+    z-index: 1
+
+  td:last-child, th:last-child
+    position: sticky
+    right: 0

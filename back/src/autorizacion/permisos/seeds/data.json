@@ -1,0 +1,971 @@
+[
+  {
+    "rolCodigo": "ADMIN",
+    "permisos": [
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/auth/logout",
+        "accion": "POST"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/menus",
+        "accion": "POST"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/menus",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/menus/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/menus/:id",
+        "accion": "PATCH"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/menus/:id",
+        "accion": "DELETE"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/menus/findMenu/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/menus/findMenuRol/:id",
+        "accion": "GET"
+      },
+
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/permisos",
+        "accion": "POST"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/permisos",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/permisos/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/permisos/:id",
+        "accion": "PATCH"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/permisos/:id",
+        "accion": "DELETE"
+      },
+
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/roles",
+        "accion": "POST"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/roles",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/roles/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/roles/:id",
+        "accion": "PATCH"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/roles/:id",
+        "accion": "DELETE"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/roles/menu/:idRol",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/roles/menu",
+        "accion": "POST"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/roles/menu/:idRol/:idMenu",
+        "accion": "DELETE"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/roles/permisos/:idRol",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/roles/permisos",
+        "accion": "POST"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/roles/permisos/:idRol/:idPermiso",
+        "accion": "DELETE"
+      },
+
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/usuarios",
+        "accion": "POST"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/usuarios",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/usuarios/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/usuarios/:id/persona",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/usuarios/:id",
+        "accion": "PATCH"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/usuarios/:id",
+        "accion": "DELETE"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/usuarios/:id/reestablecer",
+        "accion": "PATCH"
+      },
+
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/usuarios/:id/rol",
+        "accion": "POST"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/usuarios/generarUsuario",
+        "accion": "POST"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/usuarios/rol/:idUsuario",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/usuarios/rol",
+        "accion": "POST"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/usuarios/rol/:idUsuario/:idRol",
+        "accion": "DELETE"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/entes",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/entes/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/segip/directo/:ci",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/paises",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-actos-procesales/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-actos-procesales",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/paises/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-actos-procesales",
+        "accion": "POST"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-actos-procesales/:id",
+        "accion": "DELETE"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/auth/refresh",
+        "accion": "POST"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/auth/logout",
+        "accion": "POST"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/departamentos",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/departamentos/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/provincias",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/provincias/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/municipios",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/municipios/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/ciudades",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/ciudades/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/categorias-actos-procesales/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/categorias-actos-procesales",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-estados-causas/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-estados-causas",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/salas-audiencias",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/salas-audiencias/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/salas-audiencias-oficinas",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/salas-audiencias-oficinas/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-actos-procesales-etapas-causas",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-actos-procesales-etapas-causas/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-actos-procesales-tipos-audiencias",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-actos-procesales-tipos-audiencias/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-audiencias",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-audiencias/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-audiencias",
+        "accion": "POST"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-audiencias/:id",
+        "accion": "PATCH"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-audiencias/:id",
+        "accion": "DELETE"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-etapas-causas",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-etapas-causas/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/genero",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/genero/:id",
+        "accion": "GET"
+      }
+    ]
+  },
+  {
+    "rolCodigo": "GESTOR",
+    "permisos": [
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/paises",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/paises/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/departamentos",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/departamentos/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/provincias",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/provincias/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/municipios",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/municipios/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/ciudades",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/ciudades/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-actos-procesales/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-actos-procesales",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/categorias-actos-procesales/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/categorias-actos-procesales",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-estados-causas/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-estados-causas",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/salas-audiencias",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/salas-audiencias/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/salas-audiencias-oficinas",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/salas-audiencias-oficinas/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-actos-procesales-etapas-causas",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-actos-procesales-etapas-causas/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-actos-procesales-tipos-audiencias",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-actos-procesales-tipos-audiencias/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-audiencias",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-audiencias/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-audiencias",
+        "accion": "POST"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-audiencias/:id",
+        "accion": "PATCH"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-audiencias/:id",
+        "accion": "DELETE"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-etapas-causas",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-etapas-causas/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/genero",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/genero/:id",
+        "accion": "GET"
+      }
+    ]
+  },
+  {
+    "rolCodigo": "VENT",
+    "permisos": [
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/paises",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/paises/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/departamentos",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/departamentos/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/provincias",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/provincias/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/municipios",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/municipios/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/ciudades",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/ciudades/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-actos-procesales/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-actos-procesales",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/categorias-actos-procesales/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/categorias-actos-procesales",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-estados-causas/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-estados-causas",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/salas-audiencias",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/salas-audiencias/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/salas-audiencias-oficinas",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/salas-audiencias-oficinas/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-actos-procesales-etapas-causas",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-actos-procesales-etapas-causas/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-actos-procesales-tipos-audiencias",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-actos-procesales-tipos-audiencias/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-audiencias",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-audiencias/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-audiencias",
+        "accion": "POST"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-audiencias/:id",
+        "accion": "PATCH"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-audiencias/:id",
+        "accion": "DELETE"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-etapas-causas",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-etapas-causas/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/genero",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/genero/:id",
+        "accion": "GET"
+      }
+    ]
+  },
+  {
+    "rolCodigo": "JUEZ",
+    "permisos": [
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-actos-procesales/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-actos-procesales",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/categorias-actos-procesales/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/categorias-actos-procesales",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-estados-causas/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-estados-causas",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/salas-audiencias",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/salas-audiencias/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/salas-audiencias-oficinas",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/salas-audiencias-oficinas/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-actos-procesales-etapas-causas",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-actos-procesales-etapas-causas/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-actos-procesales-tipos-audiencias",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-actos-procesales-tipos-audiencias/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-audiencias",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-audiencias/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-audiencias",
+        "accion": "POST"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-audiencias/:id",
+        "accion": "PATCH"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-audiencias/:id",
+        "accion": "DELETE"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-etapas-causas",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-etapas-causas/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/genero",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/genero/:id",
+        "accion": "GET"
+      }
+    ]
+  },
+  {
+    "rolCodigo": "SECRE",
+    "permisos": [
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-actos-procesales/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-actos-procesales",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/categorias-actos-procesales/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/categorias-actos-procesales",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-estados-causas/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-estados-causas",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/salas-audiencias",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/salas-audiencias/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/salas-audiencias-oficinas",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/salas-audiencias-oficinas/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-actos-procesales-etapas-causas",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-actos-procesales-etapas-causas/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-actos-procesales-tipos-audiencias",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-actos-procesales-tipos-audiencias/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-audiencias",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-audiencias/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-audiencias",
+        "accion": "POST"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-audiencias/:id",
+        "accion": "PATCH"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-audiencias/:id",
+        "accion": "DELETE"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-etapas-causas",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/tipos-etapas-causas/:id",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/genero",
+        "accion": "GET"
+      },
+      {
+        "tipo": "BACKEND",
+        "path": "/api/v1/genero/:id",
+        "accion": "GET"
+      }
+    ]
+  }
+]

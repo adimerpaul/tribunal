@@ -1,0 +1,302 @@
+### Task begin
+@hostname = http://localhost:4100/api/v1/
+
+### LOGIN
+POST {{hostname}}auth/login
+Content-Type: application/json
+
+{
+  "usuario": "root",
+  "clave": "root123"
+}
+### LOGIN
+
+<<<<<<< Updated upstream
+@accesToken_user1 = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjIsInVzdWFyaW8iOiJyb290IiwiaWF0IjoxNjk0MjA0MTA5LCJleHAiOjE2OTQyMDQxMjR9.CUxGuD-98a45VNIHnIxIwqLnygbvtvzcebSHS0XlIgc
+@accesToken_userr = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjIsInVzdWFyaW8iOiJyb290IiwiaWF0IjoxNjk0MjAzODI4LCJleHAiOjE2OTQyMDM4NTN9.kWuW6gCyq9bSPTIUGZzz1ZMkjodC83_h-wEU7PS34Hk
+=======
+@accesToken_user1 = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjIsInVzdWFyaW8iOiJyb290IiwiaWF0IjoxNjk0MTg3NTQwLCJleHAiOjE2OTQxODg0NDB9.uigXC6nzH6zC_ehm3dAoGaWcflVVA5YFNoCs4X1tmF4
+@accesToken_userr = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjIsInVzdWFyaW8iOiJyb290IiwiaWF0IjoxNjk0MTg1NDExLCJleHAiOjE2OTQxODYzMTF9.y9_3JILBVk_oax13uutDmODh5gxDOI4a3q01HTeaP04
+>>>>>>> Stashed changes
+
+### LISTA DE USUARIOS
+POST {{hostname}}usuarios/paginado
+Authorization: Bearer {{accesToken_user1}}
+Content-Type: application/json
+
+{
+  "page": 1,
+  "perPage": 10,
+  "search": [
+    {
+      "fields": [
+        "usuarios.usuario"
+      ],
+      "keyword": ""
+    }
+  ],
+  "sort": [
+    {
+      "field": "usuarios.estado",
+      "orderType": "ASC"
+    }
+  ]
+}
+###
+### LISTA DE USUARIOS
+
+# "u.usuario",
+# "persona.nombres"
+# "funcionario"
+# "usuarios.estado",
+# "usuarios.usuario",
+# "personas.nombres",
+# "personas.primerApellido",
+# "personas.segundoApellido",
+# "funcionarios.correoElectronico",
+# "tiposcargosfuncion.descripcion"
+
+
+### CREAR usuario y persona
+POST {{hostname}}usuarios
+# Authorization: Bearer {{accesToken_user1}}
+Content-Type: application/json
+
+{
+  "idTipoIdentidad": 4,
+  "tipoDocumentoIdentidad": "1",
+  "documentoIdentidad": "31416",
+  "complemento": "",
+  "idLugarExpedicion": "1",
+  "nombres": "Patricia",
+  "primerApellido": "Medina",
+  "segundoApellido": "Meneses",
+  "fechaNacimiento": "",
+  "idNacionalidad": 1,
+  "idMunicipioNacimiento": 1,
+  "sexo": 1,
+  "estaFallecido": false,
+  "esCiudadanoDigital": true
+}
+### CREAR usuario y persona
+
+### Obtener usuario por ID begin --> ver usuario y persona
+GET {{hostname}}usuarios/1
+Authorization: Bearer {{accesToken_user1}}
+Content-Type: application/json
+### Obtener usuario por ID end
+
+### Obtener persona por ID --> ver persona
+GET {{hostname}}usuarios/16/persona
+Authorization: Bearer {{accesToken_user1}}
+Content-Type: application/json
+### Obtener usuario por ID end
+
+### ELIMINAR usuario por ID
+DELETE {{hostname}}usuarios/16
+Authorization: Bearer {{accesToken_user1}}
+Content-Type: application/json
+### ELIMINAR usuario por ID
+
+### REESTABLECER CONTRASEÑA usuario por ID
+PATCH {{hostname}}usuarios/16/reestablecer
+Authorization: Bearer {{accesToken_user1}}
+Content-Type: application/json
+### REESTABLECER CONTRASEÑA usuario por ID
+
+### ASIGNACION DE ROL a usuario
+POST {{hostname}}usuarios/16/rol
+Content-Type: application/json
+Authorization: Bearer {{accesToken_user1}}
+
+{
+  "roles": [9, 10]
+}
+### ASIGNACION DE ROL a usuario
+
+
+### ACTUALIZAR usuarios con autorizacion 
+PATCH {{hostname}}usuarios/7
+Content-Type: application/json
+Authorization: Bearer {{accesToken_user1}}
+
+{
+  "clave": "hola123"
+}
+### opcionales los campos
+
+### Refresh Token
+POST {{hostname}}auth/refresh
+Content-Type: application/json
+Authorization: Bearer {{accesToken_userr}}
+### Refresh Token
+
+## LOGOUT
+POST {{hostname}}auth/logout
+Content-Type: application/json
+Authorization: Bearer {{accesToken_user1}}
+
+## LOGOUT
+
+
+
+# ### begin
+# @hostname = http://localhost:3000/api/
+
+# GET {{hostname}}productos
+# ###
+
+# ### Login SignIn
+# POST {{hostname}}auth
+# Content-Type: application/json 
+
+# {
+#     "usuario": "TECNICO",
+#     "contrasena": "MTIz"
+# }
+# ### Authentication end
+
+# ### listar productos 
+# @accesToken_user1 = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjMiLCJyb2xlcyI6WyJURUNOSUNPIl0sImlhdCI6MTY4OTM0MTUwMCwiZXhwIjoxNjg5MzQxODAwfQ.oyzxbsnap0uI1hTPuLnb505TWXJcpE7QAX84yhgyHzM
+
+# GET {{hostname}}productos
+# Content-Type: application/json
+# Authorization: Bearer {{accesToken_user1}}
+# ###
+
+# ### crea productos con autorizacion 
+# POST {{hostname}}productos
+# Content-Type: application/json
+# Authorization: Bearer {{accesToken_user1}}
+
+# {
+#   "nombre": "proc1"
+# }
+# ###
+
+# ### ACTUALIZAR  productos con autorizacion 
+# PATCH  {{hostname}}productos/1
+# Content-Type: application/json
+# Authorization: Bearer {{accesToken_user1}}
+
+# {
+#   "nombre": "666"
+# }
+# ###
+
+# ### eliminacion (inactivacion) logica de  productos con autorizacion 
+# PATCH  {{hostname}}productos/1/inactivacion
+# Content-Type: application/json
+# Authorization: Bearer {{accesToken_user1}}
+
+# {
+#   "estado": "INACTIVO"
+# }
+# ###
+
+# ### activacion logica de  productos con autorizacion 
+# PATCH  {{hostname}}productos/1/inactivacion
+# Content-Type: application/json
+# Authorization: Bearer {{accesToken_user1}}
+
+# {
+#   "estado": "ACTIVO"
+# }
+# ###
+
+
+
+
+
+
+# ### Task begin
+# @hostname = http://localhost:3000/
+
+# {{hostname}}tasks
+# ###
+
+# GET {{hostname}}tasks?status=DONE&search=ea
+# ###
+
+# POST {{hostname}}tasks
+# Content-Type: application/json
+
+# {
+#     "title": "Laragon",
+#     "description": "Crea entornos de desarrollo"
+# }
+# ###
+
+# GET {{hostname}}tasks/133
+# ###
+
+# DELETE {{hostname}}tasks/8
+# ###
+
+# PATCH {{hostname}}tasks/2/status
+# Content-Type: application/json
+
+# {
+#     "status": "done"
+# }
+# ### Task end
+
+# ### Authentication begin
+# POST {{hostname}}auth/signup
+# Content-Type: application/json 
+
+# {
+#     "username": "orlando3",
+#     "password": "Aa1234@#",
+#     "password_confirm": "Aa1234@#"
+# }
+
+# ###Login SignIn
+# POST {{hostname}}auth/signin
+# Content-Type: application/json 
+
+# {
+#     "username": "orlandovue",
+#     "password": "Aa1234@#"
+# }
+# ### Authentication end
+
+
+
+# ### crea tareas con autorizacion 
+# @accesToken_user1 = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im9ybGFuZG8iLCJpYXQiOjE2MzEyMzUwMDMsImV4cCI6MTYzMTMyMTQwM30.4hJia0GmTABTmvZw2Hqs1d4srELfGmfRFc21AMUl0ZY
+# @accesToken_user2 = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im9ybGFuZG8yIiwiaWF0IjoxNjMxMjM1MDIxLCJleHAiOjE2MzEzMjE0MjF9.eSk3c9XyOY5oz269mRfOhWvlQybKMQ1Zr0Nb2I6WPrc
+
+# POST {{hostname}}tasks
+# Content-Type: application/json
+# Authorization: Bearer {{accesToken_user2}}
+
+# {
+#     "title": "Usuario2",
+#     "description": "Esto es importante"
+# }
+# ###
+
+# GET {{hostname}}tasks
+# Content-Type: application/json
+# Authorization: Bearer {{accesToken_user2}}
+
+# ###
+# GET {{hostname}}tasks/1
+# Authorization: Bearer {{accesToken_user1}}
+# ###
+
+# ### actualizar
+# PATCH {{hostname}}tasks/6/status
+# Content-Type: application/json
+# Authorization: Bearer {{accesToken_user2}}
+
+# {
+#     "status": "done"
+# }
+# ###
+
+# ### eliminar tarea con token
+# DELETE {{hostname}}tasks/2
+# Authorization: Bearer {{accesToken_user1}}
+# ###

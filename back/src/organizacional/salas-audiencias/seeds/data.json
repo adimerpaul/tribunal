@@ -1,0 +1,1988 @@
+[
+    {
+        "descripcion": "Sala J.P. CIVIL Y COMERCIAL Y DE SENTENCIA PENAL 2 - MONTEAGUDO",
+        "ubicacion": "TDJ Chuquisaca, Provincia",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala J.P. CIVIL Y COMERCIAL Y DE SENTENCIA PENAL 1 - MONTEAGUDO",
+        "ubicacion": "TDJ Chuquisaca, Provincia",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 1°",
+        "ubicacion": "TDJ Chuquisaca, Piso 4",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 2°",
+        "ubicacion": "TDJ Chuquisaca, Piso 4",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Ejecución Penal 1°",
+        "ubicacion": "TDJ Chuquisaca, Piso 1",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Tribunal de Sentencia Penal 1°",
+        "ubicacion": "TDJ Chuquisaca, Piso 1",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Tribunal de Sentencia Penal 2°",
+        "ubicacion": "TDJ Chuquisaca, Piso 1",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Tribunal de Sentencia Penal 3°",
+        "ubicacion": "TDJ Chuquisaca, Piso 1",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 1°",
+        "ubicacion": "TDJ Chuquisaca, Piso 1",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 2°",
+        "ubicacion": "TDJ Chuquisaca, Piso 1",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 3°",
+        "ubicacion": "TDJ Chuquisaca, Piso 1",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 4°",
+        "ubicacion": "TDJ Chuquisaca, Piso 1",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 4°",
+        "ubicacion": "TDJ Chuquisaca, Piso 1",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Anticorrupción y de Materia Contra Violencia Hacia las Mujeres 1°",
+        "ubicacion": "TDJ Chuquisaca, Piso 1",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Anticorrupción y de Materia Contra Violencia Hacia las Mujeres 2°",
+        "ubicacion": "TDJ Chuquisaca, Piso 1",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 3°",
+        "ubicacion": "TDJ Chuquisaca, Piso 1",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 4°",
+        "ubicacion": "TDJ Chuquisaca",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Cámara Gesell",
+        "ubicacion": "TDJ Chuquisaca, Piso 4",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala de Audiencia de la Sala Penal 1º",
+        "ubicacion": "TDJ Chuquisaca, Piso 4",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala de Audiencia de la Sala Penal 2º",
+        "ubicacion": "TDJ Chuquisaca, Piso 4",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZ. PUB. MIX. CIV. FAM. NIÑEZ E INST. PENAL 1 SAN LUCAS",
+        "ubicacion": "TDJ Chuquisaca, Provincia",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZ. PUB. MIX. CIV. FAM. NIÑEZ TRAB. E INST. PENAL 1 YOTALA",
+        "ubicacion": "TDJ Chuquisaca, Provincia",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZ. PUB. MIX. CIVIL FAM. NIÑEZ E INST. PENAL 1 CULPINA",
+        "ubicacion": "TDJ Chuquisaca, Provincia",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZ. PUB. MIX. CIVIL FAM. NIÑEZ E INST. PENAL 1 SOPACHUY",
+        "ubicacion": "TDJ Chuquisaca, Provincia",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZ. PUB. MIX. CIVIL FAM. NIÑEZ E INST. PENAL 1 TOMINA",
+        "ubicacion": "TDJ Chuquisaca, Provincia",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZ. PUB. MIX. CIVIL FAM. NIÑEZ E INST. PENAL 1 VILLA SERRANO",
+        "ubicacion": "TDJ Chuquisaca, Provincia",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZ. PUB. MIX. CIVIL FAM. NIÑEZ E INST. PENAL 1 ZUDAÑEZ",
+        "ubicacion": "TDJ Chuquisaca, Provincia",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZ. PUB. MIX. CIVIL FAM. NIÑEZ E INSTR. PENAL 1 VILLA ABECIA",
+        "ubicacion": "TDJ Chuquisaca, Provincia",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZ. PUB. MIX. CIVIL FAM. NIÑEZ E INTRUC. PENAL 1 HUCARETA",
+        "ubicacion": "TDJ Chuquisaca, Provincia",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZ. PUB. MIX. CIVIL FAM. NIÑEZ E INTRUC. PENAL 1 MACHARETI",
+        "ubicacion": "TDJ Chuquisaca, Provincia",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZ. PUB. MIX. CIVIL FAM. NIÑEZ SENT. PENAL 1 Y TRABAJO INCAHUASI",
+        "ubicacion": "TDJ Chuquisaca, Provincia",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZ. PUB. MIX. CIVIL FAM. NIÑEZ TRAB. E INST. PENAL 1 AZURDUY",
+        "ubicacion": "TDJ Chuquisaca, Provincia",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZ. PUB. MIX. CIVIL FAM. NIÑEZ TRAB. E INST. PENAL 1 REDENCION PAMPA",
+        "ubicacion": "TDJ Chuquisaca, Provincia",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZ. PUB. MIX. CIVIL FAM. NIÑEZ TRAB. E INST. PENAL 1 TARVITA",
+        "ubicacion": "TDJ Chuquisaca, Provincia",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZ. PUB. MIX. CIVIL FAM. NIÑEZ TRABAJO E INST. PENAL 1 POROMA",
+        "ubicacion": "TDJ Chuquisaca, Provincia",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZ. PUB. MIX. CIVIL FAM. NIÑEZ TRABAJO Y SENT. PENAL 1 MUYUPAMPA",
+        "ubicacion": "TDJ Chuquisaca, Provincia",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZ PUB MIXTO CIV FAM NIÑEZ E INSTRUCCION PENAL 1 TARABUCO",
+        "ubicacion": "TDJ Chuquisaca, Provincia",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZ PUB MIXTO CIV FAM NIÑEZ PART TRAB Y SENTEN. PENAL 1 TARABUCO",
+        "ubicacion": "TDJ Chuquisaca, Provincia",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZ PUB MIXTO CIVIL NIÑEZ Y SENTENCIA PENAL 1 PADILLA",
+        "ubicacion": "TDJ Chuquisaca, Provincia",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZ PUB MIXTO FAMILIA E INSTRUCCION PENAL 1 PADILLA",
+        "ubicacion": "TDJ Chuquisaca, Provincia",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZ PUBLICO MIXTO CIVIL E INST. PENAL 1 CAMARGO",
+        "ubicacion": "TDJ Chuquisaca, Provincia",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO INSTRUCCIÓN PENAL 1 INCAHUASI",
+        "ubicacion": "TDJ Chuquisaca, Provincia",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO INSTRUCCIÓN PENAL 1 MONTEAGUDO",
+        "ubicacion": "TDJ Chuquisaca, Provincia",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO INSTRUCCIÓN PENAL 1 MUYUPAMPA",
+        "ubicacion": "TDJ Chuquisaca, Provincia",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala TRIB SENTENCIA 1 JUZ PART TRABAJO Y SENT. PENAL 1 CAMARGO",
+        "ubicacion": "TDJ Chuquisaca, Provincia",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala TRIB SENTENCIA 1 JUZ PART TRABAJO Y SENTENCIA PENAL MONTEAGUDO",
+        "ubicacion": "TDJ Chuquisaca, Provincia",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZ. PUB. MIX. CIV. FAM. TRABAJO Y SENT. PENAL 1 SAN LUCAS",
+        "ubicacion": "TDJ Chuquisaca, Provincia",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala TRIB SENTENCIA 1, JUZ. PARTIDO DE TRABAJO Y SEGURIDAD SOCIAL. PADILLA",
+        "ubicacion": "TDJ Chuquisaca, Provincia",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE INSTRUCCIÓN ANTICORRUPCIÓN Y CONTRA VIOLENCIA HACIA LA MUJER 1°",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE INSTRUCCIÓN ANTICORRUPCIÓN Y CONTRA LA VIOLENCIA HACIA LA MUJER 1° - EL ALTO",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE INSTRUCCIÓN ANTICORRUPCIÓN Y DE MATERIA CONTRA VIOLENCIA HACIA LA MUJER 2°",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE INTRUCCIÓN ANTICORRUPCION Y CONTRA LA VIOLENCIA HACIA LA MUJERES 2° - EL ALTO",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE INSTRUCCIÓN ANTICORRUPCIÓN Y DE MATERIA CONTRA VIOLENCIA HACIA LAS MUJERES 3°",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE INSTRUCCIÓN ANTICORRUPCIÓN Y DE MATERIA CONTRA VIOLENCIA HACIA LAS MUJERES 4°",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE SENTENCIA ANTICORRUPCION Y CONTRA LA VIOLENCIA HACIA LA MUJER 1°",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala TRIBUNAL DE SENTENCIA ANTICORRUPCIÓN 1° - CAPITAL",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala TRIBUNAL DE SENTENCIA ANTICORRUPCION Y CONTRA LA VIOLENCIA HACIA LA MUJER 1°",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE EJECUCIÓN PENAL 1° - CAPITAL",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE EJECUCIÓN PENAL 1° - EL ALTO",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE EJECUCIÓN PENAL2° - CAPITAL",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE EJECUCIÓN PENAL 3° - CAPITAL",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE EJECUCIÓN PENAL 4° - CAPITAL",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE INSTRUCCIÓN PENAL 1°",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE INSTRUCCIÓN PENAL 1° - EL ALTO",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE INSTRUCCIÓN PENAL 10°",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE INSTRUCCIÓN PENAL 11°",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE INSTRUCCIÓN PENAL 2°",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE INSTRUCCIÓN PENAL 2° - EL ALTO",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE INSTRUCCIÓN PENAL 3°",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE INSTRUCCIÓN PENAL 3° - EL ALTO",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE INSTRUCCIÓN PENAL 4°",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE INSTRUCCIÓN PENAL 4° - EL ALTO",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE INSTRUCCIÓN PENAL 5°",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE INSTRUCCIÓN PENAL 5° - EL ALTO",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE INSTRUCCIÓN PENAL 6°",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE INSTRUCCIÓN PENAL 6° - EL ALTO",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE INSTRUCCIÓN PENAL 7°",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE INSTRUCCIÓN PENAL 7° - EL ALTO",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE INSTRUCCIÓN PENAL 8°",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE INSTRUCCIÓN PENAL 9°",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE SENTENCIA PENAL 1°",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE SENTENCIA PENAL 1° - EL ALTO",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE SENTENCIA PENAL 2°",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE SENTENCIA PENAL 2° - EL ALTO",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE SENTENCIA PENAL 3°",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE SENTENCIA PENAL 3° - EL ALTO",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE SENTENCIA PENAL 4°",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE SENTENCIA PENAL 4° - EL ALTO",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE SENTENCIA PENAL 5°",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE SENTENCIA PENAL 6°",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE SENTENCIA PENAL 7°",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE SENTENCIA PENAL 8°",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE SENTENCIA PENAL 9°",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala TRIBUNAL DE SENTENCIA PENAL 1° - CAPITAL",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala TRIBUNAL DE SENTENCIA PENAL 1° - EL ALTO",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala TRIBUNAL DE SENTENCIA PENAL 10° - CAPITAL",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala TRIBUNAL DE SENTENCIA PENAL 2° - CAPITAL",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala TRIBUNAL DE SENTENCIA PENAL 2° - EL ALTO",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala TRIBUNAL DE SENTENCIA PENAL 3° - CAPITAL",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala TRIBUNAL DE SENTENCIA PENAL 3° - EL ALTO",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala TRIBUNAL DE SENTENCIA PENAL 4° - CAPITAL",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala TRIBUNAL DE SENTENCIA PENAL 4° - EL ALTO",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala TRIBUNAL DE SENTENCIA PENAL 5° - CAPITAL",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala TRIBUNAL DE SENTENCIA PENAL 5° - EL ALTO",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala TRIBUNAL DE SENTENCIA PENAL 6° - CAPITAL",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala TRIBUNAL DE SENTENCIA PENAL 7° - CAPITAL",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala TRIBUNAL DE SENTENCIA PENAL 8° - CAPITAL",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala TRIBUNAL DE SENTENCIA PENAL 9° - CAPITAL",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala SALA PENAL 1º",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala SALA PENAL 2º",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala SALA PENAL 3º",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala SALA PENAL 4º",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE SENTENCIA PENAL 1° - ZONA SUR",
+        "ubicacion": "TDJ La Paz - Zona Sur",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE INSTRUCCIÓN PENAL 1° - ZONA SUR",
+        "ubicacion": "TDJ La Paz - Zona Sur",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE INSTRUCCIÓN PENAL 2° - ZONA SUR",
+        "ubicacion": "TDJ La Paz - Zona Sur",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE INSTRUCCIÓN ANTICORRUPCIÓN Y CONTRA LA VIOLENCIA HACIA LA MUJERES 3° - EL ALTO",
+        "ubicacion": "TDJ La Paz - El Alto",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE INSTRUCCIÓN ANTICORRUPCIÓN Y CONTRA LA VIOLENCIA HACIA LA MUJER 4° - EL ALTO",
+        "ubicacion": "TDJ La Paz - El Alto",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE INSTRUCCIÓN ANTICORRUPCIÓN Y CONTRA LA VIOLENCIA HACIA LA MUJER 5° - CAPITAL",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE SENTENCIA PENAL 10°",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE SENTENCIA PENAL 11°",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE SENTENCIA PENAL 12°",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE SENTENCIA PENAL 13°",
+        "ubicacion": "TDJ La Paz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE SENTENCIA PENAL 5° - EL ALTO",
+        "ubicacion": "TDJ La Paz - El Alto",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE SENTENCIA PENAL 6° - EL ALTO",
+        "ubicacion": "TDJ La Paz - El Alto",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala JUZGADO DE SENTENCIA PENAL 7° - EL ALTO",
+        "ubicacion": "TDJ La Paz - El Alto",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 1º",
+        "ubicacion": "TDJ Cochabamba",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 2º",
+        "ubicacion": "TDJ Cochabamba",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 3º",
+        "ubicacion": "TDJ Cochabamba",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 4º",
+        "ubicacion": "TDJ Cochabamba",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 5º",
+        "ubicacion": "TDJ Cochabamba",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 6º",
+        "ubicacion": "TDJ Cochabamba",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 7º",
+        "ubicacion": "TDJ Cochabamba",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 8º",
+        "ubicacion": "TDJ Cochabamba",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 1º",
+        "ubicacion": "TDJ Cochabamba",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 2º",
+        "ubicacion": "TDJ Cochabamba",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 3º",
+        "ubicacion": "TDJ Cochabamba",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 4º",
+        "ubicacion": "TDJ Cochabamba",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Partido de S.C Liquidador y de Sentencia Penal 5º",
+        "ubicacion": "TDJ Cochabamba",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Tribunal de Sentencia 1º",
+        "ubicacion": "TDJ Cochabamba",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Tribunal de Sentencia 2º",
+        "ubicacion": "TDJ Cochabamba",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Tribunal de Sentencia 3º",
+        "ubicacion": "TDJ Cochabamba",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Tribunal de Sentencia 4º",
+        "ubicacion": "TDJ Cochabamba",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Tribunal de Sentencia 5º",
+        "ubicacion": "TDJ Cochabamba",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Tribunal de Sentencia 6º",
+        "ubicacion": "TDJ Cochabamba",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Tribunal de Sentencia 7º",
+        "ubicacion": "TDJ Cochabamba",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Ejecución Penal 1º",
+        "ubicacion": "TDJ Cochabamba",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Ejecución Penal 2º",
+        "ubicacion": "TDJ Cochabamba",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Ejecución Penal 3º",
+        "ubicacion": "TDJ Cochabamba",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Anticorrupción y Contra la Violencia Hacia la Mujer 1°",
+        "ubicacion": "TDJ Cochabamba",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Anticorrupción y Contra la Violencia Hacia la Mujer 2°",
+        "ubicacion": "TDJ Cochabamba",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 6º",
+        "ubicacion": "TDJ Cochabamba",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 7º",
+        "ubicacion": "TDJ Cochabamba",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 8º",
+        "ubicacion": "TDJ Cochabamba",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 9º",
+        "ubicacion": "TDJ Cochabamba",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 10º",
+        "ubicacion": "TDJ Cochabamba",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 11º",
+        "ubicacion": "TDJ Cochabamba",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal y Contra la Violencia Hacia La Mujer 1° - (EPI SUR)",
+        "ubicacion": "TDJ Cochabamba - EPI SUR",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado Público Mixto Civil y Comercial, de Familia e Instrucción Penal 2° - EPI SUR",
+        "ubicacion": "TDJ Cochabamba - EPI SUR",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal y Contra la Violencia Hacia La Mujer 1° - EPI NORTE",
+        "ubicacion": "TDJ Cochabamba - EPI NORTE",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instruccion Penal 1º - Sacaba",
+        "ubicacion": "Casa Judicial Sacaba",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instruccion Penal 2º - Sacaba",
+        "ubicacion": "Casa Judicial Sacaba",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Partido Mixto de Sentencia Penal y del Trabajo y Seguridad Social 1° - Sacaba",
+        "ubicacion": "Casa Judicial Sacaba",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Anticorrupción y Violencia Hacia la Mujer 3°",
+        "ubicacion": "TDJ Cochabamba",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 1° - Quillacollo",
+        "ubicacion": "TDJ Pando - Quillacollo",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 2° - Quillacollo",
+        "ubicacion": "TDJ Pando - Quillacollo",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 3° - Quillacollo",
+        "ubicacion": "TDJ Pando - Quillacollo",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Partido de Sentencia Penal y Liquidador 1° - Quillacollo",
+        "ubicacion": "TDJ Cochabamba - Quillacollo",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 2º - Quillacollo",
+        "ubicacion": "TDJ Cochabamba - Quillacollo",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 2º - Quillacollo",
+        "ubicacion": "TDJ Cochabamba - Quillacollo",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 4º - Quillacollo",
+        "ubicacion": "TDJ Cochabamba - Quillacollo",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Tribunal de Sentencia Penal 1º - Quillacollo",
+        "ubicacion": "TDJ Cochabamba - Quillacollo",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Tribunal de Sentencia Penal 2º - Quillacollo",
+        "ubicacion": "TDJ Cochabamba - Quillacollo",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 1º - Sacaba",
+        "ubicacion": "Casa Judicial Sacaba",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Tribunal de Sentencia Penal 1° - Sacaba",
+        "ubicacion": "Casa Judicial Sacaba",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Ejecución Penal 1°",
+        "ubicacion": "TDJ Oruro",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 1°",
+        "ubicacion": "TDJ Oruro",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 2°",
+        "ubicacion": "TDJ Oruro",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 3°",
+        "ubicacion": "TDJ Oruro",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 4°",
+        "ubicacion": "TDJ Oruro",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 5°",
+        "ubicacion": "TDJ Oruro",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 1°",
+        "ubicacion": "TDJ Oruro",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 2°",
+        "ubicacion": "TDJ Oruro",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala de Audiencia de la Sala Penal 1°",
+        "ubicacion": "TDJ Oruro",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala de Audiencia de la Sala Penal 2°",
+        "ubicacion": "TDJ Oruro",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala de Audiencia de la Sala Penal 3°",
+        "ubicacion": "TDJ Oruro",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Tribunal de Sentencia Penal 1°",
+        "ubicacion": "TDJ Oruro",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Tribunal de Sentencia Penal 2°",
+        "ubicacion": "TDJ Oruro",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Tribunal de Sentencia Penal 3°",
+        "ubicacion": "TDJ Oruro",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 6°",
+        "ubicacion": "TDJ Oruro",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 7°",
+        "ubicacion": "TDJ Oruro",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 3°",
+        "ubicacion": "TDJ Oruro",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 4°",
+        "ubicacion": "TDJ Oruro",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Ejecución Penal 1°",
+        "ubicacion": "TDJ Potosi, Primer Piso",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instruccion Penal 1°",
+        "ubicacion": "TDJ Potosi, Primer Piso",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instruccion Penal 2°",
+        "ubicacion": "TDJ Potosi, Primer Piso",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instruccion Penal 3°",
+        "ubicacion": "TDJ Potosi, Primer Piso",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instruccion Penal 4°",
+        "ubicacion": "TDJ Potosi, Primer Piso",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instruccion Penal 5°",
+        "ubicacion": "TDJ Potosi, Primer Piso",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 1°",
+        "ubicacion": "TDJ Potosi, Primer Piso",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 2°",
+        "ubicacion": "TDJ Potosi, Primer Piso",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala de Audiencia de la Sala Penal 1°",
+        "ubicacion": "TDJ Potosi, Primer Piso",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala de Audiencia de la Sala Penal 2°",
+        "ubicacion": "TDJ Potosi, Primer Piso",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala de Audiencia de la Sala Penal 3°",
+        "ubicacion": "TDJ Potosi, Primer Piso",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Tribunal de Sentencia Penal 1°",
+        "ubicacion": "TDJ Potosi, Primer Piso",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Tribunal de Sentencia Penal 2°",
+        "ubicacion": "TDJ Potosi, Primer Piso",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Tribunal de Sentencia Penal 3°",
+        "ubicacion": "TDJ Potosi, Primer Piso",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 3°",
+        "ubicacion": "TDJ Potosi, Primer Piso",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 4°",
+        "ubicacion": "TDJ Potosi, Primer Piso",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instruccion Penal 6°",
+        "ubicacion": "TDJ Potosi, Primer Piso",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Ejecución Penal 1°",
+        "ubicacion": "TDJ Tarija, Piso 1",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 1° de la Capital",
+        "ubicacion": "TDJ Tarija Piso 1",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 2° de la Capital",
+        "ubicacion": "TDJ Tarija Piso 1",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 3° de la Capital",
+        "ubicacion": "TDJ Tarija, Piso 1",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 4° de la Capital",
+        "ubicacion": "TDJ Tarija, Piso 1",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 1°",
+        "ubicacion": "TDJ Tarija, Piso 1",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 2°",
+        "ubicacion": "TDJ Tarija, Piso 1",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Tribunal de Sentencia 1°",
+        "ubicacion": "TDJ Tarija, Piso 1",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Tribunal de Sentencia 2°",
+        "ubicacion": "TDJ Tarija, Piso 1",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Tribunal de Sentencia 3",
+        "ubicacion": "TDJ Tarija Piso 1",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Tribunal de Sentencia Penal 1° - Yacuiba",
+        "ubicacion": "Casa de justicia de Yacuiba",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 1° de Yacuiba",
+        "ubicacion": "TDJ Tarija, Yacuiba Piso 1",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 2° - Yacuiba",
+        "ubicacion": "Casa de justicia de Yacuiba",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 3° - Yacuiba",
+        "ubicacion": "Casa de justicia de Yacuiba",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Conciliador Yacuiba",
+        "ubicacion": "TDJ Tarija, Yacuiba Piso 1",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado Público Civil 1° de Yacuiba",
+        "ubicacion": "TDJ Tarija, Yacuiba Piso 1",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado Público Civil 2° de Yacuiba",
+        "ubicacion": "TDJ Tarija, Yacuiba Piso 1",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado Público Civil 3° de Yacuiba",
+        "ubicacion": "TDJ Tarija, Yacuiba Piso 1",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Tribunal de Sentencia Penal 2° - Yacuiba",
+        "ubicacion": "Casa de justicia de Yacuiba",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 1° - Yacuiba",
+        "ubicacion": "Casa de justicia de Yacuiba",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala de Juzgado de Instruccion Anticorrupción y contra la Violencia hacia la Mujer 1°",
+        "ubicacion": "TDJ Tarija, Piso 1",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala de Juzgado de Instruccion Anticorrupción y contra la Violencia hacia la Mujer 2°",
+        "ubicacion": "TDJ Tarija, Piso 1",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 3°",
+        "ubicacion": "TDJ Tarija, Piso 1",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 4°",
+        "ubicacion": "TDJ Tarija, Piso 1",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 5°",
+        "ubicacion": "TDJ Tarija, Piso 1",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 6°",
+        "ubicacion": "TDJ Tarija, Piso 1",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 2° - Yacuiba",
+        "ubicacion": "Casa de justicia de Yacuiba",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Ejecución Penal 1°",
+        "ubicacion": "Palacio de Justicia de Santa Cruz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Ejecución Penal 2°",
+        "ubicacion": "Palacio de Justicia de Santa Cruz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Ejecución Penal 3°",
+        "ubicacion": "Palacio de Justicia de Santa Cruz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Ejecución Penal 4°",
+        "ubicacion": "Palacio de Justicia de Santa Cruz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal y Contra la Violencia Hacia la Mujer Nº 1°",
+        "ubicacion": "TDJ Santa Cruz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 10°",
+        "ubicacion": "Palacio de Justicia de Santa Cruz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 11° - Villa 1° Mayo",
+        "ubicacion": "TDJ Santa Cruz, Villa 1° Mayo",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 12°",
+        "ubicacion": "Palacio de Justicia de Santa Cruz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 13°",
+        "ubicacion": "Palacio de Justicia de Santa Cruz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 14° - Pampa de la Isla",
+        "ubicacion": "TDJ Santa Cruz - Pampa de la Isla",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 15° - Sur Palmasola",
+        "ubicacion": "TDJ Santa Cruz - Sur Palmasola",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 2°",
+        "ubicacion": "TDJ Santa Cruz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 3° - Zona Norte",
+        "ubicacion": "TDJ Santa Cruz - Zona Norte",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 4°",
+        "ubicacion": "Palacio de Justicia de Santa Cruz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 5° - Los Lotes - El Palmar",
+        "ubicacion": "TDJ Santa Cruz - Los Lotes - El Palmar",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 6°",
+        "ubicacion": "Palacio de Justicia de Santa Cruz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 7° - El Bajío - Radial 17 1/2",
+        "ubicacion": "TDJ Santa Cruz - El Bajío Radial 17 1/2",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 8°",
+        "ubicacion": "Palacio de Justicia de Santa Cruz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 9° - Zona Norte",
+        "ubicacion": "TDJ Santa Cruz - Zona Norte",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 1° - El Bajío - Radial 17 1/2",
+        "ubicacion": "TDJ Santa Cruz - El Bajío - Radial 17 1/2",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 2°",
+        "ubicacion": "Palacio de Justicia de Santa Cruz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 3°",
+        "ubicacion": "Palacio de Justicia de Santa Cruz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 4°",
+        "ubicacion": "Palacio de Justicia de Santa Cruz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 5°",
+        "ubicacion": "Palacio de Justicia de Santa Cruz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 6° - Villa 1° Mayo",
+        "ubicacion": "TDJ Santa Cruz, Villa 1° Mayo",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 7°",
+        "ubicacion": "Palacio de Justicia de Santa Cruz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 8° - Pampa de la Isla",
+        "ubicacion": "TDJ Santa Cruz - Pampa de la Isla",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 9° y Anticorrupción y Contra la Violencia Hacia la Mujer",
+        "ubicacion": "TDJ Santa Cruz - Palacio de Justicia",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Anticorrupción y contra la Violencia Hacia la Mujer 1º",
+        "ubicacion": "TDJ Santa Cruz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Tribunal de Sentencia Penal 1°",
+        "ubicacion": "Palacio de Justicia de Santa Cruz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Tribunal de Sentencia Penal 10°",
+        "ubicacion": "Palacio de Justicia de Santa Cruz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Tribunal de Sentencia Penal 11°",
+        "ubicacion": "Palacio de Justicia de Santa Cruz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Tribunal de Sentencia Penal 12°",
+        "ubicacion": "Palacio de Justicia de Santa Cruz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Tribunal de Sentencia Penal 2°",
+        "ubicacion": "Palacio de Justicia de Santa Cruz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Tribunal de Sentencia Penal 3°",
+        "ubicacion": "Palacio de Justicia de Santa Cruz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Tribunal de Sentencia Penal 4°",
+        "ubicacion": "Palacio de Justicia de Santa Cruz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Tribunal de Sentencia Penal 5°",
+        "ubicacion": "Palacio de Justicia de Santa Cruz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Tribunal de Sentencia Penal 6°",
+        "ubicacion": "Palacio de Justicia de Santa Cruz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Tribunal de Sentencia Penal 7°",
+        "ubicacion": "Palacio de Justicia de Santa Cruz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Tribunal de Sentencia Penal 8°",
+        "ubicacion": "Palacio de Justicia de Santa Cruz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Tribunal de Sentencia Penal 9°",
+        "ubicacion": "Palacio de Justicia de Santa Cruz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 9°",
+        "ubicacion": "TDJ Santa Cruz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 10°",
+        "ubicacion": "TDJ Santa Cruz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 11°",
+        "ubicacion": "TDJ Santa Cruz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 12°",
+        "ubicacion": "TDJ Santa Cruz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 13°",
+        "ubicacion": "TDJ Santa Cruz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 14°",
+        "ubicacion": "TDJ Santa Cruz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 15°",
+        "ubicacion": "TDJ Santa Cruz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Anticorrupción y Contra la Violencia Hacia la Mujer 2°",
+        "ubicacion": "TDJ Santa Cruz - Palacio de Justicia",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Anticorrupción y Contra La Violencia Hacia la Mujer 3°",
+        "ubicacion": "TDJ Santa Cruz - Palacio de Justicia",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Anticorrupción y Contra La Violencia Hacia la Mujer 4° - CAPITAL",
+        "ubicacion": "TDJ Santa Cruz - Palacio de Justicia",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado Público Mixto Civil y Comercial, de Familia e Instrucción Penal 1° - Plan 3000",
+        "ubicacion": "TDJ Santa Cruz - Plan 3000",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado Público Mixto Civil y Comercial, de Familia e Instrucción Penal 2° - Plan 3000",
+        "ubicacion": "TDJ Santa Cruz - Plan 3000",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado Público Mixto Civil y Comercial, de Familia e Instrucción Penal 3° - Plan 3000",
+        "ubicacion": "TDJ Santa Cruz - Plan 3000",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala de Audiencia de la Sala Penal 1°",
+        "ubicacion": "TDJ Santa Cruz - Palacio de Justicia",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala de Audiencia de la Sala Penal 2°",
+        "ubicacion": "TDJ Santa Cruz - Palacio de Justicia",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala de Audiencia de la Sala Penal 3°",
+        "ubicacion": "TDJ Santa Cruz - Palacio de Justicia",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 16° - Villa 1° Mayo",
+        "ubicacion": "TDJ Santa Cruz, Villa 1° Mayo",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Partido del Trabajo y Seguridad Social y de Sentencia Penal 1° - Montero",
+        "ubicacion": "Casa Judicial de Montero",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado Público de la Niñez y Adolescencia y de Sentencia Penal 1° - Montero",
+        "ubicacion": "Casa Judicial de Montero",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 1° - Montero",
+        "ubicacion": "Casa Judicial de Montero",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 2° - Montero",
+        "ubicacion": "Casa Judicial de Montero",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 1° - Montero",
+        "ubicacion": "Casa Judicial de Montero",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Tribunal de Sentencia Penal 1°- Montero",
+        "ubicacion": "Casa Judicial de Montero",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 3° - Montero",
+        "ubicacion": "Casa Judicial de Montero",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "SALA Juzgado de Instrucción Anticorrupción y Contra la Violencia hacia la Mujer 5°",
+        "ubicacion": "Palacio de Justicia de Santa Cruz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Anticorrupción y Contra la Violencia hacia la Mujer 6°",
+        "ubicacion": "Palacio de Justicia de Santa Cruz",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Ejecución Penal 1°",
+        "ubicacion": "TDJ Beni, Piso 1",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 1°",
+        "ubicacion": "TDJ Beni, Piso 1",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 2°",
+        "ubicacion": "TDJ Beni, Piso 1",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 3°",
+        "ubicacion": "TDJ Beni, Piso 1",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 4°",
+        "ubicacion": "TDJ Beni, Piso 1",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 1°",
+        "ubicacion": "TDJ Beni, Piso 1",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 2°",
+        "ubicacion": "TDJ Beni, Piso 1",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Anticorrupción y Violencia Hacia la Mujer 1°",
+        "ubicacion": "TDJ Beni, Piso 1",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Tribunal de Sentencia Penal 1°",
+        "ubicacion": "TDJ Beni, Piso 1",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Tribunal de Sentencia Penal 2°",
+        "ubicacion": "TDJ Beni, Piso 1",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 3°",
+        "ubicacion": "TDJ Beni, Piso 1",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Anticorrupción y Violencia Hacia la Mujer 2°",
+        "ubicacion": "TDJ Beni, Piso 1",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala de Audiencia de la Sala Penal 1°",
+        "ubicacion": "TDJ Beni, Piso 1",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala del Juzgado de Instrucción Penal 1° - Riberalta",
+        "ubicacion": "TDJ Casa de Justicia de Ribetalta",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala del Juzgado de Instrucción Penal 2° - Riberalta",
+        "ubicacion": "TDJ Casa de Justicia de Ribetalta",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala del Juzgado de Sentencia Penal 1° - Riberalta",
+        "ubicacion": "TDJ Casa de Justicia de Riberalta",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala del Tribunal de Sentencia Penal 1° - Riberalta",
+        "ubicacion": "TDJ Casa de Justicia de Ribetalta",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Ejecución Penal 1°",
+        "ubicacion": "TDJ Pando",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 1°",
+        "ubicacion": "TDJ Pando",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 2°",
+        "ubicacion": "TDJ Pando",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Instrucción Penal 3°",
+        "ubicacion": "TDJ Pando",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 1°",
+        "ubicacion": "TDJ Pando",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala de Audiencia de la Sala Penal",
+        "ubicacion": "TDJ Pando",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Tribunal de Sentencia Penal 1°",
+        "ubicacion": "TDJ Pando",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Tribunal de Sentencia Penal 2°",
+        "ubicacion": "TDJ Pando",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Juzgado de Sentencia Penal 2°",
+        "ubicacion": "TDJ Pando",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Compartida Juzgados de Instrucción Penal",
+        "ubicacion": "TDJ Pando",
+        "capacidad": "150",
+        "dimension": "4x3"
+    },
+    {
+        "descripcion": "Sala Compartida Juzgados de Sentencia Penal",
+        "ubicacion": "TDJ Pando",
+        "capacidad": "150",
+        "dimension": "4x3"
+    }
+]

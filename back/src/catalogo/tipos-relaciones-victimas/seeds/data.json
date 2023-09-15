@@ -1,0 +1,307 @@
+[
+  {
+    "codigo": 1,
+    "descripcion": "No Especificado",
+    "grado_parentesco": 5,
+    "tipo": "Familiar"
+  },
+  {
+    "codigo": 2,
+    "descripcion": "Cónyugue",
+    "grado_parentesco": 1,
+    "tipo": "Afinidad"
+  },
+  {
+    "codigo": 3,
+    "descripcion": "Padre",
+    "grado_parentesco": 1,
+    "tipo": "Consanguinidad"
+  },
+  {
+    "codigo": 4,
+    "descripcion": "Madre",
+    "grado_parentesco": 1,
+    "tipo": "Consanguinidad"
+  },
+  {
+    "codigo": 5,
+    "descripcion": "Hijo(a)",
+    "grado_parentesco": 1,
+    "tipo": "Consanguinidad"
+  },
+  {
+    "codigo": 6,
+    "descripcion": "Hermano(a)",
+    "grado_parentesco": 2,
+    "tipo": "Consanguinidad"
+  },
+  {
+    "codigo": 7,
+    "descripcion": "Abuelo (a)",
+    "grado_parentesco": 3,
+    "tipo": "Consanguinidad"
+  },
+  {
+    "codigo": 8,
+    "descripcion": "Primo(a)",
+    "grado_parentesco": 4,
+    "tipo": "Consanguinidad"
+  },
+  {
+    "codigo": 9,
+    "descripcion": "Sobrino(a)",
+    "grado_parentesco": 3,
+    "tipo": "Consanguinidad"
+  },
+  {
+    "codigo": 10,
+    "descripcion": "Compadre/Comadre",
+    "grado_parentesco": 5,
+    "tipo": "Familiar"
+  },
+  {
+    "codigo": 11,
+    "descripcion": "Comunicador(a) de Médico",
+    "grado_parentesco": 5,
+    "tipo": "Familiar"
+  },
+  {
+    "codigo": 12,
+    "descripcion": "Concubino",
+    "grado_parentesco": 1,
+    "tipo": "Afinidad"
+  },
+  {
+    "codigo": 13,
+    "descripcion": "Conocido(a)",
+    "grado_parentesco": 5,
+    "tipo": "Familiar"
+  },
+  {
+    "codigo": 14,
+    "descripcion": "Bisabuelo(a)",
+    "grado_parentesco": 3,
+    "tipo": "Consanguinidad"
+  },
+  {
+    "codigo": 15,
+    "descripcion": "Cuñado(a)",
+    "grado_parentesco": 2,
+    "tipo": "Afinidad"
+  },
+  {
+    "codigo": 16,
+    "descripcion": "Desconocido(a)",
+    "grado_parentesco": 5,
+    "tipo": "Familiar"
+  },
+  {
+    "codigo": 17,
+    "descripcion": "Enamorado(a)",
+    "grado_parentesco": 5,
+    "tipo": "Familiar"
+  },
+  {
+    "codigo": 18,
+    "descripcion": "Ex Concubino (a)",
+    "grado_parentesco": 1,
+    "tipo": "Afinidad"
+  },
+  {
+    "codigo": 19,
+    "descripcion": "Ex Cónyugue (a)",
+    "grado_parentesco": 5,
+    "tipo": "Familiar"
+  },
+  {
+    "codigo": 20,
+    "descripcion": "Ex Cuñado(a)",
+    "grado_parentesco": 5,
+    "tipo": "Familiar"
+  },
+  {
+    "codigo": 21,
+    "descripcion": "Ex Enamorado (a)",
+    "grado_parentesco": 5,
+    "tipo": "Familiar"
+  },
+  {
+    "codigo": 22,
+    "descripcion": "Ex Suegro(a)",
+    "grado_parentesco": 5,
+    "tipo": "Familiar"
+  },
+  {
+    "codigo": 23,
+    "descripcion": "Hermanastro(a)",
+    "grado_parentesco": 1,
+    "tipo": "Afinidad"
+  },
+  {
+    "codigo": 24,
+    "descripcion": "Autoridad Política",
+    "grado_parentesco": 5,
+    "tipo": "Familiar"
+  },
+  {
+    "codigo": 25,
+    "descripcion": "Autoridad de Centro Educativo",
+    "grado_parentesco": 5,
+    "tipo": "Familiar"
+  },
+  {
+    "codigo": 26,
+    "descripcion": "Jefe(a)/Autoridad Superior",
+    "grado_parentesco": 5,
+    "tipo": "Familiar"
+  },
+  {
+    "codigo": 27,
+    "descripcion": "Madrastra",
+    "grado_parentesco": 1,
+    "tipo": "Afinidad"
+  },
+  {
+    "codigo": 28,
+    "descripcion": "Amigo(a)",
+    "grado_parentesco": 5,
+    "tipo": "Familiar"
+  },
+  {
+    "codigo": 29,
+    "descripcion": "Madrina",
+    "grado_parentesco": 5,
+    "tipo": "Familiar"
+  },
+  {
+    "codigo": 30,
+    "descripcion": "Medio de Comunicación Social",
+    "grado_parentesco": 5,
+    "tipo": "Familiar"
+  },
+  {
+    "codigo": 31,
+    "descripcion": "Nieto(a)",
+    "grado_parentesco": 2,
+    "tipo": "Consanguinidad"
+  },
+  {
+    "codigo": 32,
+    "descripcion": "Nuera",
+    "grado_parentesco": 1,
+    "tipo": "Afinidad"
+  },
+  {
+    "codigo": 33,
+    "descripcion": "Padrastro",
+    "grado_parentesco": 1,
+    "tipo": "Afinidad"
+  },
+  {
+    "codigo": 34,
+    "descripcion": "Ahijado (a)",
+    "grado_parentesco": 5,
+    "tipo": "Familiar"
+  },
+  {
+    "codigo": 35,
+    "descripcion": "Padrino",
+    "grado_parentesco": 5,
+    "tipo": "Familiar"
+  },
+  {
+    "codigo": 36,
+    "descripcion": "Padres Políticos",
+    "grado_parentesco": 1,
+    "tipo": "Afinidad"
+  },
+  {
+    "codigo": 37,
+    "descripcion": "Personal de Salud",
+    "grado_parentesco": 5,
+    "tipo": "Familiar"
+  },
+  {
+    "codigo": 38,
+    "descripcion": "Personal Institucional",
+    "grado_parentesco": 5,
+    "tipo": "Familiar"
+  },
+  {
+    "codigo": 39,
+    "descripcion": "Bisnieto(a)",
+    "grado_parentesco": 5,
+    "tipo": "Familiar"
+  },
+  {
+    "codigo": 40,
+    "descripcion": "Primo(a) Hermano(a)",
+    "grado_parentesco": 5,
+    "tipo": "Familiar"
+  },
+  {
+    "codigo": 41,
+    "descripcion": "Profesor(a) o Docente",
+    "grado_parentesco": 5,
+    "tipo": "Familiar"
+  },
+  {
+    "codigo": 42,
+    "descripcion": "Representantes de Organización",
+    "grado_parentesco": 5,
+    "tipo": "Familiar"
+  },
+  {
+    "codigo": 43,
+    "descripcion": "Compañero(a) de Trabajo",
+    "grado_parentesco": 5,
+    "tipo": "Familiar"
+  },
+  {
+    "codigo": 44,
+    "descripcion": "Suegro(a)",
+    "grado_parentesco": 1,
+    "tipo": "Afinidad"
+  },
+  {
+    "codigo": 45,
+    "descripcion": "Tío(a)",
+    "grado_parentesco": 3,
+    "tipo": "Consanguinidad"
+  },
+  {
+    "codigo": 46,
+    "descripcion": "Tío(a) Abuelo(a)",
+    "grado_parentesco": 4,
+    "tipo": "Consanguinidad"
+  },
+  {
+    "codigo": 47,
+    "descripcion": "Vecino(a)",
+    "tipo": "Familiar"
+  },
+  {
+    "codigo": 48,
+    "descripcion": "Yerno",
+    "grado_parentesco": 1,
+    "tipo": "Afinidad"
+  },
+  {
+    "codigo": 49,
+    "descripcion": "Autoridad Indigena",
+    "grado_parentesco": 5,
+    "tipo": "Familiar"
+  },
+  {
+    "codigo": 50,
+    "descripcion": "Socio",
+    "grado_parentesco": 5,
+    "tipo": "Familiar"
+  },
+  {
+    "codigo": 51,
+    "descripcion": "Camarada",
+    "grado_parentesco": 5,
+    "tipo": "Familiar"
+  }
+]

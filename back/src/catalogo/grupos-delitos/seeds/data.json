@@ -1,0 +1,86 @@
+[
+    {
+     "id": 1,
+     "descripcion": "Acciones constitucionales"
+    },
+    {
+     "id": 2,
+     "descripcion": "Cambio de delitos"
+    },
+    {
+     "id": 3,
+     "descripcion": "Delitos contra el honor"
+    },
+    {
+     "id": 4,
+     "descripcion": "Delitos contra la actividad judicial"
+    },
+    {
+     "id": 5,
+     "descripcion": "Delitos contra la economía nacional, la industria y el comercio"
+    },
+    {
+     "id": 6,
+     "descripcion": "Delitos contra la familia"
+    },
+    {
+     "id": 7,
+     "descripcion": "Delitos contra la fé Pública"
+    },
+    {
+     "id": 8,
+     "descripcion": "Delitos contra la función publica"
+    },
+    {
+     "id": 9,
+     "descripcion": "Delitos contra la libertad"
+    },
+    {
+     "id": 10,
+     "descripcion": "Delitos contra la libertad sexual"
+    },
+    {
+     "id": 11,
+     "descripcion": "Delitos contra la propiedad"
+    },
+    {
+     "id": 12,
+     "descripcion": "Delitos contra la seguridad común"
+    },
+    {
+     "id": 13,
+     "descripcion": "Delitos contra la seguridad del estado"
+    },
+    {
+     "id": 14,
+     "descripcion": "Delitos contra la vida y la integridad corporal"
+    },
+    {
+     "id": 15,
+     "descripcion": "ley 004 de lucha contra la corrupción, enriquecimiento ilícito e investigación de fortunas de bolivia"
+    },
+    {
+     "id": 16,
+     "descripcion": "Ley 026 del regimen electoral"
+    },
+    {
+     "id": 17,
+     "descripcion": "Ley 1333 del medio ambiente"
+    },
+    {
+     "id": 18,
+     "descripcion": "Ley 2492 codigo tributario"
+    },
+    {
+     "id": 19,
+     "descripcion": "Ley del regimen de la coca y sustancias controladas"
+    },
+    {
+     "id": 20,
+     "descripcion": "Procedimiento inicial"
+    },
+    {
+     "id": 21,
+     "descripcion": "Responsabilidad civil"
+    }
+]

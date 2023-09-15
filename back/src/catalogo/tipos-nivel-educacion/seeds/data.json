@@ -1,0 +1,10 @@
+[
+  { "descripcion": "Analfabeto" },
+  { "descripcion": "Primaria" },
+  { "descripcion": "Secundaria" },
+  { "descripcion": "Técnico" },
+  { "descripcion": "Licenciatura" },
+  { "descripcion": "Diplomado" },
+  { "descripcion": "Maestría" },
+  { "descripcion": "Doctorado" }
+]

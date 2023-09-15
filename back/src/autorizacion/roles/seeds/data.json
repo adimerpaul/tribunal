@@ -1,0 +1,50 @@
+[
+  {
+    "nombre": "Root",
+    "descripcion": "Super Usuario",
+    "codigo": "ROOT",
+    "nivel": 1
+  },
+  {
+    "nombre": "Administrador",
+    "descripcion": "Administrador del Sistema",
+    "codigo": "ADMIN",
+    "nivel": 1
+  },
+  {
+    "nombre": "Gestor/OGP",
+    "descripcion": "Gestor/OGP",
+    "codigo": "GESTOR_OGP",
+    "nivel": 1
+  },
+  {
+    "nombre": "Juez",
+    "descripcion": "Juez",
+    "codigo": "JUEZ",
+    "nivel": 1
+  },
+  {
+    "nombre": "Secretario",
+    "descripcion": "Secretario",
+    "codigo": "SECRE",
+    "nivel": 1
+  },
+  {
+    "nombre": "Gestor",
+    "descripcion": "Gestor",
+    "codigo": "GESTOR",
+    "nivel": 1
+  },
+  {
+    "nombre": "Ventanilla",
+    "descripcion": "Ventanilla",
+    "codigo": "VENT",
+    "nivel": 1
+  },
+  {
+    "nombre": "Secretario de Sala",
+    "descripcion": "Secretario de Sala",
+    "codigo": "SECRE_SALA",
+    "nivel": 1
+  }
+]

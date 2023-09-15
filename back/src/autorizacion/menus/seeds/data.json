@@ -1,0 +1,58 @@
+[
+  {
+    "rolCodigo": "ADMIN",
+    "menus": [
+      {
+        "nombre" : "Inicio",
+        "descripcion" : "Pantalla principal",
+        "icono" : "mdi-bank",
+        "url" : "/",
+        "ordenDespliegue" : 1,
+        "idPadre": 0,
+        "subMenus": []
+      },
+      {
+        "nombre" : "Administración",
+        "descripcion" : "Administración y soporte técnico",
+        "icono" : "mdi-account-lock",
+        "url" : "/not-found",
+        "ordenDespliegue" : 3,
+        "idPadre": 0,
+        "subMenus": [
+          {
+            "nombre" : "Usuarios",
+            "descripcion" : "Gestión de usuarios",
+            "icono" : "mdi-account-multiple",
+            "url" : "/administracion/usuarios",
+            "ordenDespliegue" : 1,
+            "idPadre": 0
+          },
+          {
+            "nombre" : "Menús",
+            "descripcion" : "Menús",
+            "icono" : "mdi-format-list-text",
+            "url" : "/administracion/menus",
+            "ordenDespliegue" : 2,
+            "idPadre": 0
+          },
+          {
+            "nombre" : "Permisos",
+            "descripcion" : "Gestion de Permisos",
+            "icono" : "mdi-credit-card-lock",
+            "url" : "/administracion/permisos",
+            "ordenDespliegue" : 3,
+            "idPadre": 0
+          },
+          {
+            "nombre" : "Roles",
+            "descripcion" : "Gestión de roles",
+            "icono" : "mdi-account-hard-hat",
+            "url" : "/administracion/roles",
+            "ordenDespliegue" : 2,
+            "idPadre": 0
+          }
+        ]
+      }
+    ]
+  }
+]

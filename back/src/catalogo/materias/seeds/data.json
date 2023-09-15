@@ -1,0 +1,74 @@
+[
+  {
+    "codigo": 1,
+    "descripcion": "Sin Materia"
+  },
+  {
+    "codigo": 2,
+    "descripcion": "Penal"
+  },
+  {
+    "codigo": 3,
+    "descripcion": "Civil"
+  },
+  {
+    "codigo": 4,
+    "descripcion": "Comercial"
+  },
+  {
+    "codigo": 5,
+    "descripcion": "Familia"
+  },
+  {
+    "codigo": 6,
+    "descripcion": "Niñez y Adolescencia"
+  },
+  {
+    "codigo": 7,
+    "descripcion": "Trabajo"
+  },
+  {
+    "codigo": 8,
+    "descripcion": "Seguridad Social"
+  },
+  {
+    "codigo": 9,
+    "descripcion": "Administrativa"
+  },
+  {
+    "codigo": 10,
+    "descripcion": "Contenciosa"
+  },
+  {
+    "codigo": 11,
+    "descripcion": "Aduanera"
+  },
+  {
+    "codigo": 12,
+    "descripcion": "Internacional"
+  },
+  {
+    "codigo": 13,
+    "descripcion": "Constitucional"
+  },
+  {
+    "codigo": 14,
+    "descripcion": "Plena"
+  },
+  {
+    "codigo": 15,
+    "descripcion": "Compulsa"
+  },
+  {
+    "codigo": 16,
+    "descripcion": "Fiscal y tributaria"
+  },
+  {
+    "codigo": 17,
+    "descripcion": "Agroambiental"
+  },
+  {
+    "codigo": 18,
+    "descripcion": "Conciliacion"
+  }
+]

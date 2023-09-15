@@ -1,0 +1,1727 @@
+[
+  {
+    "idProvincia": 1,
+    "codice": 10101,
+    "descripcion": "Sucre"
+  },
+  {
+    "idProvincia": 1,
+    "codice": 10102,
+    "descripcion": "Yotala"
+  },
+  {
+    "idProvincia": 1,
+    "codice": 10103,
+    "descripcion": "Poroma"
+  },
+  {
+    "idProvincia": 2,
+    "codice": 10201,
+    "descripcion": "Villa Azurduy"
+  },
+  {
+    "idProvincia": 2,
+    "codice": 10202,
+    "descripcion": "Tarvita (Villa Arias)"
+  },
+  {
+    "idProvincia": 3,
+    "codice": 10301,
+    "descripcion": "Zudáñez"
+  },
+  {
+    "idProvincia": 3,
+    "codice": 10302,
+    "descripcion": "Presto"
+  },
+  {
+    "idProvincia": 3,
+    "codice": 10303,
+    "descripcion": "Villa Mojocoya"
+  },
+  {
+    "idProvincia": 3,
+    "codice": "010303-2",
+    "descripcion": "Redención Pampa"
+  },
+  {
+    "idProvincia": 3,
+    "codice": 10304,
+    "descripcion": "Icla (R.Mujia)"
+  },
+  {
+    "idProvincia": 4,
+    "codice": 10401,
+    "descripcion": "Padilla"
+  },
+  {
+    "idProvincia": 4,
+    "codice": 10402,
+    "descripcion": "Tomina"
+  },
+  {
+    "idProvincia": 4,
+    "codice": 10403,
+    "descripcion": "Sopachuy"
+  },
+  {
+    "idProvincia": 4,
+    "codice": 10404,
+    "descripcion": "Villa Alcalá"
+  },
+  {
+    "idProvincia": 4,
+    "codice": 10405,
+    "descripcion": "El Villar"
+  },
+  {
+    "idProvincia": 5,
+    "codice": 10501,
+    "descripcion": "Monteagudo"
+  },
+  {
+    "idProvincia": 5,
+    "codice": 10502,
+    "descripcion": "San Pablo De Huacareta"
+  },
+  {
+    "idProvincia": 6,
+    "codice": 10601,
+    "descripcion": "Tarabuco"
+  },
+  {
+    "idProvincia": 6,
+    "codice": 10602,
+    "descripcion": "Yamparáez"
+  },
+  {
+    "idProvincia": 7,
+    "codice": 10701,
+    "descripcion": "Camargo"
+  },
+  {
+    "idProvincia": 7,
+    "codice": 10702,
+    "descripcion": "San Lucas"
+  },
+  {
+    "idProvincia": 7,
+    "codice": 10703,
+    "descripcion": "Incahuasi"
+  },
+  {
+    "idProvincia": 7,
+    "codice": 10704,
+    "descripcion": "Villa Charcas"
+  },
+  {
+    "idProvincia": 8,
+    "codice": 10801,
+    "descripcion": "Villa Serrano"
+  },
+  {
+    "idProvincia": 9,
+    "codice": 10901,
+    "descripcion": "Villa Abecia (Camatarqui)"
+  },
+  {
+    "idProvincia": 9,
+    "codice": 10902,
+    "descripcion": "Culpina"
+  },
+  {
+    "idProvincia": 9,
+    "codice": 10903,
+    "descripcion": "Las Carreras"
+  },
+  {
+    "idProvincia": 10,
+    "codice": 11001,
+    "descripcion": "Villa Vaca Guzman (Muyupampa)"
+  },
+  {
+    "idProvincia": 10,
+    "codice": 11002,
+    "descripcion": "Huacaya"
+  },
+  {
+    "idProvincia": 10,
+    "codice": 11003,
+    "descripcion": "Macharetí"
+  },
+  {
+    "idProvincia": 11,
+    "codice": 20101,
+    "descripcion": "Nuestra Señora De La Paz"
+  },
+  {
+    "idProvincia": 11,
+    "codice": 20102,
+    "descripcion": "Palca"
+  },
+  {
+    "idProvincia": 11,
+    "codice": 20103,
+    "descripcion": "Mecapaca"
+  },
+  {
+    "idProvincia": 11,
+    "codice": 20104,
+    "descripcion": "Achocalla"
+  },
+  {
+    "idProvincia": 11,
+    "codice": 20105,
+    "descripcion": "El Alto"
+  },
+  {
+    "idProvincia": 12,
+    "codice": 20201,
+    "descripcion": "Achacachi"
+  },
+  {
+    "idProvincia": 12,
+    "codice": 20202,
+    "descripcion": "Ancoraimes"
+  },
+  {
+    "idProvincia": 12,
+    "codice": 20203,
+    "descripcion": "Huarina"
+  },
+  {
+    "idProvincia": 12,
+    "codice": 20204,
+    "descripcion": "Santiago De Huata"
+  },
+  {
+    "idProvincia": 12,
+    "codice": 20205,
+    "descripcion": "Huatajata"
+  },
+  {
+    "idProvincia": 12,
+    "codice": 20206,
+    "descripcion": "Chua Cocani"
+  },
+  {
+    "idProvincia": 13,
+    "codice": 20301,
+    "descripcion": "Coro Coro"
+  },
+  {
+    "idProvincia": 13,
+    "codice": 20302,
+    "descripcion": "Caquiaviri"
+  },
+  {
+    "idProvincia": 13,
+    "codice": 20303,
+    "descripcion": "Calacoto"
+  },
+  {
+    "idProvincia": 13,
+    "codice": 20304,
+    "descripcion": "Comanche"
+  },
+  {
+    "idProvincia": 13,
+    "codice": 20305,
+    "descripcion": "Charaña"
+  },
+  {
+    "idProvincia": 13,
+    "codice": 20306,
+    "descripcion": "Waldo Ballivian"
+  },
+  {
+    "idProvincia": 13,
+    "codice": 20307,
+    "descripcion": "Nazacara De Pacajes"
+  },
+  {
+    "idProvincia": 13,
+    "codice": 20308,
+    "descripcion": "Santiago De Callapa"
+  },
+  {
+    "idProvincia": 14,
+    "codice": 20401,
+    "descripcion": "Puerto Acosta"
+  },
+  {
+    "idProvincia": 14,
+    "codice": 20402,
+    "descripcion": "Mocomoco"
+  },
+  {
+    "idProvincia": 14,
+    "codice": 20403,
+    "descripcion": "Puerto Carabuco"
+  },
+  {
+    "idProvincia": 14,
+    "codice": 20404,
+    "descripcion": "Escoma"
+  },
+  {
+    "idProvincia": 14,
+    "codice": 20405,
+    "descripcion": "Humanata"
+  },
+  {
+    "idProvincia": 15,
+    "codice": 20501,
+    "descripcion": "Chuma"
+  },
+  {
+    "idProvincia": 15,
+    "codice": 20502,
+    "descripcion": "Ayata"
+  },
+  {
+    "idProvincia": 15,
+    "codice": 20503,
+    "descripcion": "Aucapata"
+  },
+  {
+    "idProvincia": 16,
+    "codice": 20601,
+    "descripcion": "Sorata"
+  },
+  {
+    "idProvincia": 16,
+    "codice": 20602,
+    "descripcion": "Guanay"
+  },
+  {
+    "idProvincia": 16,
+    "codice": 20603,
+    "descripcion": "Tacacoma"
+  },
+  {
+    "idProvincia": 16,
+    "codice": 20604,
+    "descripcion": "Quiabaya"
+  },
+  {
+    "idProvincia": 16,
+    "codice": 20605,
+    "descripcion": "Combaya"
+  },
+  {
+    "idProvincia": 16,
+    "codice": 20606,
+    "descripcion": "Tipuani"
+  },
+  {
+    "idProvincia": 16,
+    "codice": 20607,
+    "descripcion": "Mapiri"
+  },
+  {
+    "idProvincia": 16,
+    "codice": 20608,
+    "descripcion": "Teoponte"
+  },
+  {
+    "idProvincia": 17,
+    "codice": 20701,
+    "descripcion": "Apolo"
+  },
+  {
+    "idProvincia": 17,
+    "codice": 20702,
+    "descripcion": "Pelechuco"
+  },
+  {
+    "idProvincia": 18,
+    "codice": 20801,
+    "descripcion": "Viacha"
+  },
+  {
+    "idProvincia": 18,
+    "codice": 20802,
+    "descripcion": "Guaqui"
+  },
+  {
+    "idProvincia": 18,
+    "codice": 20803,
+    "descripcion": "Tiahuanacu"
+  },
+  {
+    "idProvincia": 18,
+    "codice": 20804,
+    "descripcion": "Desaguadero"
+  },
+  {
+    "idProvincia": 18,
+    "codice": 20805,
+    "descripcion": "San Andrés De Machaca"
+  },
+  {
+    "idProvincia": 18,
+    "codice": 20806,
+    "descripcion": "Jesús De Machaca"
+  },
+  {
+    "idProvincia": 18,
+    "codice": 20807,
+    "descripcion": "Taraco"
+  },
+  {
+    "idProvincia": 19,
+    "codice": 20901,
+    "descripcion": "Luribay"
+  },
+  {
+    "idProvincia": 19,
+    "codice": 20902,
+    "descripcion": "Sapahaqui"
+  },
+  {
+    "idProvincia": 19,
+    "codice": 20903,
+    "descripcion": "Yaco"
+  },
+  {
+    "idProvincia": 19,
+    "codice": 20904,
+    "descripcion": "Malla"
+  },
+  {
+    "idProvincia": 19,
+    "codice": 20905,
+    "descripcion": "Cairoma"
+  },
+  {
+    "idProvincia": 20,
+    "codice": 21001,
+    "descripcion": "Inquisivi"
+  },
+  {
+    "idProvincia": 20,
+    "codice": 21002,
+    "descripcion": "Quime"
+  },
+  {
+    "idProvincia": 20,
+    "codice": 21003,
+    "descripcion": "Cajuata"
+  },
+  {
+    "idProvincia": 20,
+    "codice": 21004,
+    "descripcion": "Colquiri"
+  },
+  {
+    "idProvincia": 20,
+    "codice": 21005,
+    "descripcion": "Ichoca"
+  },
+  {
+    "idProvincia": 20,
+    "codice": 21006,
+    "descripcion": "Licoma (Villa Libertad)"
+  },
+  {
+    "idProvincia": 21,
+    "codice": 21101,
+    "descripcion": "Chulumani"
+  },
+  {
+    "idProvincia": 21,
+    "codice": 21102,
+    "descripcion": "Irupana (Villa De Lanza)"
+  },
+  {
+    "idProvincia": 21,
+    "codice": 21103,
+    "descripcion": "Yanacachi"
+  },
+  {
+    "idProvincia": 21,
+    "codice": 21104,
+    "descripcion": "Palos Blancos"
+  },
+  {
+    "idProvincia": 21,
+    "codice": 21105,
+    "descripcion": "La Asunta"
+  },
+  {
+    "idProvincia": 22,
+    "codice": 21201,
+    "descripcion": "Pucarani"
+  },
+  {
+    "idProvincia": 22,
+    "codice": 21202,
+    "descripcion": "Laja"
+  },
+  {
+    "idProvincia": 22,
+    "codice": 21203,
+    "descripcion": "Batallas"
+  },
+  {
+    "idProvincia": 22,
+    "codice": 21204,
+    "descripcion": "Puerto Pérez"
+  },
+  {
+    "idProvincia": 23,
+    "codice": 21301,
+    "descripcion": "Sica Sica (Villa Aroma)"
+  },
+  {
+    "idProvincia": 23,
+    "codice": 21302,
+    "descripcion": "Umala"
+  },
+  {
+    "idProvincia": 23,
+    "codice": 21303,
+    "descripcion": "Ayo Ayo"
+  },
+  {
+    "idProvincia": 23,
+    "codice": 21304,
+    "descripcion": "Calamarca"
+  },
+  {
+    "idProvincia": 23,
+    "codice": 21305,
+    "descripcion": "Patacamaya"
+  },
+  {
+    "idProvincia": 23,
+    "codice": 21306,
+    "descripcion": "Colquencha"
+  },
+  {
+    "idProvincia": 23,
+    "codice": 21307,
+    "descripcion": "Collana"
+  },
+  {
+    "idProvincia": 24,
+    "codice": 21401,
+    "descripcion": "Coroico"
+  },
+  {
+    "idProvincia": 24,
+    "codice": 21402,
+    "descripcion": "Coripata"
+  },
+  {
+    "idProvincia": 25,
+    "codice": 21501,
+    "descripcion": "Ixiamas"
+  },
+  {
+    "idProvincia": 25,
+    "codice": 21502,
+    "descripcion": "San Buenaventura"
+  },
+  {
+    "idProvincia": 26,
+    "codice": 21601,
+    "descripcion": "Charazani (Gral.Pérez)"
+  },
+  {
+    "idProvincia": 26,
+    "codice": 21602,
+    "descripcion": "Curva"
+  },
+  {
+    "idProvincia": 27,
+    "codice": 21701,
+    "descripcion": "Copacabana"
+  },
+  {
+    "idProvincia": 27,
+    "codice": 21702,
+    "descripcion": "San Pedro De Tiquina"
+  },
+  {
+    "idProvincia": 27,
+    "codice": 21703,
+    "descripcion": "Tito Yupanqui"
+  },
+  {
+    "idProvincia": 28,
+    "codice": 21801,
+    "descripcion": "San Pedro De Curahuara"
+  },
+  {
+    "idProvincia": 28,
+    "codice": 21802,
+    "descripcion": "Papel Pampa"
+  },
+  {
+    "idProvincia": 28,
+    "codice": 21803,
+    "descripcion": "Chacarilla"
+  },
+  {
+    "idProvincia": 29,
+    "codice": 21901,
+    "descripcion": "Santiago De Machaca"
+  },
+  {
+    "idProvincia": 29,
+    "codice": 21902,
+    "descripcion": "Catacora"
+  },
+  {
+    "idProvincia": 30,
+    "codice": 22001,
+    "descripcion": "Caranavi"
+  },
+  {
+    "idProvincia": 30,
+    "codice": 22002,
+    "descripcion": "Alto Beni"
+  },
+  {
+    "idProvincia": 31,
+    "codice": 30101,
+    "descripcion": "Cochabamba"
+  },
+  {
+    "idProvincia": 32,
+    "codice": 30201,
+    "descripcion": "Aiquile"
+  },
+  {
+    "idProvincia": 32,
+    "codice": 30202,
+    "descripcion": "Pasorapa"
+  },
+  {
+    "idProvincia": 32,
+    "codice": 30203,
+    "descripcion": "Omereque"
+  },
+  {
+    "idProvincia": 33,
+    "codice": 30301,
+    "descripcion": "Independencia"
+  },
+  {
+    "idProvincia": 33,
+    "codice": 30302,
+    "descripcion": "Morochata"
+  },
+  {
+    "idProvincia": 33,
+    "codice": 30303,
+    "descripcion": "Cocapata"
+  },
+  {
+    "idProvincia": 34,
+    "codice": 30401,
+    "descripcion": "Tarata"
+  },
+  {
+    "idProvincia": 34,
+    "codice": 30402,
+    "descripcion": "Anzaldo"
+  },
+  {
+    "idProvincia": 34,
+    "codice": 30403,
+    "descripcion": "Arbieto"
+  },
+  {
+    "idProvincia": 34,
+    "codice": 30404,
+    "descripcion": "Sacabamba"
+  },
+  {
+    "idProvincia": 35,
+    "codice": 30501,
+    "descripcion": "Arani"
+  },
+  {
+    "idProvincia": 35,
+    "codice": 30502,
+    "descripcion": "Vacas"
+  },
+  {
+    "idProvincia": 36,
+    "codice": 30601,
+    "descripcion": "Arque"
+  },
+  {
+    "idProvincia": 36,
+    "codice": 30602,
+    "descripcion": "Tacopaya"
+  },
+  {
+    "idProvincia": 37,
+    "codice": 30701,
+    "descripcion": "Capinota"
+  },
+  {
+    "idProvincia": 37,
+    "codice": 30702,
+    "descripcion": "Santibáñez"
+  },
+  {
+    "idProvincia": 37,
+    "codice": 30703,
+    "descripcion": "Sicaya"
+  },
+  {
+    "idProvincia": 38,
+    "codice": 30801,
+    "descripcion": "Cliza"
+  },
+  {
+    "idProvincia": 38,
+    "codice": 30802,
+    "descripcion": "Toko"
+  },
+  {
+    "idProvincia": 38,
+    "codice": 30803,
+    "descripcion": "Tolata"
+  },
+  {
+    "idProvincia": 39,
+    "codice": 30901,
+    "descripcion": "Quillacollo"
+  },
+  {
+    "idProvincia": 39,
+    "codice": 30902,
+    "descripcion": "Sipe Sipe"
+  },
+  {
+    "idProvincia": 39,
+    "codice": 30903,
+    "descripcion": "Tiquipaya"
+  },
+  {
+    "idProvincia": 39,
+    "codice": 30904,
+    "descripcion": "Vinto"
+  },
+  {
+    "idProvincia": 39,
+    "codice": 30905,
+    "descripcion": "Colcapirhua"
+  },
+  {
+    "idProvincia": 40,
+    "codice": 31001,
+    "descripcion": "Sacaba"
+  },
+  {
+    "idProvincia": 40,
+    "codice": 31002,
+    "descripcion": "Colomi"
+  },
+  {
+    "idProvincia": 40,
+    "codice": 31003,
+    "descripcion": "Villa Tunari"
+  },
+  {
+    "idProvincia": 41,
+    "codice": 31101,
+    "descripcion": "Tapacarí"
+  },
+  {
+    "idProvincia": 42,
+    "codice": 30137,
+    "descripcion": "Ivirgarzama"
+  },
+  {
+    "idProvincia": 42,
+    "codice": 31201,
+    "descripcion": "Totora"
+  },
+  {
+    "idProvincia": 42,
+    "codice": 31202,
+    "descripcion": "Pojo"
+  },
+  {
+    "idProvincia": 42,
+    "codice": 31203,
+    "descripcion": "Pocona"
+  },
+  {
+    "idProvincia": 42,
+    "codice": 31204,
+    "descripcion": "Chimore"
+  },
+  {
+    "idProvincia": 42,
+    "codice": 31205,
+    "descripcion": "Puerto Villarroel"
+  },
+  {
+    "idProvincia": 42,
+    "codice": "031205-2",
+    "descripcion": "Ivirgarzama"
+  },
+  {
+    "idProvincia": 42,
+    "codice": 31206,
+    "descripcion": "Entre Ríos (Bulo Bulo)"
+  },
+  {
+    "idProvincia": 43,
+    "codice": 31301,
+    "descripcion": "Mizque"
+  },
+  {
+    "idProvincia": 43,
+    "codice": 31302,
+    "descripcion": "Vila Vila"
+  },
+  {
+    "idProvincia": 43,
+    "codice": 31303,
+    "descripcion": "Alalay"
+  },
+  {
+    "idProvincia": 44,
+    "codice": 31401,
+    "descripcion": "Punata"
+  },
+  {
+    "idProvincia": 44,
+    "codice": 31402,
+    "descripcion": "Villa Rivero"
+  },
+  {
+    "idProvincia": 44,
+    "codice": 31403,
+    "descripcion": "San Benito"
+  },
+  {
+    "idProvincia": 44,
+    "codice": 31404,
+    "descripcion": "Tacachi"
+  },
+  {
+    "idProvincia": 44,
+    "codice": 31405,
+    "descripcion": "Cuchumuela (V. G.Villarroel)"
+  },
+  {
+    "idProvincia": 45,
+    "codice": 31501,
+    "descripcion": "Bolivar"
+  },
+  {
+    "idProvincia": 46,
+    "codice": 31601,
+    "descripcion": "Tiraque"
+  },
+  {
+    "idProvincia": 46,
+    "codice": 31602,
+    "descripcion": "Shinahota"
+  },
+  {
+    "idProvincia": 47,
+    "codice": 40101,
+    "descripcion": "Oruro"
+  },
+  {
+    "idProvincia": 47,
+    "codice": 40102,
+    "descripcion": "Caracollo"
+  },
+  {
+    "idProvincia": 47,
+    "codice": 40103,
+    "descripcion": "El Choro"
+  },
+  {
+    "idProvincia": 47,
+    "codice": 40104,
+    "descripcion": "Soracachi"
+  },
+  {
+    "idProvincia": 47,
+    "codice": 40105,
+    "descripcion": "Paria"
+  },
+  {
+    "idProvincia": 48,
+    "codice": 40201,
+    "descripcion": "Challapata"
+  },
+  {
+    "idProvincia": 48,
+    "codice": 40202,
+    "descripcion": "Santuario De Quillacas"
+  },
+  {
+    "idProvincia": 49,
+    "codice": 40301,
+    "descripcion": "Corque"
+  },
+  {
+    "idProvincia": 49,
+    "codice": 40302,
+    "descripcion": "Choquecota"
+  },
+  {
+    "idProvincia": 50,
+    "codice": 40401,
+    "descripcion": "Curahuara De Carangas"
+  },
+  {
+    "idProvincia": 50,
+    "codice": 40402,
+    "descripcion": "Turco"
+  },
+  {
+    "idProvincia": 51,
+    "codice": 40501,
+    "descripcion": "Huachacalla"
+  },
+  {
+    "idProvincia": 51,
+    "codice": 40502,
+    "descripcion": "Escara"
+  },
+  {
+    "idProvincia": 51,
+    "codice": 40503,
+    "descripcion": "Cruz De Machacamarca"
+  },
+  {
+    "idProvincia": 51,
+    "codice": 40504,
+    "descripcion": "Yunguyo Del Litoral"
+  },
+  {
+    "idProvincia": 51,
+    "codice": 40505,
+    "descripcion": "Esmeralda"
+  },
+  {
+    "idProvincia": 52,
+    "codice": 40601,
+    "descripcion": "Poopó"
+  },
+  {
+    "idProvincia": 52,
+    "codice": 40602,
+    "descripcion": "Pazña"
+  },
+  {
+    "idProvincia": 52,
+    "codice": 40603,
+    "descripcion": "Antequera (Bolivar)"
+  },
+  {
+    "idProvincia": 53,
+    "codice": 40701,
+    "descripcion": "Villa Huanuni"
+  },
+  {
+    "idProvincia": 53,
+    "codice": 40702,
+    "descripcion": "Machacamarca"
+  },
+  {
+    "idProvincia": 54,
+    "codice": 40801,
+    "descripcion": "Salinas De Garci Mendoza"
+  },
+  {
+    "idProvincia": 54,
+    "codice": 40802,
+    "descripcion": "Pampa Aullagas"
+  },
+  {
+    "idProvincia": 55,
+    "codice": 40901,
+    "descripcion": "Sabaya"
+  },
+  {
+    "idProvincia": 55,
+    "codice": 40902,
+    "descripcion": "Coipasa"
+  },
+  {
+    "idProvincia": 55,
+    "codice": 40903,
+    "descripcion": "Chipaya"
+  },
+  {
+    "idProvincia": 56,
+    "codice": 41001,
+    "descripcion": "Toledo"
+  },
+  {
+    "idProvincia": 57,
+    "codice": 41101,
+    "descripcion": "Eucaliptus"
+  },
+  {
+    "idProvincia": 58,
+    "codice": 41201,
+    "descripcion": "Santiago De Andamarca"
+  },
+  {
+    "idProvincia": 58,
+    "codice": "041201-2",
+    "descripcion": "Orinoca"
+  },
+  {
+    "idProvincia": 58,
+    "codice": 41202,
+    "descripcion": "Belén De Andamarca"
+  },
+  {
+    "idProvincia": 59,
+    "codice": 41301,
+    "descripcion": "San Pedro De Totora"
+  },
+  {
+    "idProvincia": 60,
+    "codice": 41401,
+    "descripcion": "Santiago De Huari"
+  },
+  {
+    "idProvincia": 61,
+    "codice": 41501,
+    "descripcion": "La Rivera"
+  },
+  {
+    "idProvincia": 61,
+    "codice": 41502,
+    "descripcion": "Todos Santos"
+  },
+  {
+    "idProvincia": 61,
+    "codice": 41503,
+    "descripcion": "Carangas"
+  },
+  {
+    "idProvincia": 61,
+    "codice": 41601,
+    "descripcion": "Santiago De Huayllamarca"
+  },
+  {
+    "idProvincia": 62,
+    "codice": 50101,
+    "descripcion": "Potosi"
+  },
+  {
+    "idProvincia": 63,
+    "codice": 50102,
+    "descripcion": "Tinquipaya"
+  },
+  {
+    "idProvincia": 63,
+    "codice": 50103,
+    "descripcion": "Yocalla"
+  },
+  {
+    "idProvincia": 63,
+    "codice": 50104,
+    "descripcion": "Belén De Urmiri"
+  },
+  {
+    "idProvincia": 63,
+    "codice": 50201,
+    "descripcion": "Uncía"
+  },
+  {
+    "idProvincia": 64,
+    "codice": 50202,
+    "descripcion": "Chayanta"
+  },
+  {
+    "idProvincia": 64,
+    "codice": 50203,
+    "descripcion": "Llallagua"
+  },
+  {
+    "idProvincia": 64,
+    "codice": 50204,
+    "descripcion": "Chuquiuta Ayllu Jucumani"
+  },
+  {
+    "idProvincia": 64,
+    "codice": 50301,
+    "descripcion": "Betanzos"
+  },
+  {
+    "idProvincia": 65,
+    "codice": 50302,
+    "descripcion": "Chaquí"
+  },
+  {
+    "idProvincia": 65,
+    "codice": 50303,
+    "descripcion": "Tacobamba"
+  },
+  {
+    "idProvincia": 65,
+    "codice": 50401,
+    "descripcion": "Colquechaca"
+  },
+  {
+    "idProvincia": 66,
+    "codice": 50402,
+    "descripcion": "Ravelo"
+  },
+  {
+    "idProvincia": 66,
+    "codice": 50403,
+    "descripcion": "Pocoata"
+  },
+  {
+    "idProvincia": 66,
+    "codice": 50404,
+    "descripcion": "Ocurí"
+  },
+  {
+    "idProvincia": 66,
+    "codice": 50501,
+    "descripcion": "San Pedro De Buena Vista"
+  },
+  {
+    "idProvincia": 67,
+    "codice": 50502,
+    "descripcion": "Toro Toro"
+  },
+  {
+    "idProvincia": 67,
+    "codice": 50601,
+    "descripcion": "Cotagaita"
+  },
+  {
+    "idProvincia": 68,
+    "codice": 50602,
+    "descripcion": "Vitichi"
+  },
+  {
+    "idProvincia": 68,
+    "codice": 50701,
+    "descripcion": "Sacaca"
+  },
+  {
+    "idProvincia": 69,
+    "codice": 50702,
+    "descripcion": "Caripuyo"
+  },
+  {
+    "idProvincia": 69,
+    "codice": 50801,
+    "descripcion": "Tupiza"
+  },
+  {
+    "idProvincia": 70,
+    "codice": 50802,
+    "descripcion": "Atocha"
+  },
+  {
+    "idProvincia": 70,
+    "codice": 50901,
+    "descripcion": "Colcha K (V.Martin)"
+  },
+  {
+    "idProvincia": 71,
+    "codice": 50902,
+    "descripcion": "San Pedro De Quemes"
+  },
+  {
+    "idProvincia": 71,
+    "codice": 51001,
+    "descripcion": "San Pablo De Lípez"
+  },
+  {
+    "idProvincia": 72,
+    "codice": 51002,
+    "descripcion": "Mojinete"
+  },
+  {
+    "idProvincia": 72,
+    "codice": 51003,
+    "descripcion": "San Antonio De Esmoraca"
+  },
+  {
+    "idProvincia": 72,
+    "codice": 51101,
+    "descripcion": "Puna"
+  },
+  {
+    "idProvincia": 73,
+    "codice": 51102,
+    "descripcion": "Caiza D"
+  },
+  {
+    "idProvincia": 73,
+    "codice": 51103,
+    "descripcion": "Ckochas"
+  },
+  {
+    "idProvincia": 73,
+    "codice": 51201,
+    "descripcion": "Uyuni (Thola Pampa)"
+  },
+  {
+    "idProvincia": 74,
+    "codice": 51202,
+    "descripcion": "Tomave"
+  },
+  {
+    "idProvincia": 74,
+    "codice": 51203,
+    "descripcion": "Porco"
+  },
+  {
+    "idProvincia": 74,
+    "codice": 51301,
+    "descripcion": "Arampampa"
+  },
+  {
+    "idProvincia": 75,
+    "codice": 51302,
+    "descripcion": "Acasio"
+  },
+  {
+    "idProvincia": 75,
+    "codice": 51401,
+    "descripcion": "Llica"
+  },
+  {
+    "idProvincia": 76,
+    "codice": 51402,
+    "descripcion": "Tahua"
+  },
+  {
+    "idProvincia": 76,
+    "codice": 51501,
+    "descripcion": "Villazón"
+  },
+  {
+    "idProvincia": 77,
+    "codice": 51601,
+    "descripcion": "San Agustín"
+  },
+  {
+    "idProvincia": 78,
+    "codice": 60101,
+    "descripcion": "Tarija"
+  },
+  {
+    "idProvincia": 79,
+    "codice": 60201,
+    "descripcion": "Padcaya"
+  },
+  {
+    "idProvincia": 80,
+    "codice": 60202,
+    "descripcion": "Bermejo"
+  },
+  {
+    "idProvincia": 80,
+    "codice": 60401,
+    "descripcion": "Uriondo"
+  },
+  {
+    "idProvincia": 81,
+    "codice": "060401-2",
+    "descripcion": "Valle De La Concepción"
+  },
+  {
+    "idProvincia": 81,
+    "codice": 60402,
+    "descripcion": "Yunchará"
+  },
+  {
+    "idProvincia": 81,
+    "codice": 60301,
+    "descripcion": "Yacuiba"
+  },
+  {
+    "idProvincia": 82,
+    "codice": 60302,
+    "descripcion": "Carapari"
+  },
+  {
+    "idProvincia": 82,
+    "codice": 60303,
+    "descripcion": "Villamontes"
+  },
+  {
+    "idProvincia": 82,
+    "codice": 60501,
+    "descripcion": "Villa San Lorenzo"
+  },
+  {
+    "idProvincia": 83,
+    "codice": 60502,
+    "descripcion": "Tomayapo (El Puente)"
+  },
+  {
+    "idProvincia": 83,
+    "codice": 60601,
+    "descripcion": "Entre Ríos (La Moreta)"
+  },
+  {
+    "idProvincia": 84,
+    "codice": 90301,
+    "descripcion": "Puerto Gonzalo Moreno"
+  },
+  {
+    "idProvincia": 110,
+    "codice": 90302,
+    "descripcion": "San Lorenzo"
+  },
+  {
+    "idProvincia": 110,
+    "codice": 90303,
+    "descripcion": "El Sena"
+  },
+  {
+    "idProvincia": 110,
+    "codice": 70101,
+    "descripcion": "Santa Cruz De La Sierra"
+  },
+  {
+    "idProvincia": 85,
+    "codice": 70102,
+    "descripcion": "Cotoca"
+  },
+  {
+    "idProvincia": 85,
+    "codice": 70103,
+    "descripcion": "Porongo (Ayacucho)"
+  },
+  {
+    "idProvincia": 85,
+    "codice": 70104,
+    "descripcion": "La Guardia"
+  },
+  {
+    "idProvincia": 85,
+    "codice": 70105,
+    "descripcion": "El Torno"
+  },
+  {
+    "idProvincia": 85,
+    "codice": 70201,
+    "descripcion": "Warnes"
+  },
+  {
+    "idProvincia": 86,
+    "codice": 70202,
+    "descripcion": "Okinawa Uno"
+  },
+  {
+    "idProvincia": 86,
+    "codice": 70301,
+    "descripcion": "San Ignacio De Velasco"
+  },
+  {
+    "idProvincia": 87,
+    "codice": 70302,
+    "descripcion": "San Miguel De Velasco"
+  },
+  {
+    "idProvincia": 87,
+    "codice": 70303,
+    "descripcion": "San Rafael"
+  },
+  {
+    "idProvincia": 87,
+    "codice": 70401,
+    "descripcion": "Buena Vista"
+  },
+  {
+    "idProvincia": 88,
+    "codice": 70402,
+    "descripcion": "San Carlos"
+  },
+  {
+    "idProvincia": 88,
+    "codice": 70403,
+    "descripcion": "Yapacaní"
+  },
+  {
+    "idProvincia": 88,
+    "codice": 70404,
+    "descripcion": "San Juan"
+  },
+  {
+    "idProvincia": 88,
+    "codice": 70501,
+    "descripcion": "San José De Chiquitos"
+  },
+  {
+    "idProvincia": 89,
+    "codice": 70502,
+    "descripcion": "Pailón"
+  },
+  {
+    "idProvincia": 89,
+    "codice": 70503,
+    "descripcion": "Roboré"
+  },
+  {
+    "idProvincia": 89,
+    "codice": 70601,
+    "descripcion": "Portachuelo"
+  },
+  {
+    "idProvincia": 90,
+    "codice": 70602,
+    "descripcion": "Santa Rosa Del Sara"
+  },
+  {
+    "idProvincia": 90,
+    "codice": 70603,
+    "descripcion": "Colpa Bélgica"
+  },
+  {
+    "idProvincia": 90,
+    "codice": 70701,
+    "descripcion": "Lagunillas"
+  },
+  {
+    "idProvincia": 91,
+    "codice": 70702,
+    "descripcion": "Charagua"
+  },
+  {
+    "idProvincia": 91,
+    "codice": 70703,
+    "descripcion": "Cabezas"
+  },
+  {
+    "idProvincia": 91,
+    "codice": 70704,
+    "descripcion": "Cuevo"
+  },
+  {
+    "idProvincia": 91,
+    "codice": 70705,
+    "descripcion": "Gutiérrez"
+  },
+  {
+    "idProvincia": 91,
+    "codice": 70706,
+    "descripcion": "Camiri"
+  },
+  {
+    "idProvincia": 91,
+    "codice": 70707,
+    "descripcion": "Boyuibe"
+  },
+  {
+    "idProvincia": 91,
+    "codice": 70801,
+    "descripcion": "Vallegrande"
+  },
+  {
+    "idProvincia": 92,
+    "codice": 70802,
+    "descripcion": "Trigal"
+  },
+  {
+    "idProvincia": 92,
+    "codice": 70803,
+    "descripcion": "Moro Moro"
+  },
+  {
+    "idProvincia": 92,
+    "codice": 70804,
+    "descripcion": "Postrer Valle"
+  },
+  {
+    "idProvincia": 92,
+    "codice": 70805,
+    "descripcion": "Pucará"
+  },
+  {
+    "idProvincia": 92,
+    "codice": 70901,
+    "descripcion": "Samaipata"
+  },
+  {
+    "idProvincia": 93,
+    "codice": 70902,
+    "descripcion": "Pampa Grande"
+  },
+  {
+    "idProvincia": 93,
+    "codice": 70903,
+    "descripcion": "Mairana"
+  },
+  {
+    "idProvincia": 93,
+    "codice": 70904,
+    "descripcion": "Quirusillas"
+  },
+  {
+    "idProvincia": 93,
+    "codice": 71001,
+    "descripcion": "Montero"
+  },
+  {
+    "idProvincia": 94,
+    "codice": 71002,
+    "descripcion": "General Saavedra"
+  },
+  {
+    "idProvincia": 94,
+    "codice": 71003,
+    "descripcion": "Mineros"
+  },
+  {
+    "idProvincia": 94,
+    "codice": 71004,
+    "descripcion": "Fernández Alonso"
+  },
+  {
+    "idProvincia": 94,
+    "codice": 71005,
+    "descripcion": "San Pedro"
+  },
+  {
+    "idProvincia": 94,
+    "codice": 71101,
+    "descripcion": "Concepción"
+  },
+  {
+    "idProvincia": 95,
+    "codice": 71102,
+    "descripcion": "San Javier"
+  },
+  {
+    "idProvincia": 95,
+    "codice": 71103,
+    "descripcion": "San Ramón"
+  },
+  {
+    "idProvincia": 95,
+    "codice": 71104,
+    "descripcion": "San Julián"
+  },
+  {
+    "idProvincia": 95,
+    "codice": 71105,
+    "descripcion": "San Antonio De Lomerio"
+  },
+  {
+    "idProvincia": 95,
+    "codice": 71106,
+    "descripcion": "Cuatro Cañadas"
+  },
+  {
+    "idProvincia": 95,
+    "codice": 71201,
+    "descripcion": "San Matías"
+  },
+  {
+    "idProvincia": 96,
+    "codice": 71301,
+    "descripcion": "Comarapa"
+  },
+  {
+    "idProvincia": 97,
+    "codice": 71302,
+    "descripcion": "Saipina"
+  },
+  {
+    "idProvincia": 97,
+    "codice": 71401,
+    "descripcion": "Puerto Suárez"
+  },
+  {
+    "idProvincia": 98,
+    "codice": 71402,
+    "descripcion": "Puerto Quijarro"
+  },
+  {
+    "idProvincia": 98,
+    "codice": 71403,
+    "descripcion": "El Carmen Rivero Torrez"
+  },
+  {
+    "idProvincia": 98,
+    "codice": 71501,
+    "descripcion": "Ascención De Guarayos"
+  },
+  {
+    "idProvincia": 99,
+    "codice": 71502,
+    "descripcion": "Urubichá"
+  },
+  {
+    "idProvincia": 99,
+    "codice": 71503,
+    "descripcion": "El Puente"
+  },
+  {
+    "idProvincia": 99,
+    "codice": 80101,
+    "descripcion": "Trinidad"
+  },
+  {
+    "idProvincia": 100,
+    "codice": 80102,
+    "descripcion": "San Javier"
+  },
+  {
+    "idProvincia": 100,
+    "codice": 80201,
+    "descripcion": "Riberalta"
+  },
+  {
+    "idProvincia": 101,
+    "codice": 80202,
+    "descripcion": "Guayaramerin"
+  },
+  {
+    "idProvincia": 101,
+    "codice": 80301,
+    "descripcion": "Reyes"
+  },
+  {
+    "idProvincia": 102,
+    "codice": 80302,
+    "descripcion": "San Borja"
+  },
+  {
+    "idProvincia": 102,
+    "codice": 80303,
+    "descripcion": "Santa Rosa"
+  },
+  {
+    "idProvincia": 102,
+    "codice": 80304,
+    "descripcion": "Rurrenabaque"
+  },
+  {
+    "idProvincia": 102,
+    "codice": 80401,
+    "descripcion": "Santa Ana Del Yacuma"
+  },
+  {
+    "idProvincia": 103,
+    "codice": 80402,
+    "descripcion": "Exaltación"
+  },
+  {
+    "idProvincia": 103,
+    "codice": 80501,
+    "descripcion": "San Ignacio"
+  },
+  {
+    "idProvincia": 104,
+    "codice": 80601,
+    "descripcion": "Loreto"
+  },
+  {
+    "idProvincia": 105,
+    "codice": 80602,
+    "descripcion": "San Andrés"
+  },
+  {
+    "idProvincia": 105,
+    "codice": 80701,
+    "descripcion": "San Joaquín"
+  },
+  {
+    "idProvincia": 106,
+    "codice": 80702,
+    "descripcion": "San Ramón"
+  },
+  {
+    "idProvincia": 106,
+    "codice": 80703,
+    "descripcion": "Puerto Siles"
+  },
+  {
+    "idProvincia": 106,
+    "codice": 80801,
+    "descripcion": "Magdalena"
+  },
+  {
+    "idProvincia": 107,
+    "codice": 80802,
+    "descripcion": "Baures"
+  },
+  {
+    "idProvincia": 107,
+    "codice": 80803,
+    "descripcion": "Huacaraje"
+  },
+  {
+    "idProvincia": 107,
+    "codice": 90101,
+    "descripcion": "Cobija"
+  },
+  {
+    "idProvincia": 108,
+    "codice": 90102,
+    "descripcion": "Porvenir"
+  },
+  {
+    "idProvincia": 108,
+    "codice": 90103,
+    "descripcion": "Bolpebra"
+  },
+  {
+    "idProvincia": 108,
+    "codice": 90104,
+    "descripcion": "Bella Flor"
+  },
+  {
+    "idProvincia": 108,
+    "codice": 90201,
+    "descripcion": "Puerto Rico"
+  },
+  {
+    "idProvincia": 109,
+    "codice": 90202,
+    "descripcion": "San Pedro (Conquista)"
+  },
+  {
+    "idProvincia": 109,
+    "codice": 90203,
+    "descripcion": "Filadelfia"
+  },
+  {
+    "idProvincia": 109,
+    "codice": 90401,
+    "descripcion": "Santa Rosa Del Abuna"
+  },
+  {
+    "idProvincia": 111,
+    "codice": 90402,
+    "descripcion": "Ingavi"
+  },
+  {
+    "idProvincia": 111,
+    "codice": 90501,
+    "descripcion": "Nuevo Manoa (Nueva Esperanza)"
+  },
+  {
+    "idProvincia": 112,
+    "codice": 90502,
+    "descripcion": "Villa Nueva (Loma Alta)"
+  },
+  {
+    "idProvincia": 112,
+    "codice": 90503,
+    "descripcion": "Santos Mercado"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "idEnte": 1,
+    "horaInicioManana": "08:00",
+    "horaFinManana": "12:00",
+    "horaInicioTarde": "14:30",
+    "horaFinTarde": "18:30",
+    "esContinuo": false
+  },
+  {
+    "idEnte": 2,
+    "horaInicioManana": "08:00",
+    "horaFinManana": "12:00",
+    "horaInicioTarde": "14:30",
+    "horaFinTarde": "18:30",
+    "esContinuo": false
+  },
+  {
+    "idEnte": 3,
+    "horaInicioManana": "08:00",
+    "horaFinManana": "12:00",
+    "horaInicioTarde": "14:30",
+    "horaFinTarde": "18:30",
+    "esContinuo": false
+  },
+  {
+    "idEnte": 4,
+    "horaInicioManana": "08:00",
+    "horaFinManana": "12:00",
+    "horaInicioTarde": "14:30",
+    "horaFinTarde": "18:30",
+    "esContinuo": false
+  },
+  {
+    "idEnte": 5,
+    "horaInicioManana": "08:00",
+    "horaFinManana": "12:00",
+    "horaInicioTarde": "14:30",
+    "horaFinTarde": "18:30",
+    "esContinuo": false
+  },
+  {
+    "idEnte": 6,
+    "horaInicioManana": "08:00",
+    "horaFinManana": "12:00",
+    "horaInicioTarde": "14:30",
+    "horaFinTarde": "18:30",
+    "esContinuo": false
+  },
+  {
+    "idEnte": 7,
+    "horaInicioManana": "08:00",
+    "horaFinManana": "12:00",
+    "horaInicioTarde": "14:30",
+    "horaFinTarde": "18:30",
+    "esContinuo": false
+  },
+  {
+    "idEnte": 8,
+    "horaInicioManana": "08:00",
+    "horaFinManana": "12:00",
+    "horaInicioTarde": "14:30",
+    "horaFinTarde": "18:30",
+    "esContinuo": false
+  },
+  {
+    "idEnte": 9,
+    "horaInicioManana": "08:00",
+    "horaFinManana": "12:00",
+    "horaInicioTarde": "14:30",
+    "horaFinTarde": "18:30",
+    "esContinuo": false
+  },
+  {
+    "idEnte": 10,
+    "horaInicioManana": "08:00",
+    "horaFinManana": "12:00",
+    "horaInicioTarde": "14:30",
+    "horaFinTarde": "18:30",
+    "esContinuo": false
+  },
+  {
+    "idEnte": 11,
+    "horaInicioManana": "08:00",
+    "horaFinManana": "12:00",
+    "horaInicioTarde": "14:30",
+    "horaFinTarde": "18:30",
+    "esContinuo": false
+  },
+  {
+    "idEnte": 12,
+    "horaInicioManana": "08:00",
+    "horaFinManana": "12:00",
+    "horaInicioTarde": "14:30",
+    "horaFinTarde": "18:30",
+    "esContinuo": false
+  },
+  {
+    "idEnte": 13,
+    "horaInicioManana": "08:00",
+    "horaFinManana": "12:00",
+    "horaInicioTarde": "14:30",
+    "horaFinTarde": "18:30",
+    "esContinuo": false
+  }
+]

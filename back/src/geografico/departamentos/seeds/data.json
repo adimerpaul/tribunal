@@ -1,0 +1,47 @@
+[
+  {
+    "idPais": 26,
+    "sigla": "CH",
+    "descripcion": "Chuquisaca"
+  },
+  {
+    "idPais": 26,
+    "sigla": "LP",
+    "descripcion": "La Paz"
+  },
+  {
+    "idPais": 26,
+    "sigla": "CB",
+    "descripcion": "Cochabamba"
+  },
+  {
+    "idPais": 26,
+    "sigla": "OR",
+    "descripcion": "Oruro"
+  },
+  {
+    "idPais": 26,
+    "sigla": "PO",
+    "descripcion": "Potosi"
+  },
+  {
+    "idPais": 26,
+    "sigla": "TJ",
+    "descripcion": "Tarija"
+  },
+  {
+    "idPais": 26,
+    "sigla": "SC",
+    "descripcion": "Santa Cruz"
+  },
+  {
+    "idPais": 26,
+    "sigla": "BE",
+    "descripcion": "Beni"
+  },
+  {
+    "idPais": 26,
+    "sigla": "PA",
+    "descripcion": "Pando"
+  }
+]

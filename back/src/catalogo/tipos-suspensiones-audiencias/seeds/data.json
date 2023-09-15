@@ -1,0 +1,26 @@
+[
+  {
+    "codigo": 1,
+    "descripcion": "No especificado"
+  },
+  {
+    "codigo": 2,
+    "descripcion": "No comparezcan testigos o peritos"
+  },
+  {
+    "codigo": 3,
+    "descripcion": "La persona imputada tenga un impedimento físico grave"
+  },
+  {
+    "codigo": 4,
+    "descripcion": "Sobreviniera la necesidad de producir prueba extraordinaria"
+  },
+  {
+    "codigo": 5,
+    "descripcion": "El fiscal o el querellante por el descubrimiento de hechos nuevos requieran ampliar la acusación"
+  },
+  {
+    "codigo": 6,
+    "descripcion": "Inasistencia del Fiscal"
+  }
+]

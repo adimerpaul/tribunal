@@ -1,0 +1,562 @@
+[
+  {
+    "idDepartamento": 1,
+    "codice": 101,
+    "descripcion": "Oropeza"
+  },
+  {
+    "idDepartamento": 1,
+    "codice": 102,
+    "descripcion": "Azurduy"
+  },
+  {
+    "idDepartamento": 1,
+    "codice": 103,
+    "descripcion": "Zudañez"
+  },
+  {
+    "idDepartamento": 1,
+    "codice": 104,
+    "descripcion": "Tomina"
+  },
+  {
+    "idDepartamento": 1,
+    "codice": 105,
+    "descripcion": "Hernando Siles"
+  },
+  {
+    "idDepartamento": 1,
+    "codice": 106,
+    "descripcion": "Yamparaez"
+  },
+  {
+    "idDepartamento": 1,
+    "codice": 107,
+    "descripcion": "Nor Cinti"
+  },
+  {
+    "idDepartamento": 1,
+    "codice": 108,
+    "descripcion": "Belisario Boeto"
+  },
+  {
+    "idDepartamento": 1,
+    "codice": 109,
+    "descripcion": "Sud Cinti"
+  },
+  {
+    "idDepartamento": 1,
+    "codice": 110,
+    "descripcion": "Luis Calvo"
+  },
+  {
+    "idDepartamento": 2,
+    "codice": 201,
+    "descripcion": "Murillo"
+  },
+  {
+    "idDepartamento": 2,
+    "codice": 202,
+    "descripcion": "Omasuyos"
+  },
+  {
+    "idDepartamento": 2,
+    "codice": 203,
+    "descripcion": "Pacajes"
+  },
+  {
+    "idDepartamento": 2,
+    "codice": 204,
+    "descripcion": "Camacho"
+  },
+  {
+    "idDepartamento": 2,
+    "codice": 205,
+    "descripcion": "Muñecas"
+  },
+  {
+    "idDepartamento": 2,
+    "codice": 206,
+    "descripcion": "Larecaja"
+  },
+  {
+    "idDepartamento": 2,
+    "codice": 207,
+    "descripcion": "Franz tTmayo"
+  },
+  {
+    "idDepartamento": 2,
+    "codice": 208,
+    "descripcion": "Ingavi"
+  },
+  {
+    "idDepartamento": 2,
+    "codice": 209,
+    "descripcion": "Loayza"
+  },
+  {
+    "idDepartamento": 2,
+    "codice": 210,
+    "descripcion": "Inquisivi"
+  },
+  {
+    "idDepartamento": 2,
+    "codice": 211,
+    "descripcion": "Sud Yungas"
+  },
+  {
+    "idDepartamento": 2,
+    "codice": 212,
+    "descripcion": "Los Andes"
+  },
+  {
+    "idDepartamento": 2,
+    "codice": 213,
+    "descripcion": "Aroma"
+  },
+  {
+    "idDepartamento": 2,
+    "codice": 214,
+    "descripcion": "Nor Yungas"
+  },
+  {
+    "idDepartamento": 2,
+    "codice": 215,
+    "descripcion": "Abel Iturralde"
+  },
+  {
+    "idDepartamento": 2,
+    "codice": 216,
+    "descripcion": "Bautista Saavedra"
+  },
+  {
+    "idDepartamento": 2,
+    "codice": 217,
+    "descripcion": "Manco Kapac"
+  },
+  {
+    "idDepartamento": 2,
+    "codice": 218,
+    "descripcion": "Gualberto Villarroel"
+  },
+  {
+    "idDepartamento": 2,
+    "codice": 219,
+    "descripcion": "Jose Manuel Pando"
+  },
+  {
+    "idDepartamento": 2,
+    "codice": 220,
+    "descripcion": "Caranavi"
+  },
+  {
+    "idDepartamento": 3,
+    "codice": 301,
+    "descripcion": "Cercado (Cochabamba)"
+  },
+  {
+    "idDepartamento": 3,
+    "codice": 302,
+    "descripcion": "Campero"
+  },
+  {
+    "idDepartamento": 3,
+    "codice": 303,
+    "descripcion": "Ayopaya"
+  },
+  {
+    "idDepartamento": 3,
+    "codice": 304,
+    "descripcion": "Esteban Arce"
+  },
+  {
+    "idDepartamento": 3,
+    "codice": 305,
+    "descripcion": "Arani"
+  },
+  {
+    "idDepartamento": 3,
+    "codice": 306,
+    "descripcion": "Arque"
+  },
+  {
+    "idDepartamento": 3,
+    "codice": 307,
+    "descripcion": "Capinota"
+  },
+  {
+    "idDepartamento": 3,
+    "codice": 308,
+    "descripcion": "German Jordã¡N"
+  },
+  {
+    "idDepartamento": 3,
+    "codice": 309,
+    "descripcion": "Quillacollo"
+  },
+  {
+    "idDepartamento": 3,
+    "codice": 310,
+    "descripcion": "Chapare"
+  },
+  {
+    "idDepartamento": 3,
+    "codice": 311,
+    "descripcion": "Tapacari"
+  },
+  {
+    "idDepartamento": 3,
+    "codice": 312,
+    "descripcion": "Carrasco"
+  },
+  {
+    "idDepartamento": 3,
+    "codice": 313,
+    "descripcion": "Mizque"
+  },
+  {
+    "idDepartamento": 3,
+    "codice": 314,
+    "descripcion": "Punata"
+  },
+  {
+    "idDepartamento": 3,
+    "codice": 315,
+    "descripcion": "Bolivar"
+  },
+  {
+    "idDepartamento": 3,
+    "codice": 316,
+    "descripcion": "Tiraque"
+  },
+  {
+    "idDepartamento": 4,
+    "codice": 401,
+    "descripcion": "Cercado"
+  },
+  {
+    "idDepartamento": 4,
+    "codice": 402,
+    "descripcion": "Eduardo Avaroa"
+  },
+  {
+    "idDepartamento": 4,
+    "codice": 403,
+    "descripcion": "Carangas"
+  },
+  {
+    "idDepartamento": 4,
+    "codice": 404,
+    "descripcion": "Sajama"
+  },
+  {
+    "idDepartamento": 4,
+    "codice": 405,
+    "descripcion": "Litoral De Atacama"
+  },
+  {
+    "idDepartamento": 4,
+    "codice": 406,
+    "descripcion": "Poopo"
+  },
+  {
+    "idDepartamento": 4,
+    "codice": 407,
+    "descripcion": "Pantaleon Dalence"
+  },
+  {
+    "idDepartamento": 4,
+    "codice": 408,
+    "descripcion": "Ladislao Cabrera"
+  },
+  {
+    "idDepartamento": 4,
+    "codice": 409,
+    "descripcion": "Sabaya"
+  },
+  {
+    "idDepartamento": 4,
+    "codice": 410,
+    "descripcion": "Saucari"
+  },
+  {
+    "idDepartamento": 4,
+    "codice": 411,
+    "descripcion": "Tomas Barron"
+  },
+  {
+    "idDepartamento": 4,
+    "codice": 412,
+    "descripcion": "Sud Carangas"
+  },
+  {
+    "idDepartamento": 4,
+    "codice": 413,
+    "descripcion": "San Pedro De Totora"
+  },
+  {
+    "idDepartamento": 4,
+    "codice": 414,
+    "descripcion": "Sebastian Pagador"
+  },
+  {
+    "idDepartamento": 4,
+    "codice": 415,
+    "descripcion": "Puerto De Mejillones"
+  },
+  {
+    "idDepartamento": 4,
+    "codice": 416,
+    "descripcion": "Nor Carangas"
+  },
+  {
+    "idDepartamento": 5,
+    "codice": 501,
+    "descripcion": "Tomas Frias"
+  },
+  {
+    "idDepartamento": 5,
+    "codice": 502,
+    "descripcion": "Rafael Bustillo"
+  },
+  {
+    "idDepartamento": 5,
+    "codice": 503,
+    "descripcion": "Cornelio Saavedra"
+  },
+  {
+    "idDepartamento": 5,
+    "codice": 504,
+    "descripcion": "Chayanta"
+  },
+  {
+    "idDepartamento": 5,
+    "codice": 505,
+    "descripcion": "Charcas"
+  },
+  {
+    "idDepartamento": 5,
+    "codice": 506,
+    "descripcion": "Nor Chichas"
+  },
+  {
+    "idDepartamento": 5,
+    "codice": 507,
+    "descripcion": "Alonso Ibañez"
+  },
+  {
+    "idDepartamento": 5,
+    "codice": 508,
+    "descripcion": "Sur Chichas"
+  },
+  {
+    "idDepartamento": 5,
+    "codice": 509,
+    "descripcion": "Nor Lipez"
+  },
+  {
+    "idDepartamento": 5,
+    "codice": 510,
+    "descripcion": "Sur Lipez"
+  },
+  {
+    "idDepartamento": 5,
+    "codice": 511,
+    "descripcion": "Jose Maria Linares"
+  },
+  {
+    "idDepartamento": 5,
+    "codice": 512,
+    "descripcion": "Antonio Quijarro"
+  },
+  {
+    "idDepartamento": 5,
+    "codice": 513,
+    "descripcion": "Bernardino Bilbao Rioja"
+  },
+  {
+    "idDepartamento": 5,
+    "codice": 514,
+    "descripcion": "Daniel Campos"
+  },
+  {
+    "idDepartamento": 5,
+    "codice": 515,
+    "descripcion": "Modesto Omiste"
+  },
+  {
+    "idDepartamento": 5,
+    "codice": 516,
+    "descripcion": "Enrique Baldivieso"
+  },
+  {
+    "idDepartamento": 6,
+    "codice": 601,
+    "descripcion": "Cercado"
+  },
+  {
+    "idDepartamento": 6,
+    "codice": 602,
+    "descripcion": "Aniceto Arce"
+  },
+  {
+    "idDepartamento": 6,
+    "codice": 603,
+    "descripcion": "Gran Chaco"
+  },
+  {
+    "idDepartamento": 6,
+    "codice": 604,
+    "descripcion": "Aviles"
+  },
+  {
+    "idDepartamento": 6,
+    "codice": 605,
+    "descripcion": "Mendez"
+  },
+  {
+    "idDepartamento": 6,
+    "codice": 606,
+    "descripcion": "Burnet O' Oconnor"
+  },
+  {
+    "idDepartamento": 7,
+    "codice": 701,
+    "descripcion": "Andres Ibañez"
+  },
+  {
+    "idDepartamento": 7,
+    "codice": 702,
+    "descripcion": "Warnes"
+  },
+  {
+    "idDepartamento": 7,
+    "codice": 703,
+    "descripcion": "Velasco"
+  },
+  {
+    "idDepartamento": 7,
+    "codice": 704,
+    "descripcion": "Ichilo"
+  },
+  {
+    "idDepartamento": 7,
+    "codice": 705,
+    "descripcion": "Chiquitos"
+  },
+  {
+    "idDepartamento": 7,
+    "codice": 706,
+    "descripcion": "Sara"
+  },
+  {
+    "idDepartamento": 7,
+    "codice": 707,
+    "descripcion": "Cordillera"
+  },
+  {
+    "idDepartamento": 7,
+    "codice": 708,
+    "descripcion": "Vallegrande"
+  },
+  {
+    "idDepartamento": 7,
+    "codice": 709,
+    "descripcion": "Florida"
+  },
+  {
+    "idDepartamento": 7,
+    "codice": 710,
+    "descripcion": "Obispo Santistevan"
+  },
+  {
+    "idDepartamento": 7,
+    "codice": 711,
+    "descripcion": "Ñuflo De Chavez"
+  },
+  {
+    "idDepartamento": 7,
+    "codice": 712,
+    "descripcion": "Angel Sandoval"
+  },
+  {
+    "idDepartamento": 7,
+    "codice": 713,
+    "descripcion": "Manuel Maria Caballero"
+  },
+  {
+    "idDepartamento": 7,
+    "codice": 714,
+    "descripcion": "German Busch"
+  },
+  {
+    "idDepartamento": 7,
+    "codice": 715,
+    "descripcion": "Guarayos"
+  },
+  {
+    "idDepartamento": 8,
+    "codice": 801,
+    "descripcion": "Cercado"
+  },
+  {
+    "idDepartamento": 8,
+    "codice": 802,
+    "descripcion": "Vaca Diez"
+  },
+  {
+    "idDepartamento": 8,
+    "codice": 803,
+    "descripcion": "José Ballivian"
+  },
+  {
+    "idDepartamento": 8,
+    "codice": 804,
+    "descripcion": "Yacuma"
+  },
+  {
+    "idDepartamento": 8,
+    "codice": 805,
+    "descripcion": "Moxos"
+  },
+  {
+    "idDepartamento": 8,
+    "codice": 806,
+    "descripcion": "Marban"
+  },
+  {
+    "idDepartamento": 8,
+    "codice": 807,
+    "descripcion": "Mamore"
+  },
+  {
+    "idDepartamento": 8,
+    "codice": 808,
+    "descripcion": "Itenez"
+  },
+  {
+    "idDepartamento": 9,
+    "codice": 901,
+    "descripcion": "Nicolás Suárez"
+  },
+  {
+    "idDepartamento": 9,
+    "codice": 902,
+    "descripcion": "Manuripi"
+  },
+  {
+    "idDepartamento": 9,
+    "codice": 903,
+    "descripcion": "Madre De Dios"
+  },
+  {
+    "idDepartamento": 9,
+    "codice": 904,
+    "descripcion": "Abuna"
+  },
+  {
+    "idDepartamento": 9,
+    "codice": 905,
+    "descripcion": "Federico Roman"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "idDepartamento": 11,
+    "idMunicipio": 500,
+    "descripcion": "Año nuevo",
+    "fechaInicio": "01-01-2023",
+    "fechaFin": "01-01-2023",
+    "esRecurrente": true,
+    "esNacional": true
+  },
+  {
+    "idDepartamento": 12,
+    "idMunicipio": 501,
+    "descripcion": "Día del Estado Plurinacional de Bolivia",
+    "fechaInicio": "22-01-2023",
+    "fechaFin": "22-01-2023",
+    "esRecurrente": true,
+    "esNacional": true
+  },
+  {
+    "idDepartamento": 13,
+    "idMunicipio": 502,
+    "descripcion": "Lunes de Carnaval",
+    "fechaInicio": "20-02-2023",
+    "fechaFin": "20-02-2023",
+    "esRecurrente": true,
+    "esNacional": true
+  },
+  {
+    "idDepartamento": 14,
+    "idMunicipio": 503,
+    "descripcion": "Martes de Carnaval",
+    "fechaInicio": "21-02-2023",
+    "fechaFin": "21-02-2023",
+    "esRecurrente": true,
+    "esNacional": true
+  },
+  {
+    "idDepartamento": 15,
+    "idMunicipio": 504,
+    "descripcion": "Viernes Santo",
+    "fechaInicio": "07-04-2023",
+    "fechaFin": "07-04-2023",
+    "esRecurrente": true,
+    "esNacional": true
+  },
+  {
+    "idDepartamento": 16,
+    "idMunicipio": 505,
+    "descripcion": "Día del trabajo",
+    "fechaInicio": "01-05-2023",
+    "fechaFin": "01-05-2023",
+    "esRecurrente": true,
+    "esNacional": true
+  },
+  {
+    "idDepartamento": 17,
+    "idMunicipio": 506,
+    "descripcion": "Corpus Christi",
+    "fechaInicio": "08-06-2023",
+    "fechaFin": "08-06-2023",
+    "esRecurrente": true,
+    "esNacional": true
+  },
+  {
+    "idDepartamento": 18,
+    "idMunicipio": 507,
+    "descripcion": "Año nuevo Amazónico",
+    "fechaInicio": "21-06-2023",
+    "fechaFin": "21-06-2023",
+    "esRecurrente": true,
+    "esNacional": true
+  },
+  {
+    "idDepartamento": 19,
+    "idMunicipio": 508,
+    "descripcion": "Día de la Independencia de Bolivia",
+    "fechaInicio": "06-08-2023",
+    "fechaFin": "06-08-2023",
+    "esRecurrente": true,
+    "esNacional": true
+  },
+  {
+    "idDepartamento": 20,
+    "idMunicipio": 509,
+    "descripcion": "Día de todos los difuntos",
+    "fechaInicio": "02-11-2023",
+    "fechaFin": "02-11-2023",
+    "esRecurrente": true,
+    "esNacional": true
+  },
+  {
+    "idDepartamento": 21,
+    "idMunicipio": 510,
+    "descripcion": "Navidad",
+    "fechaInicio": "25-12-2023",
+    "fechaFin": "25-12-2023",
+    "esRecurrente": true,
+    "esNacional": true
+  },
+  {
+    "idDepartamento": 4,
+    "idMunicipio": 169,
+    "descripcion": "Efemérides de Oruro",
+    "fechaInicio": "10-02-2023",
+    "fechaFin": "10-02-2023",
+    "esRecurrente": true,
+    "esNacional": false
+  },
+  {
+    "idDepartamento": 6,
+    "idMunicipio": 246,
+    "descripcion": "Efemérides de Tarija",
+    "fechaInicio": "15-04-2023",
+    "fechaFin": "15-04-2023",
+    "esRecurrente": true,
+    "esNacional": false
+  },
+  {
+    "idDepartamento": 1,
+    "idMunicipio": 1,
+    "descripcion": "Efemérides de Chuquisaca",
+    "fechaInicio": "25-05-2023",
+    "fechaFin": "25-05-2023",
+    "esRecurrente": true,
+    "esNacional": false
+  },
+  {
+    "idDepartamento": 2,
+    "idMunicipio": 31,
+    "descripcion": "Efemérides de La Paz",
+    "fechaInicio": "16-07-2023",
+    "fechaFin": "16-07-2023",
+    "esRecurrente": true,
+    "esNacional": false
+  },
+  {
+    "idDepartamento": 3,
+    "idMunicipio": 119,
+    "descripcion": "Efemérides de Cochabamba",
+    "fechaInicio": "14-09-2023",
+    "fechaFin": "14-09-2023",
+    "esRecurrente": true,
+    "esNacional": false
+  },
+  {
+    "idDepartamento": 7,
+    "idMunicipio": 258,
+    "descripcion": "Efemérides de Santa Cruz",
+    "fechaInicio": "24-09-2023",
+    "fechaFin": "24-09-2023",
+    "esRecurrente": true,
+    "esNacional": false
+  },
+  {
+    "idDepartamento": 9,
+    "idMunicipio": 333,
+    "descripcion": "Efemérides de Pando",
+    "fechaInicio": "24-09-2023",
+    "fechaFin": "24-09-2023",
+    "esRecurrente": true,
+    "esNacional": false
+  },
+  {
+    "idDepartamento": 5,
+    "idMunicipio": 205,
+    "descripcion": "Efemérides de Potosí",
+    "fechaInicio": "10-11-2023",
+    "fechaFin": "10-11-2023",
+    "esRecurrente": true,
+    "esNacional": false
+  },
+  {
+    "idDepartamento": 8,
+    "idMunicipio": 314,
+    "descripcion": "Efemérides de Beni",
+    "fechaInicio": "18-11-2023",
+    "fechaFin": "18-11-2023",
+    "esRecurrente": true,
+    "esNacional": false
+  }
+]

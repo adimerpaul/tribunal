@@ -1,0 +1,10 @@
+[
+  {
+    "idTipoActoProcesal": 1,
+    "idTipoAudiencia": 1
+  },
+  {
+    "idTipoActoProcesal": 1,
+    "idTipoAudiencia": 2
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "codigo": 1,
+    "descripcion": "No Especificado",
+    "tipo": "Proceso Ordinario"
+  },
+  {
+    "codigo": 2,
+    "descripcion": "Denunciante",
+    "tipo": "Proceso Penal"
+  },
+  {
+    "codigo": 3,
+    "descripcion": "Denunciado",
+    "tipo": "Proceso Ordinario"
+  },
+  {
+    "codigo": 4,
+    "descripcion": "Víctima",
+    "tipo": "Proceso Penal"
+  },
+  {
+    "codigo": 5,
+    "descripcion": "Testigo",
+    "tipo": "Proceso Ordinario"
+  },
+  {
+    "codigo": 6,
+    "descripcion": "Abogado",
+    "tipo": "Proceso Penal"
+  },
+  {
+    "codigo": 7,
+    "descripcion": "Fiscal",
+    "tipo": "Proceso Ordinario"
+  },
+  {
+    "codigo": 8,
+    "descripcion": "Juez",
+    "tipo": "Proceso Penal"
+  },
+  {
+    "codigo": 9,
+    "descripcion": "Perito",
+    "tipo": "Proceso Ordinario"
+  },
+  {
+    "codigo": 10,
+    "descripcion": "Intérprete",
+    "tipo": "Proceso Penal"
+  },
+  {
+    "codigo": 11,
+    "descripcion": "Traductor",
+    "tipo": "Proceso Ordinario"
+  },
+  {
+    "codigo": 12,
+    "descripcion": "Representante del Denunciante",
+    "tipo": "Proceso Penal"
+  },
+  {
+    "codigo": 13,
+    "descripcion": "Representante del Denunciado",
+    "tipo": "Proceso Ordinario"
+  },
+  {
+    "codigo": 14,
+    "descripcion": "Investigador",
+    "tipo": "Proceso Penal"
+  },
+  {
+    "codigo": 15,
+    "descripcion": "Representante Legal",
+    "tipo": "Proceso Ordinario"
+  }
+]

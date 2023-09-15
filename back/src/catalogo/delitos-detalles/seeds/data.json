@@ -1,0 +1,520 @@
+[
+    {
+     "idDelito": 4,
+     "tipo": "Agravante",
+     "descripcion": "Si del abandono resultare lesión corporal grave o muerte, la pena privativa de libertad será agravada en una mitad, o la aplicación de pena de Presidio de quince a veinte años.",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 6,
+     "tipo": "Agravante",
+     "descripcion": "Si del hecho derivare una lesión grave o la muerte de la hija o hijo, la sanción será de cinco a diez años y la aplicación de pena de Presidio de quince a veinte años respectivamente",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 7,
+     "tipo": "Agravante",
+     "descripcion": "III. En los casos de los Parágrafos I y II del presente Artículo, la sanción será agravada de cuatro (4) a seis (6) años de privación de libertad, cuando:\n1. El hecho recaiga sobre dos (2) o más cabezas de ganado caballar, mular, asnal, bovino, bufalino, porcino, caprino, ovino o camélido sudamericano.\n2. El hecho sea cometido por dos (2) o más personas\n3. Se trate de animales de alto valor genético\n4. La persona autora mantenga una relación de dependencia laboral con la víctima\n5. El hecho se cometa en ocasión de un desastre natural, convulsión popular o\naprovechándose de un accidente, o de un infortunio particular o, que el bien se halle\nfuera del control del dueño; o\n6. Se utilicen armas de fuego o se ejerza violencia sobre las personas.",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 11,
+     "tipo": "Agravante",
+     "descripcion": "En un tercio del máximo o mínimo, cuando mediaren las circunstancias enumeradas en el Artículo 252, exceptuando la prevista en el numeral 1. ",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 12,
+     "tipo": "Agravante",
+     "descripcion": "Si el delito fuere cometido para salvar el honor de la mujer, sea por ella misma o por terceros, con consentimiento de aquella, se impondrá reclusión de seis (6) meses a dos (2) años, agravándose la sanción en un tercio, si sobreviniere la muerte",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 15,
+     "tipo": "Agravante",
+     "descripcion": "Cuando el aborto con el consentimiento de la mujer fuere seguido de  la pena será de privación de libertad de uno (1) a cuatro (4) años; y si sobreviniere la muerte, la sanción será agravada en una mitad",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 16,
+     "tipo": "Agravante",
+     "descripcion": "cuando se realicen en perjuicio de víctimas múltiples, serán sancionados con reclusión de tres (3) a diez (10) años y con multa de cien víctimas múltiples, serán sancionados con reclusión de tres (3) a diez (10) años y con multa de cien (100) a quinientos (500) días.",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 19,
+     "tipo": "Agravante",
+     "descripcion": "Agravándose en un tercio sí se produjere cualquiera de estos efectos",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 23,
+     "tipo": "Agravante",
+     "descripcion": "II. Si la exigencia, solicitud o imposición fuera ejercida por un servidor público en el ámbito de la relación jerárquica que ostenta, será destituido de su cargo y la pena será agravada en un tercio.",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 25,
+     "tipo": "Agravante",
+     "descripcion": "Si de este hecho resultare la destrucción de bienes de gran valor científi co, artístico, histórico, religioso, militar o económico, la sanción será aumentada en un tercio.",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 28,
+     "tipo": "Agravante",
+     "descripcion": "La pena se agravará en un tercio cuando el autor obligue a su cónyuge, conviviente o pareja sexual a tener relaciones sexuales con terceras personas.",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 30,
+     "tipo": "Agravante",
+     "descripcion": "Si como consecuencia de la administración de sustancias controladas resultare un quebrantamiento grave de la salud, la sanción será de quince a veinte años de Presidio y mil a tres mil días de multa. \nSi del hecho resultare la muerte de la persona, la sanción será de veinte a treinta años de Presidio",
+     "leyNormativa": "Ley 1008"
+    },
+    {
+     "idDelito": 31,
+     "tipo": "Agravante",
+     "descripcion": "Agravándose en un tercio sí se produjere cualquiera de estos efectos",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 39,
+     "tipo": "Agravante",
+     "descripcion": "III. La pena será agravada en una mitad de la pena máxima, en caso que la persona incurra en ambas conductas establecidas en los parágrafos I y II.",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 40,
+     "tipo": "Agravante",
+     "descripcion": "Se agravará la sanción en un tercio, si el delito se cometiere de noche, o con fuerza en las cosas o violencia en las personas, o con armas, o por varias personas reunidas",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 42,
+     "tipo": "Agravante",
+     "descripcion": "La sanción será agravada en un tercio en caso de reincidencia",
+     "leyNormativa": "Ley 2492"
+    },
+    {
+     "idDelito": 44,
+     "tipo": "Agravante",
+     "descripcion": "La sanción será agravada en un tercio, si los hechos fueren cometidos por varias personas y con armas",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 45,
+     "tipo": "Agravante",
+     "descripcion": "Si la alteración del genotipo fuera realizada por imprudencia, la pena será de inhabilitación especial de uno (1) a dos (2) años.",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 48,
+     "tipo": "Agravante",
+     "descripcion": "Si el Oficial del Registro Civil autorizare a sabiendas las inscripciones a que se refieren los incisos 1) y 2), la pena para él será agravada en un tercio",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 52,
+     "tipo": "Agravante",
+     "descripcion": "cuando se realicen en perjuicio de víctimas múltiples, serán sancionados con reclusión de tres (3) a diez (10) años y con multa de cien víctimas múltiples, serán sancionados con reclusión de tres (3) a diez (10) años y con multa de cien (100) a quinientos (500) días.",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 57,
+     "tipo": "Agravante",
+     "descripcion": "II. La pena impuesta en el Parágrafo I del presente Artículo, será agravada en la mitad de la pena cuando afecte a la educación, la salud y al deporte",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 59,
+     "tipo": "Agravante",
+     "descripcion": "La pena será aumentada en un tercio, cuando el autor hubiere recibido la cosa:\n1) En depósito necesario.\n2) Como tutor, curador, síndico, liquidador, inventariante, albacea testamentario o\ndepositario judicial.\n3) En razón de su oficio, empleo o profesión.\n",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 59,
+     "tipo": "Atenuante",
+     "descripcion": "La pena será aumentada en un tercio, cuando el autor hubiere recibido la cosa:\n1) En depósito necesario.\n2) Como tutor, curador, síndico, liquidador, inventariante, albacea testamentario o\ndepositario judicial.\n3) En razón de su oficio, empleo o profesión.\n- Y atenuada en un tercio, si el autor sólo hubiere hecho uso indebido de la cosa recibida, en los casos anteriores",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 65,
+     "tipo": "Agravante",
+     "descripcion": "Si de este hecho resultare la destrucción de bienes de gran valor científi co, artístico, histórico, religioso, militar o económico, la sanción será aumentada en un tercio.",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 66,
+     "tipo": "Agravante",
+     "descripcion": "Si de este hecho resultare la destrucción de bienes de gran valor científi co, artístico, histórico, religioso, militar o económico, la sanción será aumentada en un tercio.",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 78,
+     "tipo": "Agravante",
+     "descripcion": "la pena será agravada en un tercio cuando quien comete el delito sea o haya sido servidor público, en especial aquellos de entidades relacionadas con el acceso a la tierra rural y urbana, sea reincidente o cabecilla, o el delito afecte a las áreas productivas urbanas o rurales, zonas de recarga hídrica, servidumbres ecológicas, franjas de seguridad y otras áreas con protección legal.",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 83,
+     "tipo": "Agravante",
+     "descripcion": "II. La sanción será agravada en un tercio de la pena máxima, si se matare a más de un animal",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 105,
+     "tipo": "Agravante",
+     "descripcion": "Si de este hecho resultare la destrucción de bienes de gran valor científico, artístico, histórico, religioso, militar o económico, la sanción será aumentada en un tercio.",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 106,
+     "tipo": "Atenuante",
+     "descripcion": "Si actuare culposamente, será sancionado con privación de libertad de uno (1) a cuatro (4) años.",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 116,
+     "tipo": "Atenuante",
+     "descripcion": "En caso de que actuare culposamente, la pena será de privación de libertad de uno (1) a cuatro (4) años.",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 118,
+     "tipo": "Agravante",
+     "descripcion": "Si el autor fuere servidora o servidor público, la pena será agravada en un tercio",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 119,
+     "tipo": "Agravante",
+     "descripcion": "Si el autor fuere servidora o servidor público, la pena será agravada en un tercio",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 124,
+     "tipo": "Agravante",
+     "descripcion": "La pena será agravada en una mitad cuando;\n2. Si el hecho fuera ejecutado con propósitos de lucro;\n3. Si mediare engaño, violencia o cualquier otro medio de intimidación o coerción;\n4. Si la víctima padeciera de enfermedad o defi ciencia psíquica;\n5. Si el autor fuera ascendiente, marido, hermano, tutor o encargado de la educación o custodia de la víctima",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 125,
+     "tipo": "Agravante",
+     "descripcion": "La pena será agravada en un tercio:\n1. Si la víctima fuera menor de catorce años;\n2. Si el hecho fuera ejecutado con propósitos de lucro;\n3. Si mediare engaño, violencia o cualquier otro medio de intimidación o coerción;\n4. Si la víctima padeciera de enfermedad o defi ciencia psíquica;\n5. Si el autor fuera ascendiente, marido, hermano, tutor o encargado de la educación o custodia de la víctima",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 128,
+     "tipo": "Agravante",
+     "descripcion": "La sanción será agravada en un tercio cuando el daño recayere sobre bienes muebles e inmuebles del Patrimonio Cultural Boliviano",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 139,
+     "tipo": "Agravante",
+     "descripcion": "En caso que las víctimas pertenezcan a una nación o pueblo indígena originarios en situación de alta vulnerabilidad, la pena será agravada en un tercio",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 142,
+     "tipo": "Agravante",
+     "descripcion": "b) Uso indebido de Influencias para otorgación de Crédito. Si como resultado de ésta actividad se causare daño a terceros o a la propia entidad, la pena se agravará en una mitad.\nc) Apropiación indebida de Fondos Financieros. Cuando el ilícito sea cometidos por un empleado de la entidad fi nanciera, aprovechando de su posición o del error ajeno, la pena se agravará en una mitad.\nd) Forjamiento de resultados fi nancieros ilícitos.La pena se gravará en la mitad para quien con el ánimo de obtener un benefi cio para sí o para un tercero o de perjudicar a otro participante del mercado, haga subir, bajar o mantener el precio, o facilitar la venta o compra de valores, mediante la afi rmación o simulación de hechos o circunstancias falsas o la deformación u ocultamiento de hechos o circunstancias verdaderas, de modo que induzca a error sobre las características esenciales de la inversión.",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 149,
+     "tipo": "Agravante",
+     "descripcion": "Si como consecuencia del hecho resultaren graves daños físicos o psicológicos de la victima, la pena será de quince (15) a veinte (20) años de Presidio.\nSi el autor del hecho fuera funcionario público, el máximo de la pena, será agravada en un tercio.\nSi a consecuencia del hecho se produjere la muerte de la victima, se impondrá la pena de treinta (30) años de Presidio.",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 150,
+     "tipo": "Agravante",
+     "descripcion": "Si de este hecho resultare la destrucción de bienes de gran valor científico, artístico, histórico, religioso, militar o económico, la sanción será aumentada en un tercio.",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 156,
+     "tipo": "Agravante",
+     "descripcion": "La sanción será agravada en un tercio, si los hechos fueren cometidos por varias personas y con armas",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 165,
+     "tipo": "Agravante",
+     "descripcion": "I. La sanción será agravada en un tercio del mínimo y en una mitad del máximo, cuando el hecho sea cometido por una servidora o servidor público, o autoridad Pública.",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 166,
+     "tipo": "Agravante",
+     "descripcion": "II. La sanción será agravada en un tercio del mínimo y en una mitad el máximo cuando:\na) El hecho sea cometido por una servidora o servidor público o autoridad Pública.\nb) El hecho sea cometido por un particular en la prestación de un servicio público.\nc) El hecho sea cometido con violencia.",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 194,
+     "tipo": "Agravante",
+     "descripcion": "cuando se realicen en perjuicio de víctimas múltiples, serán sancionados con reclusión de tres (3) a diez (10) años y con multa de cien víctimas múltiples, serán sancionados con reclusión de tres (3) a diez (10) años y con multa de cien (100) a quinientos (500) días.",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 196,
+     "tipo": "Agravante",
+     "descripcion": "La pena será agravada en un tercio cuando el delito sea cometido contra una mujer menor de edad o aprovechando su condición de discapacidad, o cuando concurran las circunstancias previstas en el Artículo 252\nSi el delito se cometiera como parte del delito de genocidio perpetrado con la intención de destruir total o parcialmente a un grupo nacional, social, pueblo indígena originario campesino o grupo religioso como tal, adoptando para ello medidas destinadas a impedir los nacimientos en el seno del grupo, se aplicará la pena de treinta (30) años de privación de libertad sin derecho a indulto",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 197,
+     "tipo": "Agravante",
+     "descripcion": "La pena será agravada con cinco (5) años, cuando: \na) Producto de la violación se produjera alguna de las circunstancias previstas en los Artículos 270 y 271 de este Código;\nb) El hecho se produce frente a niñas, niños o adolescentes;\nc) En la ejecución del hecho hubieran concurrido dos (2) o más personas;\nd) El hecho se produce estando la víctima en estado de inconsciencia;\ne) En la comisión del hecho se utilizaren armas u otros medios peligrosos susceptibles de producir la muerte de la víctima;\nf) El autor fuese cónyuge, conviviente o con quien la víctima mantiene o hubiera mantenido una relación análoga de intimidad;\ng) El autor estuviere encargado de la educación o custodia de la víctima, o si ésta se encontrara en situación de dependencia respecto a éste o bajo su autoridad;\nh) El autor hubiera sometido a la víctima a condiciones vejatorias o degradantes;\ni) La víctima tuviere algún grado de discapacidad;\nj) La víctima sea mayor de sesenta (60) años;\nk) La víctima se encuentre embarazada o si como consecuencia del hecho quede embarazada;\nl) Tratándose del delito de violación, la víctima sea mayor de catorce (14) y menor de dieciocho (18) años;\nm) El autor hubiera cometido el hecho en más de una oportunidad en contra de la víctima;\nn) A consecuencia del hecho se produjera una infección de transmisión sexual o VIH;\no) El autor fuera ascendiente, descendiente o pariente dentro del cuarto grado de consanguinidad o segundo de afinidad\n",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 201,
+     "tipo": "Agravante",
+     "descripcion": "Si se usare de alguna violencia en los casos de los Artículos anteriores, la sanción será agravada en un tercio.",
+     "leyNormativa": "Ley 004"
+    },
+    {
+     "idDelito": 210,
+     "tipo": "Agravante",
+     "descripcion": "Si de este hecho resultare la destrucción de bienes de gran valor científi co, artístico, histórico, religioso, militar o económico, la sanción será aumentada en un tercio.",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 214,
+     "tipo": "Agravante",
+     "descripcion": "Si el autor fuere un funcionario público y las cometiere en el ejercicio de sus funciones, la sanción será de privación de libertad de dos (2) a ocho (8) años\nSerá agravada en un tercio cuando se cometan para facilitar la comisión de los delitos de Trata y Tráfico de Personas, y otros delitos conexos",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 215,
+     "tipo": "Agravante",
+     "descripcion": "Si el falso certificado tuviere por consecuencia que una persona sana sea internada en un manicomio o en casa de salud, será sancionado con reclusión de seis (6) meses a dos (2) años y multa de treinta (30) a cien (100) días"
+    },
+    {
+     "idDelito": 216,
+     "tipo": "Agravante",
+     "descripcion": "Si el autor fuere un funcionario público y las cometiere en el ejercicio de sus funciones, la sanción será de privación de libertad de dos (2) a ocho (8) años.\nSerá agravada en un tercio cuando se cometan para facilitar la comisión de los delitos de Trata y Tráfi co de Personas, y otros delitos conexos",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 227,
+     "tipo": "Agravante",
+     "descripcion": "El falso testimonio fuere cometido en juicio criminal, en perjuicio del inculpado, la pena será de privación de libertad de uno (1) a tres (3) años.\nCuando el falso testimonio se perpetrare mediante soborno, la pena precedente se aumentará en un tercio.",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 228,
+     "tipo": "Agravante",
+     "descripcion": "Si el autor fuere un funcionario publico la pena será aumentada en un tercio",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 228,
+     "tipo": "Atenuante",
+     "descripcion": "Será disminuida en la misma proporción, si el autor fuere ascendiente, descendiente, cónyuge o hermano del evadido.",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 234,
+     "tipo": "Agravante",
+     "descripcion": "La servidora o el servidor público que concediere, usare o negociare ilegalmente tales liberaciones, franquicias o privilegios, será sancionado con la pena establecida en el párrafo anterior, agravada en un tercio.",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 235
+    },
+    {
+     "idDelito": 236,
+     "tipo": "Agravante",
+     "descripcion": "Si lograre el propósito de cobrar el seguro, la pena será agravada en una mitad y multa de treinta (30) a cien (100) días.",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 237,
+     "tipo": "Agravante",
+     "descripcion": "Cuando autoridades, funcionarios, empleados públicos, cometieren los delitos tipificados en esta ley , participaren de ellos en ejercicio de sus funciones o empleos o se valieren de ellos, la sanción se agravará en un tercio de lo establecido, además de la inhabilitación defi nitiva para el ejercicio de la función Pública.",
+     "leyNormativa": "Ley 1008"
+    },
+    {
+     "idDelito": 239,
+     "tipo": "Agravante",
+     "descripcion": "Si la víctima del delito resultare ser niña, niño o adolescente, la pena será de catorce (14) a veinticinco (25) años.",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 240,
+     "tipo": "Agravante",
+     "descripcion": "Si la muerte se produce como consecuencia de una grave violación culpable de los deberes inherentes a una profesión, ofi cio o cargo, la sanción será de reclusión de uno (1) a cinco (5) años",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 242,
+     "tipo": "Agravante",
+     "descripcion": "Si la víctima del delito resultare ser Niña, Niño o Adolescente, la pena será agravada en dos tercios",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 245,
+     "tipo": "Agravante",
+     "descripcion": "I. Si el hecho se produjera estando el autor bajo la dependencia de alcohol o estupefacientes, la pena será de reclusión de cinco (5) a ocho (8) años y se impondrá al autor del hecho, inhabilitación para conducir de forma definitiva\nIII. Si la muerte o lesiones graves o gravísimas se produjeren como consecuencia de una grave inobservancia de la Ley, el Código y el Reglamento de Tránsito que establece los deberes de cuidado del propietario, gerente o administrador de una empresa de transporte, éste será sancionado con reclusión de uno (1) a dos (2) años.",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 246,
+     "tipo": "Agravante",
+     "descripcion": "Si la víctima del delito en cualquiera de los casos del presente Artículo, resultare ser niña, niño o adolescente, la pena será agravada en dos tercios",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 248,
+     "tipo": "Agravante",
+     "descripcion": "La sanción será agravada en un tercio de la pena máxima, cuando la cosa mueble ajena este calificada como Patrimonio Cultural Boliviano",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 253,
+     "tipo": "Agravante",
+     "descripcion": "II. Si fuera miembro o partícipe de una asociación delictuosa, la pena será agravada en un tercio de la pena mayor. \nIII. La pena será agravada en dos tercios de la pena mayor si fuere miembro o partícipe de la estructura de una Organización Criminal. \nIV. La pena será agravada en dos tercios si concurrieran las causales del robo agravado o el armamento o munición hurtado o robado fuere utilizado para la comisión de otro delito. ",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 254,
+     "tipo": "Agravante",
+     "descripcion": "II. La pena será agravada en la mitad del máximo, si concurrieran las causales del robo agravado o las armas de fuego hurtadas o robadas fueran utilizadas para la comisión de otro delito",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 258,
+     "tipo": "Agravante",
+     "descripcion": "Si de este hecho resultare la destrucción de bienes de gran valor científico, artístico, histórico, religioso, militar o económico, la sanción será aumentada en un tercio.",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 260,
+     "tipo": "Agravante",
+     "descripcion": "La pena será agravada en un tercio, cuando el delito ocasione daño económico al Estado.",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 262,
+     "tipo": "Agravante",
+     "descripcion": "La pena será agravada en un tercio, cuando el delito ocasione daño económico al Estado",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 271,
+     "tipo": "Agravante",
+     "descripcion": "Incurrirá en la misma sanción, agravada en un tercio, la servidora o el servidor público o el que en las condiciones anteriores usare o revelare dichos datos o noticias en beneficio propio o de terceros\nSi obrare culposamente, la pena será rebajada en un tercio",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 272,
+     "tipo": "Agravante",
+     "descripcion": "La sanción será agravada en un tercio, si los hechos fueren cometidos por varias personas y con armas",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 276,
+     "tipo": "Agravante",
+     "descripcion": "Sí el instigado fuere menor o incapaz, la pena será de cinco a diez años de Presidio y dos mil a cuatro mil días de multa",
+     "leyNormativa": "Ley 1008"
+    },
+    {
+     "idDelito": 280,
+     "tipo": "Agravante",
+     "descripcion": "I. Si este delito fuera cometido mediante impreso, manuscrito o a través de medios de comunicación, la pena será agravada en un tercio el mínimo y en un medio el máximo.",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 280,
+     "tipo": "Atenuante",
+     "descripcion": "II. Si la persona sindicada de este delito se retractare, antes o a tiempo de la imputación formal la acción penal quedará extinguida. No se admitirá una segunda retractación sobre el mismo hecho",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 287,
+     "tipo": "Agravante",
+     "descripcion": "La sanción privativa de libertad será agravada en dos tercios, si la víctima del delito resultare ser niña, niño, adolescente o persona adulta mayor.",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 287,
+     "tipo": "Atenuante",
+     "descripcion": "Si se tratare de los casos previstos en el Artículo 254, párrafo primero, la sanción será disminuida en un tercio.",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 288,
+     "tipo": "Agravante",
+     "descripcion": "Si la víctima del delito resultare ser niña, niño, adolescente o persona adulta mayor se aplicará una pena privativa de libertad de dos (2) a cuatro (4) años",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 289,
+     "tipo": "Agravante",
+     "descripcion": "Cuando la víctima sea una niña, niño, adolescente o persona adulta mayor la pena será agravada en dos tercios tanto en el mínimo como en el máximo",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 290,
+     "tipo": "Agravante",
+     "descripcion": "Cuando la víctima sea niña, niño, adolescente o persona adulta mayor la pena será agravada en dos tercios tanto en el mínimo como en el máximo",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 291,
+     "tipo": "Agravante",
+     "descripcion": "III. En caso de que el propietario no cumpla con la obligación de cubrir, la asistencia médica y el resarcimiento económico por secuelas a la víctima, la pena será agravada en un tercio",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 295,
+     "tipo": "Agravante",
+     "descripcion": "Si del hecho resultare daño o entorpecimiento para el servicio público, la sanción será agravada en un tercio.",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 307,
+     "tipo": "Agravante",
+     "descripcion": "Se agravará la sanción en una mitad a quienes utilicen la fuerza física, amenazas o intimación para obstaculizar el cumplimiento de las funciones oficiales de jueces, fiscales, policías y otros servidores responsables de luchar contra la corrupción.",
+     "leyNormativa": "Ley 004"
+    },
+    {
+     "idDelito": 312,
+     "tipo": "Agravante",
+     "descripcion": "Si el delito tuviere como víctima a un niño, niña o adolescente, la pena se aumentará en un tercio",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 314,
+     "tipo": "Agravante",
+     "descripcion": "La sanción será agravada en un tercio del mínimo y en una mitad el máximo, cuando el hecho sea cometido por una servidora o servidor público o autoridad Pública.",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 316,
+     "tipo": "Agravante",
+     "descripcion": "Si de este hecho resultare la destrucción de bienes de gran valor científi co, artístico, histórico, religioso, militar o económico, la sanción será aumentada en un tercio.",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 321,
+     "tipo": "Agravante",
+     "descripcion": "La sanción será agravada en un tercio si la apropiación fuera sobre bienes de Patrimonio Cultural Boliviano de cuya administración, cobro o custodia se hallare encargado",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 323,
+     "tipo": "Agravante",
+     "descripcion": "Si de este hecho resultare la destrucción de bienes de gran valor científi co, artístico, histórico, religioso, militar o económico, la sanción será aumentada en un tercio.",
+     "leyNormativa": "CP"
+    },
+    {
+     "idDelito": 324,
+     "tipo": "Agravante",
+     "descripcion": "La sanción será agravada en un tercio, si los hechos fueren cometidos por varias personas y con armas",
+     "leyNormativa": "CP"
+    }
+]

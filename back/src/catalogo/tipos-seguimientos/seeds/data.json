@@ -1,0 +1,62 @@
+[
+  {
+    "codigo": 1,
+    "ambito": "Ministeri Publico",
+    "descripcion": "En Ventanilla Única / Interoperabilidad"
+  },
+  {
+    "codigo": 2,
+    "ambito": "Tribunal departamental",
+    "descripcion": "En Ventanilla Única"
+  },
+  {
+    "codigo": 3,
+    "ambito": "Tribunal Supremo",
+    "descripcion": "En Ventanilla Única"
+  },
+  {
+    "codigo": 4,
+    "ambito": "Tribunal Departamental",
+    "descripcion": "En Oficina Gestora de Procesos"
+  },
+  {
+    "codigo": 5,
+    "ambito": "Tribunal Departamental",
+    "descripcion": "A Juzgado"
+  },
+  {
+    "codigo": 6,
+    "ambito": "Tribunal Departamental",
+    "descripcion": "En Juzgado"
+  },
+  {
+    "codigo": 7,
+    "ambito": "Tribunal Departamental",
+    "descripcion": "Notificación Zonificada"
+  },
+  {
+    "codigo": 8,
+    "ambito": "Tribunal Departamental",
+    "descripcion": "Notificación Cerrada"
+  },
+  {
+    "codigo": 9,
+    "ambito": "Tribunal Departamental",
+    "descripcion": "A sala de vocales"
+  },
+  {
+    "codigo": 10,
+    "ambito": "Tribunal Departamental",
+    "descripcion": "En sala de vocales"
+  },
+  {
+    "codigo": 11,
+    "ambito": "Tribunal Supremo",
+    "descripcion": "A sala de magistrados"
+  },
+  {
+    "codigo": 12,
+    "ambito": "Tribunal Supremo",
+    "descripcion": "En sada de magistrados"
+  }
+]

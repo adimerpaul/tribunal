@@ -1,0 +1,34 @@
+[
+  {
+    "codigo": 1,
+    "descripcion": "Suspendida"
+  },
+  {
+    "codigo": 2,
+    "descripcion": "Reprogramada"
+  },
+  {
+    "codigo": 3,
+    "descripcion": "Cuarto Intermedio"
+  },
+  {
+    "codigo": 4,
+    "descripcion": "Confirmada o Señalada"
+  },
+  {
+    "codigo": 5,
+    "descripcion": "Concluida o Finalizada"
+  },
+  {
+    "codigo": 6,
+    "descripcion": "Rechazada"
+  },
+  {
+    "codigo": 7,
+    "descripcion": "En curso"
+  },
+  {
+    "codigo": 8,
+    "descripcion": "Propuesta o Agendada"
+  }
+]

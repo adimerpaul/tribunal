@@ -1,0 +1,58 @@
+[
+  {
+    "codigo": 1,
+    "descripcion": "Población LGBTI"
+  },
+  {
+    "codigo": 2,
+    "descripcion": "Adulto Mayor"
+  },
+  {
+    "codigo": 3,
+    "descripcion": "Niño - Adolescente"
+  },
+  {
+    "codigo": 4,
+    "descripcion": "Mujer"
+  },
+  {
+    "codigo": 5,
+    "descripcion": "Enfermedad Terminal"
+  },
+  {
+    "codigo": 6,
+    "descripcion": "Mujer Embarazada"
+  },
+  {
+    "codigo": 7,
+    "descripcion": "Población con discapacidad fisica"
+  },
+  {
+    "codigo": 8,
+    "descripcion": "Población con discapacidad mental"
+  },
+  {
+    "codigo": 9,
+    "descripcion": "Personas extranjeras"
+  },
+  {
+    "codigo": 10,
+    "descripcion": "Minorias etnicas"
+  },
+  {
+    "codigo": 11,
+    "descripcion": "Indigena/Originario"
+  },
+  {
+    "codigo": 12,
+    "descripcion": "Migrantes"
+  },
+  {
+    "codigo": 13,
+    "descripcion": "Refugiados"
+  },
+  {
+    "codigo": 14,
+    "descripcion": "Asilados"
+  }
+]

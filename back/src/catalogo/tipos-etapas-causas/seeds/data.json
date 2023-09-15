@@ -1,0 +1,12 @@
+[
+  { "descripcion": "Preliminar" },
+  { "descripcion": "Preparatoria" },
+  { "descripcion": "Juicio" },
+  { "descripcion": "Procedimiento abreviado" },
+  { "descripcion": "Apelaciones" },
+  { "descripcion": "Ejecución penal" },
+  { "descripcion": "Cerrado" },
+  { "descripcion": "Archivo" },
+  { "descripcion": "Pre procesal (PD)" },
+  { "descripcion": "Procesal (PD)" }
+]

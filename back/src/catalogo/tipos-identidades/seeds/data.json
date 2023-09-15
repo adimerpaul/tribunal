@@ -1,0 +1,22 @@
+[
+  {
+    "codigo": 1,
+    "descripcion": "No Especificado"
+  },
+  {
+    "codigo": 2,
+    "descripcion": "Con Segip"
+  },
+  {
+    "codigo": 3,
+    "descripcion": "Sin Segip"
+  },
+  {
+    "codigo": 4,
+    "descripcion": "NN"
+  },
+  {
+    "codigo": 5,
+    "descripcion": "Contra Autores"
+  }
+]

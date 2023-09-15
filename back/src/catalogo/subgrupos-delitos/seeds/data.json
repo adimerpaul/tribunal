@@ -1,0 +1,258 @@
+[
+    {
+     "idGrupoDelito": 1,
+     "descripcion": "Acciones de Defensa"
+    },
+    {
+     "idGrupoDelito": 2,
+     "descripcion": "Delito Privado A Público"
+    },
+    {
+     "idGrupoDelito": 3,
+     "descripcion": "Difamación, Calumnia E Injuria"
+    },
+    {
+     "idGrupoDelito": 5,
+     "descripcion": "Delitos Contra La Industria Y El Comercio"
+    },
+    {
+     "idGrupoDelito": 7,
+     "descripcion": "Cheques Sin Provisión De Fondos"
+    },
+    {
+     "idGrupoDelito": 11,
+     "descripcion": "Apropiación Indebida (Privada)"
+    },
+    {
+     "idGrupoDelito": 11,
+     "descripcion": "Daños (Privada)"
+    },
+    {
+     "idGrupoDelito": 11,
+     "descripcion": "Estafas Y Otras Defraudaciones (Privada)"
+    },
+    {
+     "idGrupoDelito": 11,
+     "descripcion": "Usurpación (Privada)"
+    },
+    {
+     "idGrupoDelito": 14,
+     "descripcion": "Delitos Contra La Dignidad Del Ser Humano (Privada)"
+    },
+    {
+     "idGrupoDelito": 20,
+     "descripcion": "Actos Previos"
+    },
+    {
+     "idGrupoDelito": 21,
+     "descripcion": "Resarción Civil"
+    },
+    {
+     "idGrupoDelito": 4,
+     "descripcion": "Delitos Contra La Función Judicial"
+    },
+    {
+     "idGrupoDelito": 4,
+     "descripcion": "Delitos Contra La Autoridad De Las Decisiones Judiciales"
+    },
+    {
+     "idGrupoDelito": 4,
+     "descripcion": "Régimen Penal Y Administrativo De La Legitimación De Ganacias Ilícitas"
+    },
+    {
+     "idGrupoDelito": 6,
+     "descripcion": "Delitos Contra El Matrimonio Y El Estado Civil"
+    },
+    {
+     "idGrupoDelito": 6,
+     "descripcion": "Delitos Contra Los Deberes De Asistencia Familiar"
+    },
+    {
+     "idGrupoDelito": 6,
+     "descripcion": "Delitos De Violencia Economica Y Patrimonial"
+    },
+    {
+     "idGrupoDelito": 7,
+     "descripcion": "Falsificación De Documentos En General"
+    },
+    {
+     "idGrupoDelito": 7,
+     "descripcion": "Falsificación De Moneda, Billetes De Banco, Títulos Al Portador Y Documentos De Crédito"
+    },
+    {
+     "idGrupoDelito": 7,
+     "descripcion": "Falsificación De Sellos, Papel Sellado, Timbres, Marcas Y Contraseñas"
+    },
+    {
+     "idGrupoDelito": 8,
+     "descripcion": "Delitos Cometidos Por Funcionarios Públicos"
+    },
+    {
+     "idGrupoDelito": 8,
+     "descripcion": "Delitos Cometidos Por Particulares"
+    },
+    {
+     "idGrupoDelito": 9,
+     "descripcion": "Delitos Contra La Inviolavilidad Del Domicilio"
+    },
+    {
+     "idGrupoDelito": 9,
+     "descripcion": "Delitos Contra La Inviolavilidad Del Secreto"
+    },
+    {
+     "idGrupoDelito": 9,
+     "descripcion": "Delitos Contra La Libertad Del Trabajo"
+    },
+    {
+     "idGrupoDelito": 9,
+     "descripcion": "Delitos Contra La Libertad Individual"
+    },
+    {
+     "idGrupoDelito": 10,
+     "descripcion": "Delitos Contra La Moral Sexual"
+    },
+    {
+     "idGrupoDelito": 10,
+     "descripcion": "Rapto"
+    },
+    {
+     "idGrupoDelito": 10,
+     "descripcion": "Ultrajes Al Pudor Público"
+    },
+    {
+     "idGrupoDelito": 10,
+     "descripcion": "Violacion, Estupro Y Abuso Deshonesto"
+    },
+    {
+     "idGrupoDelito": 11,
+     "descripcion": "Abigeato"
+    },
+    {
+     "idGrupoDelito": 11,
+     "descripcion": "Apropiación Indebida (Pública)"
+    },
+    {
+     "idGrupoDelito": 11,
+     "descripcion": "Daños (Pública)"
+    },
+    {
+     "idGrupoDelito": 11,
+     "descripcion": "Delitos Contra El Derecho De Autor"
+    },
+    {
+     "idGrupoDelito": 11,
+     "descripcion": "Delitos Financieros"
+    },
+    {
+     "idGrupoDelito": 11,
+     "descripcion": "Delitos Informaticos"
+    },
+    {
+     "idGrupoDelito": 11,
+     "descripcion": "Estafas Y Otras Defraudaciones (Pública)"
+    },
+    {
+     "idGrupoDelito": 11,
+     "descripcion": "Extorsiones"
+    },
+    {
+     "idGrupoDelito": 11,
+     "descripcion": "Hurto"
+    },
+    {
+     "idGrupoDelito": 11,
+     "descripcion": "Robo"
+    },
+    {
+     "idGrupoDelito": 11,
+     "descripcion": "Usura"
+    },
+    {
+     "idGrupoDelito": 11,
+     "descripcion": "Usurpación (Pública)"
+    },
+    {
+     "idGrupoDelito": 12,
+     "descripcion": "Delitos Contra La Salud Pública"
+    },
+    {
+     "idGrupoDelito": 12,
+     "descripcion": "Delitos Contra La Seguridad De Los Medios De Transporte Y Comunicación"
+    },
+    {
+     "idGrupoDelito": 12,
+     "descripcion": "Incendios Y Otros Estragos"
+    },
+    {
+     "idGrupoDelito": 13,
+     "descripcion": "Delitos Con Relación A Armas De Fuego, Municiones, Explosivos Y Otros Relacionados"
+    },
+    {
+     "idGrupoDelito": 13,
+     "descripcion": "Delitos Contra El Derecho Internacional"
+    },
+    {
+     "idGrupoDelito": 13,
+     "descripcion": "Delitos Contra La Seguridad Exterior Del Estado"
+    },
+    {
+     "idGrupoDelito": 13,
+     "descripcion": "Delitos Contra La Seguridad Interior Del Estado"
+    },
+    {
+     "idGrupoDelito": 13,
+     "descripcion": "Delitos Contra La Tranquilidad Pública"
+    },
+    {
+     "idGrupoDelito": 14,
+     "descripcion": "Abandono De Niños O De Otras Personas Incapaces"
+    },
+    {
+     "idGrupoDelito": 14,
+     "descripcion": "Aborto"
+    },
+    {
+     "idGrupoDelito": 14,
+     "descripcion": "Delitos Contra La Dignidad Del Ser Humano (Pública)"
+    },
+    {
+     "idGrupoDelito": 14,
+     "descripcion": "Delitos Contra La Libertad Corporal Y La Salud"
+    },
+    {
+     "idGrupoDelito": 14,
+     "descripcion": "Homicidio"
+    },
+    {
+     "idGrupoDelito": 14,
+     "descripcion": "Trata Y Trafico De Personas"
+    },
+    {
+     "idGrupoDelito": 15,
+     "descripcion": "Delitos De Corrupción"
+    },
+    {
+     "idGrupoDelito": 16,
+     "descripcion": "Delitos Electorales"
+    },
+    {
+     "idGrupoDelito": 17,
+     "descripcion": "Delitos Ambientales"
+    },
+    {
+     "idGrupoDelito": 17,
+     "descripcion": "Delitos Medioambientales"
+    },
+    {
+     "idGrupoDelito": 18,
+     "descripcion": "Delitos Tributarios"
+    },
+    {
+     "idGrupoDelito": 19,
+     "descripcion": "Delitos De Narcotrafico Y Sustancias Controladas"
+    },
+    {
+     "idGrupoDelito": 5,
+     "descripcion": "Delitos Contra La Economia Nacional"
+    }
+   ]

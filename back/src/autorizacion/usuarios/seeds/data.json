@@ -1,0 +1,30 @@
+[
+  {
+    "ciPersona": "7476884",
+    "idPersona": 0,
+    "usuario": "admin",
+    "clave": "hola123",
+    "roles": [
+      {
+        "nombre": "Administrador",
+        "descripcion": "Administrador del Sistema",
+        "codigo": "ADMIN",
+        "nivel": 1
+      }
+    ]
+  },
+  {
+    "ciPersona": "31416",
+    "idPersona": 0,
+    "usuario": "root",
+    "clave": "root123",
+    "roles": [
+      {
+        "nombre": "Root",
+        "descripcion": "Super Usuario",
+        "codigo": "ROOT",
+        "nivel": 1
+      }
+    ]
+  }
+]

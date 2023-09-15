@@ -1,0 +1,39 @@
+[
+  {
+    "idTipoIdentidad": 2,
+    "tipoDocumentoIdentidad":  "Cedula de Identidad",
+    "documentoIdentidad": "7476884",
+    "complemento": "",
+    "idLugarExpedicion": 1,
+    "nombres": "Orlando",
+    "primerApellido": "Mamani",
+    "segundoApellido": "Molina",
+    "fechaNacimiento": "1990-01-01",
+    "idNacionalidad": 26,
+    "idMunicipioNacimiento": 1,
+    "sexo": "Masculino",
+    "profesionOcupacion": "Ingeniero en Sistemas",
+    "fotografia": "/",
+    "estaFallecido": false,
+    "esCiudadanoDigital": true
+  },
+  
+  {
+    "idTipoIdentidad": 2,
+    "tipoDocumentoIdentidad":  "Cedula de Identidad",
+    "documentoIdentidad": "31416",
+    "complemento": "",
+    "idLugarExpedicion": 1,
+    "nombres": "Root",
+    "primerApellido": "Super",
+    "segundoApellido": "Admin",
+    "fechaNacimiento": "1900-01-01",
+    "idNacionalidad": 26,
+    "idMunicipioNacimiento": 1,
+    "sexo": "Masculino",
+    "profesionOcupacion": "Boss",
+    "fotografia": "/",
+    "estaFallecido": false,
+    "esCiudadanoDigital": true
+  }
+]

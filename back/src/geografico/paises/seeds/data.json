@@ -1,0 +1,1214 @@
+[
+  {
+    "iso2": "AF",
+    "iso3": "AFG",
+    "descripcion": "Afganistán",
+    "codigoTelefonico": 93
+  },
+  {
+    "iso2": "AL",
+    "iso3": "ALB",
+    "descripcion": "Albania",
+    "codigoTelefonico": 355
+  },
+  {
+    "iso2": "DE",
+    "iso3": "DEU",
+    "descripcion": "Alemania",
+    "codigoTelefonico": 49
+  },
+  {
+    "iso2": "AD",
+    "iso3": "AND",
+    "descripcion": "Andorra",
+    "codigoTelefonico": 376
+  },
+  {
+    "iso2": "AO",
+    "iso3": "AGO",
+    "descripcion": "Angola",
+    "codigoTelefonico": 244
+  },
+  {
+    "iso2": "AI",
+    "iso3": "AIA",
+    "descripcion": "Anguila",
+    "codigoTelefonico": 1
+  },
+  {
+    "iso2": "AG",
+    "iso3": "ATG",
+    "descripcion": "Antigua y Barbuda",
+    "codigoTelefonico": 1268
+  },
+  {
+    "iso2": "AN",
+    "iso3": "ANT",
+    "descripcion": "Antillas Neerlandesas",
+    "codigoTelefonico": 599
+  },
+  {
+    "iso2": "SA",
+    "iso3": "SAU",
+    "descripcion": "Arabia Saudita",
+    "codigoTelefonico": 966
+  },
+  {
+    "iso2": "DZ",
+    "iso3": "DZA",
+    "descripcion": "Argelia",
+    "codigoTelefonico": 213
+  },
+  {
+    "iso2": "AR",
+    "iso3": "ARG",
+    "descripcion": "Argentina",
+    "codigoTelefonico": 54
+  },
+  {
+    "iso2": "AM",
+    "iso3": "ARM",
+    "descripcion": "Armenia",
+    "codigoTelefonico": 374
+  },
+  {
+    "iso2": "AW",
+    "iso3": "ABW",
+    "descripcion": "Aruba",
+    "codigoTelefonico": 297
+  },
+  {
+    "iso2": "AU",
+    "iso3": "AUS",
+    "descripcion": "Australia",
+    "codigoTelefonico": 61
+  },
+  {
+    "iso2": "AT",
+    "iso3": "AUT",
+    "descripcion": "Austria",
+    "codigoTelefonico": 43
+  },
+  {
+    "iso2": "AZ",
+    "iso3": "AZE",
+    "descripcion": "Azerbaiyán",
+    "codigoTelefonico": 994
+  },
+  {
+    "iso2": "BS",
+    "iso3": "BHS",
+    "descripcion": "Bahamas",
+    "codigoTelefonico": 1242
+  },
+  {
+    "iso2": "BD",
+    "iso3": "BGD",
+    "descripcion": "Bangladesh",
+    "codigoTelefonico": 880
+  },
+  {
+    "iso2": "BB",
+    "iso3": "BRB",
+    "descripcion": "Barbados",
+    "codigoTelefonico": 246
+  },
+  {
+    "iso2": "BH",
+    "iso3": "BHR",
+    "descripcion": "Baréin",
+    "codigoTelefonico": 973
+  },
+  {
+    "iso2": "BE",
+    "iso3": "BEL",
+    "descripcion": "Bélgica",
+    "codigoTelefonico": 32
+  },
+  {
+    "iso2": "BZ",
+    "iso3": "BLZ",
+    "descripcion": "Belice",
+    "codigoTelefonico": 501
+  },
+  {
+    "iso2": "BJ",
+    "iso3": "BEN",
+    "descripcion": "Benín",
+    "codigoTelefonico": 229
+  },
+  {
+    "iso2": "BM",
+    "iso3": "BMU",
+    "descripcion": "Bermuda",
+    "codigoTelefonico": 60
+  },
+  {
+    "iso2": "BY",
+    "iso3": "BLR",
+    "descripcion": "Bielorrusia",
+    "codigoTelefonico": 375
+  },
+  {
+    "iso2": "BO",
+    "iso3": "BOL",
+    "descripcion": "Bolivia",
+    "codigoTelefonico": 591
+  },
+  {
+    "iso2": "BA",
+    "iso3": "BIH",
+    "descripcion": "Bosnia y Herzegovina",
+    "codigoTelefonico": 387
+  },
+  {
+    "iso2": "BW",
+    "iso3": "BWA",
+    "descripcion": "Botsuana",
+    "codigoTelefonico": 267
+  },
+  {
+    "iso2": "BR",
+    "iso3": "BRA",
+    "descripcion": "Brasil",
+    "codigoTelefonico": 55
+  },
+  {
+    "iso2": "BN",
+    "iso3": "BRN",
+    "descripcion": "Brunéi",
+    "codigoTelefonico": 673
+  },
+  {
+    "iso2": "BG",
+    "iso3": "BGR",
+    "descripcion": "Bulgaria",
+    "codigoTelefonico": 359
+  },
+  {
+    "iso2": "BF",
+    "iso3": "BFA",
+    "descripcion": "Burkina Faso",
+    "codigoTelefonico": 226
+  },
+  {
+    "iso2": "BI",
+    "iso3": "BDI",
+    "descripcion": "Burundi",
+    "codigoTelefonico": 257
+  },
+  {
+    "iso2": "BT",
+    "iso3": "BTN",
+    "descripcion": "Bután",
+    "codigoTelefonico": 32
+  },
+  {
+    "iso2": "CV",
+    "iso3": "CPV",
+    "descripcion": "Cabo Verde",
+    "codigoTelefonico": 238
+  },
+  {
+    "iso2": "KH",
+    "iso3": "KHM",
+    "descripcion": "Camboya",
+    "codigoTelefonico": 855
+  },
+  {
+    "iso2": "CM",
+    "iso3": "CMR",
+    "descripcion": "Camerún",
+    "codigoTelefonico": 237
+  },
+  {
+    "iso2": "CA",
+    "iso3": "CAN",
+    "descripcion": "Canadá",
+    "codigoTelefonico": 1
+  },
+  {
+    "iso2": "QA",
+    "iso3": "QAT",
+    "descripcion": "Catar",
+    "codigoTelefonico": 235
+  },
+  {
+    "iso2": "TD",
+    "iso3": "TCD",
+    "descripcion": "Chad",
+    "codigoTelefonico": 420
+  },
+  {
+    "iso2": "CL",
+    "iso3": "CHL",
+    "descripcion": "Chile",
+    "codigoTelefonico": 56
+  },
+  {
+    "iso2": "CN",
+    "iso3": "CHN",
+    "descripcion": "China",
+    "codigoTelefonico": 86
+  },
+  {
+    "iso2": "CY",
+    "iso3": "CYP",
+    "descripcion": "Chipre",
+    "codigoTelefonico": 357
+  },
+  {
+    "iso2": "VA",
+    "iso3": "VAT",
+    "descripcion": "Ciudad del Vaticano",
+    "codigoTelefonico": 379
+  },
+  {
+    "iso2": "CO",
+    "iso3": "COL",
+    "descripcion": "Colombia",
+    "codigoTelefonico": 57
+  },
+  {
+    "iso2": "KM",
+    "iso3": "COM",
+    "descripcion": "Comoras",
+    "codigoTelefonico": 269
+  },
+  {
+    "iso2": "KP",
+    "iso3": "PRK",
+    "descripcion": "Corea del Norte",
+    "codigoTelefonico": 850
+  },
+  {
+    "iso2": "KR",
+    "iso3": "KOR",
+    "descripcion": "Corea del Sur",
+    "codigoTelefonico": 82
+  },
+  {
+    "iso2": "CI",
+    "iso3": "CIV",
+    "descripcion": "Costa de Marfil",
+    "codigoTelefonico": 225
+  },
+  {
+    "iso2": "CR",
+    "iso3": "CRI",
+    "descripcion": "Costa Rica",
+    "codigoTelefonico": 506
+  },
+  {
+    "iso2": "HR",
+    "iso3": "HRV",
+    "descripcion": "Croacia",
+    "codigoTelefonico": 385
+  },
+  {
+    "iso2": "CU",
+    "iso3": "CUB",
+    "descripcion": "Cuba",
+    "codigoTelefonico": 53
+  },
+  {
+    "iso2": "DK",
+    "iso3": "DNK",
+    "descripcion": "Dinamarca",
+    "codigoTelefonico": 45
+  },
+  {
+    "iso2": "DM",
+    "iso3": "DMA",
+    "descripcion": "Dominica",
+    "codigoTelefonico": 1767
+  },
+  {
+    "iso2": "EC",
+    "iso3": "ECU",
+    "descripcion": "Ecuador",
+    "codigoTelefonico": 593
+  },
+  {
+    "iso2": "EG",
+    "iso3": "EGY",
+    "descripcion": "Egipto",
+    "codigoTelefonico": 20
+  },
+  {
+    "iso2": "SV",
+    "iso3": "SLV",
+    "descripcion": "El Salvador",
+    "codigoTelefonico": 503
+  },
+  {
+    "iso2": "AE",
+    "iso3": "ARE",
+    "descripcion": "Emiratos Árabes Unidos",
+    "codigoTelefonico": 971
+  },
+  {
+    "iso2": "ER",
+    "iso3": "ERI",
+    "descripcion": "Eritrea",
+    "codigoTelefonico": 291
+  },
+  {
+    "iso2": "SK",
+    "iso3": "SVK",
+    "descripcion": "Eslovaquia",
+    "codigoTelefonico": 421
+  },
+  {
+    "iso2": "SI",
+    "iso3": "SVN",
+    "descripcion": "Eslovenia",
+    "codigoTelefonico": 386
+  },
+  {
+    "iso2": "ES",
+    "iso3": "ESP",
+    "descripcion": "España",
+    "codigoTelefonico": 34
+  },
+  {
+    "iso2": "US",
+    "iso3": "USA",
+    "descripcion": "Estados Unidos",
+    "codigoTelefonico": 1
+  },
+  {
+    "iso2": "EE",
+    "iso3": "EST",
+    "descripcion": "Estonia",
+    "codigoTelefonico": 372
+  },
+  {
+    "iso2": "ET",
+    "iso3": "ETH",
+    "descripcion": "Etiopía",
+    "codigoTelefonico": 251
+  },
+  {
+    "iso2": "PH",
+    "iso3": "PHL",
+    "descripcion": "Filipinas",
+    "codigoTelefonico": 63
+  },
+  {
+    "iso2": "FI",
+    "iso3": "FIN",
+    "descripcion": "Finlandia",
+    "codigoTelefonico": 358
+  },
+  {
+    "iso2": "FJ",
+    "iso3": "FJI",
+    "descripcion": "Fiyi",
+    "codigoTelefonico": 679
+  },
+  {
+    "iso2": "FR",
+    "iso3": "FRA",
+    "descripcion": "Francia",
+    "codigoTelefonico": 33
+  },
+  {
+    "iso2": "GA",
+    "iso3": "GAB",
+    "descripcion": "Gabón",
+    "codigoTelefonico": 241
+  },
+  {
+    "iso2": "GM",
+    "iso3": "GMB",
+    "descripcion": "Gambia",
+    "codigoTelefonico": 220
+  },
+  {
+    "iso2": "GE",
+    "iso3": "GEO",
+    "descripcion": "Georgia",
+    "codigoTelefonico": 995
+  },
+  {
+    "iso2": "GH",
+    "iso3": "GHA",
+    "descripcion": "Ghana",
+    "codigoTelefonico": 233
+  },
+  {
+    "iso2": "GD",
+    "iso3": "GRD",
+    "descripcion": "Granada",
+    "codigoTelefonico": 1473
+  },
+  {
+    "iso2": "GR",
+    "iso3": "GRC",
+    "descripcion": "Grecia",
+    "codigoTelefonico": 30
+  },
+  {
+    "iso2": "GT",
+    "iso3": "GTM",
+    "descripcion": "Guatemala",
+    "codigoTelefonico": 502
+  },
+  {
+    "iso2": "GN",
+    "iso3": "GIN",
+    "descripcion": "Guinea",
+    "codigoTelefonico": 224
+  },
+  {
+    "iso2": "GQ",
+    "iso3": "GNQ",
+    "descripcion": "Guinea Ecuatorial",
+    "codigoTelefonico": 240
+  },
+  {
+    "iso2": "GW",
+    "iso3": "GNB",
+    "descripcion": "Guinea-Bisáu",
+    "codigoTelefonico": 245
+  },
+  {
+    "iso2": "GY",
+    "iso3": "GUY",
+    "descripcion": "Guyana",
+    "codigoTelefonico": 592
+  },
+  {
+    "iso2": "HT",
+    "iso3": "HTI",
+    "descripcion": "Haití",
+    "codigoTelefonico": 509
+  },
+  {
+    "iso2": "HN",
+    "iso3": "HND",
+    "descripcion": "Honduras",
+    "codigoTelefonico": 504
+  },
+  {
+    "iso2": "HU",
+    "iso3": "HUN",
+    "descripcion": "Hungría",
+    "codigoTelefonico": 36
+  },
+  {
+    "iso2": "IN",
+    "iso3": "IND",
+    "descripcion": "India",
+    "codigoTelefonico": 91
+  },
+  {
+    "iso2": "ID",
+    "iso3": "IDN",
+    "descripcion": "Indonesia",
+    "codigoTelefonico": 62
+  },
+  {
+    "iso2": "IQ",
+    "iso3": "IRQ",
+    "descripcion": "Irak",
+    "codigoTelefonico": 964
+  },
+  {
+    "iso2": "IR",
+    "iso3": "IRN",
+    "descripcion": "Irán",
+    "codigoTelefonico": 98
+  },
+  {
+    "iso2": "IE",
+    "iso3": "IRL",
+    "descripcion": "Irlanda",
+    "codigoTelefonico": 353
+  },
+  {
+    "iso2": "IS",
+    "iso3": "ISL",
+    "descripcion": "Islandia",
+    "codigoTelefonico": 354
+  },
+  {
+    "iso2": "AX",
+    "iso3": "ALA",
+    "descripcion": "Islas Áland",
+    "codigoTelefonico": 1284
+  },
+  {
+    "iso2": "MH",
+    "iso3": "MHL",
+    "descripcion": "Islas Marshall",
+    "codigoTelefonico": 692
+  },
+  {
+    "iso2": "SB",
+    "iso3": "SLB",
+    "descripcion": "Islas Salomón",
+    "codigoTelefonico": 677
+  },
+  {
+    "iso2": "IL",
+    "iso3": "ISR",
+    "descripcion": "Israel",
+    "codigoTelefonico": 972
+  },
+  {
+    "iso2": "IT",
+    "iso3": "ITA",
+    "descripcion": "Italia",
+    "codigoTelefonico": 39
+  },
+  {
+    "iso2": "JM",
+    "iso3": "JAM",
+    "descripcion": "Jamaica",
+    "codigoTelefonico": 1876
+  },
+  {
+    "iso2": "JP",
+    "iso3": "JPN",
+    "descripcion": "Japón",
+    "codigoTelefonico": 81
+  },
+  {
+    "iso2": "JO",
+    "iso3": "JOR",
+    "descripcion": "Jordania",
+    "codigoTelefonico": 962
+  },
+  {
+    "iso2": "KZ",
+    "iso3": "KAZ",
+    "descripcion": "Kazajistán",
+    "codigoTelefonico": 7
+  },
+  {
+    "iso2": "KE",
+    "iso3": "KEN",
+    "descripcion": "Kenia",
+    "codigoTelefonico": 254
+  },
+  {
+    "iso2": "KG",
+    "iso3": "KGZ",
+    "descripcion": "Kirguistán",
+    "codigoTelefonico": 996
+  },
+  {
+    "iso2": "KI",
+    "iso3": "KIR",
+    "descripcion": "Kiribati",
+    "codigoTelefonico": 686
+  },
+  {
+    "iso2": "KW",
+    "iso3": "KWT",
+    "descripcion": "Kuwait",
+    "codigoTelefonico": 965
+  },
+  {
+    "iso2": "LA",
+    "iso3": "LAO",
+    "descripcion": "Laos",
+    "codigoTelefonico": 856
+  },
+  {
+    "iso2": "LS",
+    "iso3": "LSO",
+    "descripcion": "Lesoto",
+    "codigoTelefonico": 266
+  },
+  {
+    "iso2": "LV",
+    "iso3": "LVA",
+    "descripcion": "Letonia",
+    "codigoTelefonico": 371
+  },
+  {
+    "iso2": "LB",
+    "iso3": "LBN",
+    "descripcion": "Líbano",
+    "codigoTelefonico": 961
+  },
+  {
+    "iso2": "LR",
+    "iso3": "LBR",
+    "descripcion": "Liberia",
+    "codigoTelefonico": 231
+  },
+  {
+    "iso2": "LY",
+    "iso3": "LBY",
+    "descripcion": "Libia",
+    "codigoTelefonico": 218
+  },
+  {
+    "iso2": "LI",
+    "iso3": "LIE",
+    "descripcion": "Liechtenstein",
+    "codigoTelefonico": 41
+  },
+  {
+    "iso2": "LT",
+    "iso3": "LTU",
+    "descripcion": "Lituania",
+    "codigoTelefonico": 370
+  },
+  {
+    "iso2": "LU",
+    "iso3": "LUX",
+    "descripcion": "Luxemburgo",
+    "codigoTelefonico": 352
+  },
+  {
+    "iso2": "MK",
+    "iso3": "MKD",
+    "descripcion": "Macedonia del Norte",
+    "codigoTelefonico": 389
+  },
+  {
+    "iso2": "MG",
+    "iso3": "MDG",
+    "descripcion": "Madagascar",
+    "codigoTelefonico": 261
+  },
+  {
+    "iso2": "MY",
+    "iso3": "MYS",
+    "descripcion": "Malasia",
+    "codigoTelefonico": 60
+  },
+  {
+    "iso2": "MW",
+    "iso3": "MWI",
+    "descripcion": "Malaui",
+    "codigoTelefonico": 265
+  },
+  {
+    "iso2": "MV",
+    "iso3": "MDV",
+    "descripcion": "Maldivas",
+    "codigoTelefonico": 960
+  },
+  {
+    "iso2": "ML",
+    "iso3": "MLI",
+    "descripcion": "Malí",
+    "codigoTelefonico": 273
+  },
+  {
+    "iso2": "MT",
+    "iso3": "MLT",
+    "descripcion": "Malta",
+    "codigoTelefonico": 356
+  },
+  {
+    "iso2": "MA",
+    "iso3": "MAR",
+    "descripcion": "Marruecos",
+    "codigoTelefonico": 212
+  },
+  {
+    "iso2": "MU",
+    "iso3": "MUS",
+    "descripcion": "Mauricio",
+    "codigoTelefonico": 230
+  },
+  {
+    "iso2": "MR",
+    "iso3": "MRT",
+    "descripcion": "Mauritania",
+    "codigoTelefonico": 222
+  },
+  {
+    "iso2": "MX",
+    "iso3": "MEX",
+    "descripcion": "México",
+    "codigoTelefonico": 52
+  },
+  {
+    "iso2": "FM",
+    "iso3": "FSM",
+    "descripcion": "Micronesia",
+    "codigoTelefonico": 691
+  },
+  {
+    "iso2": "MD",
+    "iso3": "MDA",
+    "descripcion": "Moldavia",
+    "codigoTelefonico": 373
+  },
+  {
+    "iso2": "MC",
+    "iso3": "MCO",
+    "descripcion": "Mónaco",
+    "codigoTelefonico": 377
+  },
+  {
+    "iso2": "MN",
+    "iso3": "MNG",
+    "descripcion": "Mongolia",
+    "codigoTelefonico": 976
+  },
+  {
+    "iso2": "ME",
+    "iso3": "MNE",
+    "descripcion": "Montenegro",
+    "codigoTelefonico": 382
+  },
+  {
+    "iso2": "MZ",
+    "iso3": "MOZ",
+    "descripcion": "Mozambique",
+    "codigoTelefonico": 258
+  },
+  {
+    "iso2": "MM",
+    "iso3": "MMR",
+    "descripcion": "Myanmar",
+    "codigoTelefonico": 95
+  },
+  {
+    "iso2": "NA",
+    "iso3": "NAM",
+    "descripcion": "Namibia",
+    "codigoTelefonico": 264
+  },
+  {
+    "iso2": "NR",
+    "iso3": "NRU",
+    "descripcion": "Nauru",
+    "codigoTelefonico": 674
+  },
+  {
+    "iso2": "NP",
+    "iso3": "NPL",
+    "descripcion": "Nepal",
+    "codigoTelefonico": 977
+  },
+  {
+    "iso2": "NI",
+    "iso3": "NIC",
+    "descripcion": "Nicaragua",
+    "codigoTelefonico": 505
+  },
+  {
+    "iso2": "NE",
+    "iso3": "NER",
+    "descripcion": "Níger",
+    "codigoTelefonico": 227
+  },
+  {
+    "iso2": "NG",
+    "iso3": "NGA",
+    "descripcion": "Nigeria",
+    "codigoTelefonico": 234
+  },
+  {
+    "iso2": "NO",
+    "iso3": "NOR",
+    "descripcion": "Noruega",
+    "codigoTelefonico": 47
+  },
+  {
+    "iso2": "NZ",
+    "iso3": "NZL",
+    "descripcion": "Nueva Zelanda",
+    "codigoTelefonico": 64
+  },
+  {
+    "iso2": "OM",
+    "iso3": "OMN",
+    "descripcion": "Omán",
+    "codigoTelefonico": 968
+  },
+  {
+    "iso2": "NL",
+    "iso3": "NLD",
+    "descripcion": "Países Bajos",
+    "codigoTelefonico": 31
+  },
+  {
+    "iso2": "PK",
+    "iso3": "PAK",
+    "descripcion": "Pakistán",
+    "codigoTelefonico": 92
+  },
+  {
+    "iso2": "PW",
+    "iso3": "PLW",
+    "descripcion": "Palaos",
+    "codigoTelefonico": 680
+  },
+  {
+    "iso2": "PS",
+    "iso3": "PS5",
+    "descripcion": "Palestina",
+    "codigoTelefonico": 970
+  },
+  {
+    "iso2": "PA",
+    "iso3": "PAN",
+    "descripcion": "Panamá",
+    "codigoTelefonico": 507
+  },
+  {
+    "iso2": "PG",
+    "iso3": "PNG",
+    "descripcion": "Papúa Nueva Guinea",
+    "codigoTelefonico": 675
+  },
+  {
+    "iso2": "PY",
+    "iso3": "PRY",
+    "descripcion": "Paraguay",
+    "codigoTelefonico": 595
+  },
+  {
+    "iso2": "PE",
+    "iso3": "PER",
+    "descripcion": "Perú",
+    "codigoTelefonico": 51
+  },
+  {
+    "iso2": "PL",
+    "iso3": "POL",
+    "descripcion": "Polonia",
+    "codigoTelefonico": 48
+  },
+  {
+    "iso2": "PT",
+    "iso3": "PRT",
+    "descripcion": "Portugal",
+    "codigoTelefonico": 351
+  },
+  {
+    "iso2": "GB",
+    "iso3": "GBR",
+    "descripcion": "Reino Unido",
+    "codigoTelefonico": 44
+  },
+  {
+    "iso2": "CF",
+    "iso3": "CAF",
+    "descripcion": "República Centroafricana",
+    "codigoTelefonico": 236
+  },
+  {
+    "iso2": "CZ",
+    "iso3": "CZE",
+    "descripcion": "República Checa",
+    "codigoTelefonico": 420
+  },
+  {
+    "iso2": "CG",
+    "iso3": "COG",
+    "descripcion": "República del Congo",
+    "codigoTelefonico": 243
+  },
+  {
+    "iso2": "CD",
+    "iso3": "COD",
+    "descripcion": "República Democrática del Congo",
+    "codigoTelefonico": 243
+  },
+  {
+    "iso2": "DO",
+    "iso3": "DOM",
+    "descripcion": "República Dominicana",
+    "codigoTelefonico": 1809
+  },
+  {
+    "iso2": "RW",
+    "iso3": "RWA",
+    "descripcion": "Ruanda",
+    "codigoTelefonico": 250
+  },
+  {
+    "iso2": "RO",
+    "iso3": "ROU",
+    "descripcion": "Rumanía",
+    "codigoTelefonico": 40
+  },
+  {
+    "iso2": "RU",
+    "iso3": "RUS",
+    "descripcion": "Rusia",
+    "codigoTelefonico": 7
+  },
+  {
+    "iso2": "WS",
+    "iso3": "WSM",
+    "descripcion": "Samoa",
+    "codigoTelefonico": 685
+  },
+  {
+    "iso2": "AS",
+    "iso3": "ASM",
+    "descripcion": "Samoa Americana",
+    "codigoTelefonico": 1
+  },
+  {
+    "iso2": "BL",
+    "iso3": "BLM",
+    "descripcion": "San Bartolomé",
+    "codigoTelefonico": 590
+  },
+  {
+    "iso2": "KN",
+    "iso3": "KNA",
+    "descripcion": "San Cristóbal y Nieves",
+    "codigoTelefonico": 1869
+  },
+  {
+    "iso2": "SM",
+    "iso3": "SMR",
+    "descripcion": "San Marino",
+    "codigoTelefonico": 378
+  },
+  {
+    "iso2": "VC",
+    "iso3": "VCT",
+    "descripcion": "San Vicente y las Granadinas",
+    "codigoTelefonico": 1784
+  },
+  {
+    "iso2": "LC",
+    "iso3": "LCA",
+    "descripcion": "Santa Lucía",
+    "codigoTelefonico": 1758
+  },
+  {
+    "iso2": "ST",
+    "iso3": "STP",
+    "descripcion": "Santo Tomé y Príncipe",
+    "codigoTelefonico": 239
+  },
+  {
+    "iso2": "SN",
+    "iso3": "SEN",
+    "descripcion": "Senegal",
+    "codigoTelefonico": 221
+  },
+  {
+    "iso2": "RS",
+    "iso3": "SRB",
+    "descripcion": "Serbia",
+    "codigoTelefonico": 381
+  },
+  {
+    "iso2": "SC",
+    "iso3": "SYC",
+    "descripcion": "Seychelles",
+    "codigoTelefonico": 248
+  },
+  {
+    "iso2": "SL",
+    "iso3": "SLE",
+    "descripcion": "Sierra Leona",
+    "codigoTelefonico": 232
+  },
+  {
+    "iso2": "SG",
+    "iso3": "SGP",
+    "descripcion": "Singapur",
+    "codigoTelefonico": 65
+  },
+  {
+    "iso2": "SY",
+    "iso3": "SYR",
+    "descripcion": "Siria",
+    "codigoTelefonico": 963
+  },
+  {
+    "iso2": "SO",
+    "iso3": "SOM",
+    "descripcion": "Somalia",
+    "codigoTelefonico": 252
+  },
+  {
+    "iso2": "LK",
+    "iso3": "LKA",
+    "descripcion": "Sri Lanka",
+    "codigoTelefonico": 94
+  },
+  {
+    "iso2": "SZ",
+    "iso3": "SWZ",
+    "descripcion": "Suazilandia",
+    "codigoTelefonico": 268
+  },
+  {
+    "iso2": "ZA",
+    "iso3": "ZAF",
+    "descripcion": "Sudáfrica",
+    "codigoTelefonico": 27
+  },
+  {
+    "iso2": "SD",
+    "iso3": "SDN",
+    "descripcion": "Sudán",
+    "codigoTelefonico": 249
+  },
+  {
+    "iso2": "SS",
+    "iso3": "SSD",
+    "descripcion": "Sudán del Sur",
+    "codigoTelefonico": 211
+  },
+  {
+    "iso2": "SE",
+    "iso3": "SWE",
+    "descripcion": "Suecia",
+    "codigoTelefonico": 4
+  },
+  {
+    "iso2": "CH",
+    "iso3": "CHE",
+    "descripcion": "Suiza",
+    "codigoTelefonico": 41
+  },
+  {
+    "iso2": "SR",
+    "iso3": "SUR",
+    "descripcion": "Surinam",
+    "codigoTelefonico": 597
+  },
+  {
+    "iso2": "TH",
+    "iso3": "THA",
+    "descripcion": "Tailandia",
+    "codigoTelefonico": 66
+  },
+  {
+    "iso2": "TZ",
+    "iso3": "TZA",
+    "descripcion": "Tanzania",
+    "codigoTelefonico": 255
+  },
+  {
+    "iso2": "TJ",
+    "iso3": "TJK",
+    "descripcion": "Tayikistán",
+    "codigoTelefonico": 992
+  },
+  {
+    "iso2": "TL",
+    "iso3": "TLS",
+    "descripcion": "Timor Oriental",
+    "codigoTelefonico": 670
+  },
+  {
+    "iso2": "TG",
+    "iso3": "TGO",
+    "descripcion": "Togo",
+    "codigoTelefonico": 228
+  },
+  {
+    "iso2": "TO",
+    "iso3": "TON",
+    "descripcion": "Tonga",
+    "codigoTelefonico": 676
+  },
+  {
+    "iso2": "TT",
+    "iso3": "TTO",
+    "descripcion": "Trinidad y Tobago",
+    "codigoTelefonico": 1868
+  },
+  {
+    "iso2": "TN",
+    "iso3": "TUN",
+    "descripcion": "Túnez",
+    "codigoTelefonico": 216
+  },
+  {
+    "iso2": "TM",
+    "iso3": "TKM",
+    "descripcion": "Turkmenistán",
+    "codigoTelefonico": 993
+  },
+  {
+    "iso2": "TR",
+    "iso3": "TUR",
+    "descripcion": "Turquía",
+    "codigoTelefonico": 90
+  },
+  {
+    "iso2": "TV",
+    "iso3": "TUV",
+    "descripcion": "Tuvalu",
+    "codigoTelefonico": 688
+  },
+  {
+    "iso2": "UA",
+    "iso3": "UKR",
+    "descripcion": "Ucrania",
+    "codigoTelefonico": 380
+  },
+  {
+    "iso2": "UG",
+    "iso3": "UGA",
+    "descripcion": "Uganda",
+    "codigoTelefonico": 256
+  },
+  {
+    "iso2": "UY",
+    "iso3": "URY",
+    "descripcion": "Uruguay",
+    "codigoTelefonico": 598
+  },
+  {
+    "iso2": "UZ",
+    "iso3": "UZB",
+    "descripcion": "Uzbekistán",
+    "codigoTelefonico": 998
+  },
+  {
+    "iso2": "VU",
+    "iso3": "VUT",
+    "descripcion": "Vanuatu",
+    "codigoTelefonico": 678
+  },
+  {
+    "iso2": "VE",
+    "iso3": "VEN",
+    "descripcion": "Venezuela",
+    "codigoTelefonico": 58
+  },
+  {
+    "iso2": "VN",
+    "iso3": "VNM",
+    "descripcion": "Vietnam",
+    "codigoTelefonico": 84
+  },
+  {
+    "iso2": "YE",
+    "iso3": "YEM",
+    "descripcion": "Yemen",
+    "codigoTelefonico": 967
+  },
+  {
+    "iso2": "DJ",
+    "iso3": "DJI",
+    "descripcion": "Yibuti",
+    "codigoTelefonico": 253
+  },
+  {
+    "iso2": "ZM",
+    "iso3": "ZMB",
+    "descripcion": "Zambia",
+    "codigoTelefonico": 260
+  },
+  {
+    "iso2": "ZW",
+    "iso3": "ZWE",
+    "descripcion": "Zimbabue",
+    "codigoTelefonico": 263
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "idMunicipio": 1,
+    "descripcion": "San Roque",
+    "tipo": "Recinto"
+  },
+  {
+    "idMunicipio": 31,
+    "descripcion": "San Pedro",
+    "tipo": "Recinto"
+  },
+  {
+    "idMunicipio": 31,
+    "descripcion": "Chonchocoro",
+    "tipo": "Recinto"
+  },
+  {
+    "idMunicipio": 31,
+    "descripcion": "Qalauma",
+    "tipo": "Recinto"
+  },
+  {
+    "idMunicipio": 31,
+    "descripcion": "C.P.F. Miraflores",
+    "tipo": "Recinto"
+  },
+  {
+    "idMunicipio": 31,
+    "descripcion": "C.O.F. Obrajes",
+    "tipo": "Recinto"
+  },
+  {
+    "idMunicipio": 119,
+    "descripcion": "San Sebastian Mujeres",
+    "tipo": "Recinto"
+  },
+  {
+    "idMunicipio": 119,
+    "descripcion": "San Antonio",
+    "tipo": "Recinto"
+  },
+  {
+    "idMunicipio": 119,
+    "descripcion": "San Sebastian Varones",
+    "tipo": "Recinto"
+  },
+  {
+    "idMunicipio": 130,
+    "descripcion": "San Pedro - Arani",
+    "tipo": "Recinto"
+  },
+  {
+    "idMunicipio": 141,
+    "descripcion": "San Pablo - Quillacollo",
+    "tipo": "Recinto"
+  },
+  {
+    "idMunicipio": 146,
+    "descripcion": "San Pedro - Sacaba",
+    "tipo": "Recinto"
+  },
+  {
+    "idMunicipio": 146,
+    "descripcion": "El Abra",
+    "tipo": "Recinto"
+  },
+  {
+    "idMunicipio": 169,
+    "descripcion": "La Merced",
+    "tipo": "Recinto"
+  },
+  {
+    "idMunicipio": 169,
+    "descripcion": "San Pedro",
+    "tipo": "Recinto"
+  },
+  {
+    "idMunicipio": 205,
+    "descripcion": "Cantumarca",
+    "tipo": "Recinto"
+  },
+  {
+    "idMunicipio": 246,
+    "descripcion": "Morros Blancos",
+    "tipo": "Recinto"
+  },
+  {
+    "idMunicipio": 258,
+    "descripcion": "Palmasola",
+    "tipo": "Recinto"
+  },
+  {
+    "idMunicipio": 294,
+    "descripcion": "Montero C.R.P.",
+    "tipo": "Recinto"
+  },
+  {
+    "idMunicipio": 314,
+    "descripcion": "Mocoví",
+    "tipo": "Recinto"
+  },
+  {
+    "idMunicipio": 333,
+    "descripcion": "Villa Busch",
+    "tipo": "Recinto"
+  },
+  {
+    "idMunicipio": 205,
+    "descripcion": "C.P. de Santo Domingo",
+    "tipo": "Recinto"
+  },
+  {
+    "idMunicipio": 314,
+    "descripcion": "Cárcel de Mujeres Trinidad",
+    "tipo": "Recinto"
+  },
+  {
+    "idMunicipio": 119,
+    "descripcion": "Cárcel de Arocagua",
+    "tipo": "Recinto"
+  }
+]
