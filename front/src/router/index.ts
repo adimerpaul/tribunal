@@ -42,6 +42,18 @@ const router = createRouter({
           name: '/administracion/scanner',
           component: () => import('../modules/autorizacion/scanner/views/VScanner.vue'),
           meta: { tituloPagina: 'Scanner' }
+        },
+        {
+          path: '/administracion/scanner2',
+          name: '/administracion/scanner2',
+          component: () => import('../modules/autorizacion/scanner/views/VScanner2.vue'),
+          meta: { tituloPagina: 'Scanner' }
+        },
+        {
+          path: '/administracion/scanner3',
+          name: '/administracion/scanner3',
+          component: () => import('../modules/autorizacion/scanner/views/VScanner3.vue'),
+          meta: { tituloPagina: 'Scanner' }
         }
       ]
     },

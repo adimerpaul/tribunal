@@ -1,5 +1,7 @@
 <script setup lang="ts">
+import {ref} from "vue";
 
+const descripcion = ref('')
 </script>
 <template>
   <div>
@@ -41,14 +43,22 @@
         </q-card>
       </div>
       <div class="col-6">
-        <q-card>
-          <q-card-section>
-            <div class="row">
-              <div class="col-12 text-primary text-bold">Datos Documentos</div>
-              <div class="col-4">
-                <q-input outlined label="Descripcion" v-model="descripcion"/>
-              </div>
-            </div>
+        <q-card class="full-height" flat bordered>
+<!--          <q-card-section>-->
+<!--            <div class="row">-->
+<!--              <div class="col-12 text-primary text-bold">Datos Documentos</div>-->
+<!--              <div class="col-4">-->
+<!--                <q-input outlined label="Descripcion" v-model="descripcion"/>-->
+<!--              </div>-->
+<!--            </div>-->
+<!--          </q-card-section>-->
+        </q-card>
+      </div>
+      <div class="col-12">
+        <q-card flat bordered>
+          <q-card-section class="text-right">
+            <q-btn color="primary" outline label="Imprimir Borrador" icon="mdi-printer" no-caps class="col-12"/>
+            <q-btn color="primary" outline label="Guardar y Sortear" icon="mdi-content-save" no-caps class="col-12"/>
           </q-card-section>
         </q-card>
       </div>
