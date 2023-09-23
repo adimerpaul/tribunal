@@ -55,6 +55,20 @@ const router = createRouter({
           component: () => import('../modules/autorizacion/scanner/views/VScanner3.vue'),
           meta: { tituloPagina: 'Scanner' }
         }
+        ,
+        {
+          path: '/administracion/scanner4',
+          name: '/administracion/scanner4',
+          component: () => import('../modules/autorizacion/scanner/views/VScanner4.vue'),
+          meta: { tituloPagina: 'Scanner' }
+        }
+        ,
+        {
+          path: '/memorial',
+          name: '/memorial',
+          component: () => import('../modules/memorial/views/IndexMemorial.vue'),
+          meta: { tituloPagina: 'Registrar nuevo memorial' }
+        }
       ]
     },
     {
