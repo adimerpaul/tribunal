@@ -27,24 +27,24 @@ const sujetos = ref([
       <q-card flat bordered>
         <q-card-section>
           <div class="row">
-            <div class="col-10">
+            <div class="col-6 col-md-10">
             </div>
-            <div class="col-2">
+            <div class="col-6 col-md-2">
               <q-input label="fecha" filled v-model="fecha" />
             </div>
             <div class="col-12">
               <div class="text-blue text-bold">Ingrese datos del memorial</div>
             </div>
-            <div class="col-4 q-pa-xs">
+            <div class="col-12 col-md-4 q-pa-xs">
               <q-select v-model="descripcion" filled :options="['Memorial 1', 'Memorial 2', 'Memorial 3']" label="Descripcion" />
             </div>
-            <div class="col-3 q-pa-xs">
+            <div class="col-12 col-md-3 q-pa-xs">
               <q-select label="Memorial" filled v-model="memorial" />
             </div>
-            <div class="col-2 q-pa-xs">
+            <div class="col-12 col-md-2 q-pa-xs">
               <q-input type="number" label="Numero de hojas" filled v-model="numeroHojas" />
             </div>
-            <div class="col-3 q-pa-xs">
+            <div class="col-12 col-md-3 q-pa-xs">
               <q-input label="Informe" filled v-model="informe" />
             </div>
           </div>
@@ -55,14 +55,14 @@ const sujetos = ref([
       <q-card flat bordered>
         <q-card-section>
           <div class="row">
-            <div class="col-3 q-pa-xs">
+            <div class="col-12 col-md-3 q-pa-xs">
               <div class="text-blue text-bold text-caption">Ingrese datos del representante</div>
               <q-input filled class="q-my-xs" label="C.I." dense v-model="representante.ci" />
               <q-input filled class="q-my-xs" label="Nombre" dense v-model="representante.name" />
               <q-input filled class="q-my-xs" label="Apellido Paterno" dense v-model="representante.lastName" />
               <q-input filled class="q-my-xs" label="Apellido Materno" dense v-model="representante.secondLastName" />
             </div>
-            <div class="col-5 q-pa-xs flex flex-center">
+            <div class="col-12 col-md-5 q-pa-xs flex flex-center">
               <div class="text-center">
                 <q-avatar size="100px">
                   <q-img src="https://cdn.quasar.dev/img/avatar.png"/>
@@ -76,7 +76,7 @@ const sujetos = ref([
 
               </div>
             </div>
-            <div class="col-4 q-pa-xs">
+            <div class="col-12 col-md-4 q-pa-xs">
               <div class="text-blue text-bold text-caption">Sujeto Procesal</div>
               <div class="bg-grey-3 q-pa-xs">
                 <q-checkbox class="full-width" dense v-for="sujeto in sujetos" v-model="sujeto.selected" :label="sujeto.name" :key="sujeto.id" />

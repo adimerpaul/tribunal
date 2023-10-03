@@ -6,13 +6,13 @@ const descripcion = ref('')
 <template>
   <div>
     <div class="row">
-      <div class="col-4 text-center">
+      <div class="col-12 col-md-4 text-center">
         <q-btn color="primary" outline label="Datos generales" no-caps size="12px" icon="mdi-file-document-outline"/>
       </div>
-      <div class="col-4 text-center">
+      <div class="col-12 col-md-4 text-center">
         <q-btn color="primary" outline label="Sujeto Procesales" no-caps size="12px" icon="mdi-account-group-outline"/>
       </div>
-      <div class="col-4 text-center">
+      <div class="col-12 col-md-4 text-center">
         <q-btn color="primary" outline label="Digitialización" no-caps size="12px" icon="mdi-scanner"/>
       </div>
       <div class="col-12">

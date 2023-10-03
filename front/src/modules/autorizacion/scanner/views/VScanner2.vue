@@ -6,19 +6,19 @@ const descripcion = ref('')
 <template>
   <div>
     <div class="row">
-      <div class="col-4 text-center">
+      <div class="col-12 col-md-4 text-center">
         <q-btn color="primary" outline label="Datos generales" no-caps size="12px" icon="mdi-file-document-outline"/>
       </div>
-      <div class="col-4 text-center">
+      <div class="col-12 col-md-4 text-center">
         <q-btn color="primary" outline label="Sujeto Procesales" no-caps size="12px" icon="mdi-account-group-outline"/>
       </div>
-      <div class="col-4 text-center">
+      <div class="col-12 col-md-4 text-center">
         <q-btn color="primary" outline label="Digitialización" no-caps size="12px" icon="mdi-scanner"/>
       </div>
       <div class="col-12">
         <div class="text-primary text-bold">Adjuntar Memorial - Otros Documentos</div>
       </div>
-      <div class="col-6">
+      <div class="col-12 col-md-6">
         <q-card flat bordered>
           <q-card-section class="row">
             <q-btn color="primary" outline no-caps class="col-6">
@@ -42,7 +42,7 @@ const descripcion = ref('')
           </q-card-section>
         </q-card>
       </div>
-      <div class="col-6">
+      <div class="col-12 col-md-6">
         <q-card class="full-height" flat bordered>
           <q-card-section>
             <div class="row">
