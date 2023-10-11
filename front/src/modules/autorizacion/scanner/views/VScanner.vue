@@ -2,6 +2,11 @@
 import {ref} from "vue";
 
 const descripcion = ref('')
+const dialog = ref(false)
+const qrUbicacion = ref(1)
+function imprimir () {
+  window.print()
+}
 </script>
 <template>
   <div>
@@ -57,11 +62,48 @@ const descripcion = ref('')
       <div class="col-12">
         <q-card flat bordered>
           <q-card-section class="text-right">
-            <q-btn color="primary" outline label="Imprimir Borrador" icon="mdi-printer" no-caps class="col-12"/>
+            <q-btn color="primary" outline label="Imprimir Borrador" icon="mdi-printer" no-caps class="col-12" @click="dialog = true"/>
             <q-btn color="primary" outline label="Guardar y Sortear" icon="mdi-content-save" no-caps class="col-12"/>
           </q-card-section>
         </q-card>
       </div>
+      <q-dialog v-model="dialog" persistent>
+        <q-card>
+          <q-card-section>
+            <div class="text-bold">QR Generado para la recepción del memorial</div>
+          </q-card-section>
+          <q-card-section>
+            <div class="text-center">
+              <div class="row">
+                <div class="col-4">
+                  <q-img :src="qrUbicacion==1?`/qr.png`:`/qr-vacio.png`" style="width: 50px; height: 50px" @click="qrUbicacion = 1"/>
+                </div>
+                <div class="col-4">
+                  <q-img :src="qrUbicacion==2?`/qr.png`:`/qr-vacio.png`" style="width: 50px; height: 50px" @click="qrUbicacion = 2"/>
+                </div>
+                <div class="col-4">
+                  <q-img :src="qrUbicacion==3?`/qr.png`:`/qr-vacio.png`" style="width: 50px; height: 50px" @click="qrUbicacion = 3"/>
+                </div>
+                <div class="col-12" style="height: 350px">
+                </div>
+                <div class="col-4">
+                  <q-img :src="qrUbicacion==4?`/qr.png`:`/qr-vacio.png`" style="width: 50px; height: 50px" @click="qrUbicacion = 4"/>
+                </div>
+                <div class="col-4">
+                  <q-img :src="qrUbicacion==5?`/qr.png`:`/qr-vacio.png`" style="width: 50px; height: 50px" @click="qrUbicacion = 5"/>
+                </div>
+                <div class="col-4">
+                  <q-img :src="qrUbicacion==6?`/qr.png`:`/qr-vacio.png`" style="width: 50px; height: 50px" @click="qrUbicacion = 6"/>
+                </div>
+              </div>
+            </div>
+          </q-card-section>
+          <q-card-actions align="right">
+            <q-btn color="primary" no-caps flat label="Imprimir" @click="imprimir" icon="mdi-printer"/>
+            <q-btn color="primary" no-caps flat label="Cancelar" v-close-popup/>
+          </q-card-actions>
+        </q-card>
+      </q-dialog>
     </div>
   </div>
 </template>
