@@ -1,15 +1,23 @@
 <script setup lang="ts">
 import {ref} from "vue";
-
+import { Printd } from 'printd'
 const descripcion = ref('')
 const dialog = ref(false)
 const qrUbicacion = ref(1)
 function imprimir () {
-  window.print()
+  const d = new Printd()
+  d.print( document.getElementById('myElement'))
 }
 </script>
 <template>
   <div>
+    <div id="myElement" class="hidden">
+      <div>
+        <img src="/qr.png"
+             :style="`width: 100px; height: 100px; position: absolute;${ qrUbicacion == 1 ? 'top: 0; left: 0;' : ''}${ qrUbicacion == 2 ? 'top: 0; left: 50%; transform: translateX(-50%);' : ''}${ qrUbicacion == 3 ? 'top: 0; right: 0;' : ''}${ qrUbicacion == 4 ? 'top: 92%; left: 0; transform: translateY(-50%);' : ''}${ qrUbicacion == 5 ? 'top: 92%; left: 50%; transform: translate(-50%, -50%);' : ''}${ qrUbicacion == 6 ? 'top: 92%; right: 0; transform: translateY(-50%);' : ''}`"/>
+        Aca biene el contenido del memorial
+      </div>
+    </div>
     <div class="row">
       <div class="col-12 col-md-4 text-center">
         <q-btn color="primary" outline label="Datos generales" no-caps size="12px" icon="mdi-file-document-outline"/>
