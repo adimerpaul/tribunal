@@ -4,17 +4,32 @@ import { Printd } from 'printd'
 const descripcion = ref('')
 const dialog = ref(false)
 const qrUbicacion = ref(1)
+const qrImg = ref('')
+import QRCode from 'qrcode'
+
 function imprimir () {
   const d = new Printd()
-  d.print( document.getElementById('myElement'))
+  QRCode.toDataURL('I am a pony!', function (err, url) {
+    // console.log(url)
+    qrImg.value = url
+    setTimeout(() => {
+      d.print( document.getElementById('myElement'))
+    }, 250)
+  })
 }
 </script>
 <template>
   <div>
     <div id="myElement" class="hidden">
       <div>
-        <img src="/qr.png"
-             :style="`width: 100px; height: 100px; position: absolute;${ qrUbicacion == 1 ? 'top: 0; left: 0;' : ''}${ qrUbicacion == 2 ? 'top: 0; left: 50%; transform: translateX(-50%);' : ''}${ qrUbicacion == 3 ? 'top: 0; right: 0;' : ''}${ qrUbicacion == 4 ? 'top: 92%; left: 0; transform: translateY(-50%);' : ''}${ qrUbicacion == 5 ? 'top: 92%; left: 50%; transform: translate(-50%, -50%);' : ''}${ qrUbicacion == 6 ? 'top: 92%; right: 0; transform: translateY(-50%);' : ''}`"/>
+        <img :src="qrImg"
+             :style="`width: 100px; height: 100px; position: absolute;
+             ${ qrUbicacion == 1 ? 'top: 0; left: 0;' : ''}
+             ${ qrUbicacion == 2 ? 'top: 0; left: 50%; transform: translateX(-50%);' : ''}
+             ${ qrUbicacion == 3 ? 'top: 0; right: 0;' : ''}
+             ${ qrUbicacion == 4 ? 'top: 92%; left: 0; transform: translateY(-50%);' : ''}
+             ${ qrUbicacion == 5 ? 'top: 92%; left: 50%; transform: translate(-50%, -50%);' : ''}
+             ${ qrUbicacion == 6 ? 'top: 92%; right: 0; transform: translateY(-50%);' : ''}`"/>
         Aca biene el contenido del memorial
       </div>
     </div>
