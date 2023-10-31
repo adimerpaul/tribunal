@@ -13,6 +13,7 @@ function imprimir () {
     // console.log(url)
     qrImg.value = url
     setTimeout(() => {
+      dialog.value = false
       d.print( document.getElementById('myElement'))
     }, 250)
   })
