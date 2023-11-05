@@ -69,6 +69,13 @@ const router = createRouter({
           component: () => import('../modules/memorial/views/IndexMemorial.vue'),
           meta: { tituloPagina: 'Registrar nuevo memorial' }
         }
+        ,
+        {
+          path: '/audiencia',
+          name: '/audiencia',
+          component: () => import('../modules/audiencia/views/IndexAudiencia.vue'),
+          meta: { tituloPagina: 'Audiencia 12345' }
+        }
       ]
     },
     {
