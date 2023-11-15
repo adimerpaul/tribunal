@@ -76,6 +76,13 @@ const router = createRouter({
           component: () => import('../modules/audiencia/views/IndexAudiencia.vue'),
           meta: { tituloPagina: 'Audiencia 12345' }
         }
+        ,
+        {
+          path: '/formulario',
+          name: '/formulario',
+          component: () => import('../modules/formulario/views/IndexFormulario.vue'),
+          meta: { tituloPagina: 'Formulario' }
+        }
       ]
     },
     {
