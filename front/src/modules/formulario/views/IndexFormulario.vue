@@ -1,9 +1,11 @@
 <script setup lang="ts">
 import {ref} from "vue";
 // import moment from "moment";
-//
+import { useQuasar } from 'quasar';
 const descripcion = ref('Juzgano Publico Civil y comercial')
 const editor= ref('What you see is <b>what</b> you get.')
+const $q = useQuasar();
+
 // const memorial = ref('Memorial de Apersonamiento')
 // const numeroHojas = ref(5)
 // const informe = ref('Informe de Apersonamiento')
@@ -15,6 +17,18 @@ const editor= ref('What you see is <b>what</b> you get.')
 //   lastName: 'Perez',
 //   secondLastName: 'Gutierrez',
 // })
+const show = (dato) => {
+  // Aquí puedes implementar la lógica para mostrar los detalles del dato con el ID proporcionado
+  // const datoSeleccionado = datos.value.find(dato => dato.id === id);
+  if (dato) {
+    $q.dialog({
+      title: 'Detalles del dato',
+      message: JSON.stringify(dato, null, 2),
+      persistent: true,
+      ok: 'Cerrar'
+    });
+  }
+}
 const datos = ref([
   { id:1, fecha: '2021-09-01', horaInicio: '08:00', horaFin: '09:00', tipoAudiencia: 'Audiencia de medidas cautelares', modalidad: 'Presencial', lugar: 'Juzgado 1ro de Instruccion en lo Penal', codigoUnico: '1234567', denunciante: 'Juan Carlos Perez Gutierrez', denunciado: 'Maria del Carmen Perez Gutierrez', delitos: 'Robo agravado', estado: 'Pendiente', acciones: 'Ver' },
   { id:2, fecha: '2021-09-01', horaInicio: '08:00', horaFin: '09:00', tipoAudiencia: 'Audiencia de medidas cautelares', modalidad: 'Presencial', lugar: 'Juzgado 1ro de Instruccion en lo Penal', codigoUnico: '1234567', denunciante: 'Juan Carlos Perez Gutierrez', denunciado: 'Maria del Carmen Perez Gutierrez', delitos: 'Robo agravado', estado: 'Pendiente', acciones: 'Ver' },
@@ -46,22 +60,22 @@ const datos = ref([
             </tr>
             </thead>
             <tbody>
-            <tr v-for="(sujeto, index) in datos" :key="sujeto.id">
-              <td>{{index + 1}}</td>
-              <td>{{sujeto.fecha}}</td>
-              <td>{{sujeto.horaInicio}}</td>
-              <td>{{sujeto.horaFin}}</td>
-              <td>{{sujeto.tipoAudiencia}}</td>
-              <td>{{sujeto.modalidad}}</td>
-<!--              <td>{{sujeto.lugar}}</td>-->
-              <td>{{sujeto.codigoUnico}}</td>
-              <td>{{sujeto.denunciante}}</td>
-              <td>{{sujeto.denunciado}}</td>
-              <td>{{sujeto.delitos}}</td>
-              <td>{{sujeto.estado}}</td>
+            <tr v-for="(dato, index) in datos" :key="index">
+<!--              <td>{{index + 1}}</td>-->
+              <td>{{dato.fecha}}</td>
+              <td>{{dato.horaInicio}}</td>
+              <td>{{dato.horaFin}}</td>
+              <td>{{dato.tipoAudiencia}}</td>
+              <td>{{dato.modalidad}}</td>
+              <td>{{dato.lugar}}</td>
+              <td>{{dato.codigoUnico}}</td>
+              <td>{{dato.denunciante}}</td>
+              <td>{{dato.denunciado}}</td>
+              <td>{{dato.delitos}}</td>
+              <td>{{dato.estado}}</td>
               <td>
                 <q-btn-group>
-                  <q-btn color="primary" icon="mdi-eye" flat dense round />
+                  <q-btn color="primary" icon="mdi-eye" flat dense round @click="show(dato)"/>
                   <q-btn color="grey" icon="mdi-camera" flat dense round />
                   <q-btn color="blue-9" icon="mdi-calendar" flat dense round />
                   <q-btn color="green-9" icon="mdi-history" flat dense round />
